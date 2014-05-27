@@ -17,7 +17,7 @@
         {
           "key": "_highPriority",
           "source": "High Priority",
-          "target": ""
+          "target": "Sehr Wichtig"
         },
         {
           "key": "_incidentDefaultPublic",
