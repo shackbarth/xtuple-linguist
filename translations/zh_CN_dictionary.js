@@ -6,4833 +6,3867 @@
       "strings": [
         {
           "key": "_abbreviation",
-          "source": "Abbreviation",
-          "target": ""
+          "source": "Abbreviation"
         },
         {
           "key": "_abbreviationLong",
-          "source": "Abbreviation Long",
-          "target": ""
+          "source": "Abbreviation Long"
         },
         {
           "key": "_abbreviationShort",
-          "source": "Abbreviation Short",
-          "target": ""
+          "source": "Abbreviation Short"
         },
         {
           "key": "_above",
-          "source": "Above",
-          "target": ""
+          "source": "Above"
         },
         {
           "key": "_account",
-          "source": "Account",
-          "target": ""
+          "source": "Account"
         },
         {
           "key": "_accountExists",
-          "source": "This number is currently assigned to an Account.",
-          "target": ""
-        },
-        {
-          "key": "_accountNumber",
-          "source": "Account Number",
-          "target": ""
-        },
-        {
-          "key": "_accountNumberGeneration",
-          "source": "Account Number Generation",
-          "target": ""
-        },
-        {
-          "key": "_accountType",
-          "source": "Account Type",
-          "target": ""
+          "source": "This number is currently assigned to an Account."
         },
         {
           "key": "_accounting",
-          "source": "Accounting",
-          "target": ""
+          "source": "Accounting"
+        },
+        {
+          "key": "_accountNumber",
+          "source": "Account Number"
+        },
+        {
+          "key": "_accountNumberGeneration",
+          "source": "Account Number Generation"
         },
         {
           "key": "_accounts",
-          "source": "Accounts",
-          "target": ""
+          "source": "Accounts"
+        },
+        {
+          "key": "_accountType",
+          "source": "Account Type"
         },
         {
           "key": "_active",
-          "source": "Active",
-          "target": ""
+          "source": "Active"
         },
         {
           "key": "_activities",
-          "source": "Activities",
-          "target": ""
+          "source": "Activities"
         },
         {
           "key": "_actual",
-          "source": "Actual",
-          "target": ""
+          "source": "Actual"
         },
         {
           "key": "_actualClose",
-          "source": "Actual Close",
-          "target": ""
+          "source": "Actual Close"
         },
         {
           "key": "_actualDate",
-          "source": "Actual Date",
-          "target": ""
+          "source": "Actual Date"
         },
         {
           "key": "_actualExpenses",
-          "source": "Actual Expenses",
-          "target": ""
+          "source": "Actual Expenses"
         },
         {
           "key": "_actualExpensesTotal",
-          "source": "Total Expenses Actual",
-          "target": ""
+          "source": "Total Expenses Actual"
         },
         {
           "key": "_actualHours",
-          "source": "Actual Hours",
-          "target": ""
+          "source": "Actual Hours"
         },
         {
           "key": "_actualHoursTotal",
-          "source": "Total Hours Actual",
-          "target": ""
+          "source": "Total Hours Actual"
         },
         {
           "key": "_additional",
-          "source": "Additional",
-          "target": ""
+          "source": "Additional"
         },
         {
           "key": "_address",
-          "source": "Address",
-          "target": ""
+          "source": "Address"
         },
         {
           "key": "_address1",
-          "source": "Address1",
-          "target": ""
+          "source": "Address1"
         },
         {
           "key": "_address2",
-          "source": "Address2",
-          "target": ""
+          "source": "Address2"
         },
         {
           "key": "_address3",
-          "source": "Address3",
-          "target": ""
+          "source": "Address3"
         },
         {
           "key": "_addressCharacteristic",
-          "source": "Address Characteristic",
-          "target": ""
+          "source": "Address Characteristic"
         },
         {
           "key": "_addressComment",
-          "source": "Address Comment",
-          "target": ""
+          "source": "Address Comment"
         },
         {
           "key": "_addresses",
-          "source": "Addresses",
-          "target": ""
+          "source": "Addresses"
         },
         {
           "key": "_advanced",
-          "source": "Advanced",
-          "target": ""
+          "source": "Advanced"
         },
         {
           "key": "_agent",
-          "source": "Agent",
-          "target": ""
+          "source": "Agent"
         },
         {
           "key": "_alarms",
-          "source": "Alarms",
-          "target": ""
+          "source": "Alarms"
         },
         {
           "key": "_alias",
-          "source": "Alias",
-          "target": ""
+          "source": "Alias"
         },
         {
           "key": "_aliases",
-          "source": "Aliases",
-          "target": ""
+          "source": "Aliases"
         },
         {
           "key": "_all",
-          "source": "All",
-          "target": ""
+          "source": "All"
         },
         {
           "key": "_allAccounts",
-          "source": "All Accounts",
-          "target": ""
+          "source": "All Accounts"
         },
         {
           "key": "_allocate",
-          "source": "Allocate",
-          "target": ""
+          "source": "Allocate"
         },
         {
           "key": "_allocatedCredit",
-          "source": "Allocated Credit",
-          "target": ""
+          "source": "Allocated Credit"
         },
         {
           "key": "_allowableItems",
-          "source": "Allowable Items",
-          "target": ""
+          "source": "Allowable Items"
         },
         {
           "key": "_altEmphasisColor",
-          "source": "Alt Emphasis Color",
-          "target": ""
-        },
-        {
-          "key": "_alterPackDate",
-          "source": "Alter Pack Date",
-          "target": ""
-        },
-        {
-          "key": "_alterTransactionDates",
-          "source": "Alter Transartion Dates",
-          "target": ""
+          "source": "Alt Emphasis Color"
         },
         {
           "key": "_alternate",
-          "source": "Alternate",
-          "target": ""
+          "source": "Alternate"
         },
         {
           "key": "_alternateAddresses",
-          "source": "Alternate Addresses",
-          "target": ""
+          "source": "Alternate Addresses"
+        },
+        {
+          "key": "_alterPackDate",
+          "source": "Alter Pack Date"
+        },
+        {
+          "key": "_alterTransactionDates",
+          "source": "Alter Transartion Dates"
         },
         {
           "key": "_amEx",
-          "source": "AmEx",
-          "target": ""
+          "source": "AmEx"
         },
         {
           "key": "_amount",
-          "source": "Amount",
-          "target": ""
+          "source": "Amount"
         },
         {
           "key": "_analysis",
-          "source": "Analysis",
-          "target": ""
+          "source": "Analysis"
         },
         {
           "key": "_and",
-          "source": "and",
-          "target": ""
+          "source": "and"
         },
         {
           "key": "_annualy",
-          "source": "Annually",
-          "target": ""
+          "source": "Annually"
         },
         {
           "key": "_array",
-          "source": "Array",
-          "target": ""
+          "source": "Array"
         },
         {
           "key": "_ascending",
-          "source": "Ascending",
-          "target": ""
+          "source": "Ascending"
         },
         {
           "key": "_asset",
-          "source": "Asset",
-          "target": ""
+          "source": "Asset"
         },
         {
           "key": "_assignDate",
-          "source": "Assign Date",
-          "target": ""
-        },
-        {
-          "key": "_assignTo",
-          "source": "Assign To",
-          "target": ""
+          "source": "Assign Date"
         },
         {
           "key": "_assigned",
-          "source": "Assigned",
-          "target": ""
+          "source": "Assigned"
         },
         {
           "key": "_assignedTo",
-          "source": "Assigned To",
-          "target": ""
+          "source": "Assigned To"
+        },
+        {
+          "key": "_assignTo",
+          "source": "Assign To"
         },
         {
           "key": "_attach",
-          "source": "Attach",
-          "target": ""
+          "source": "Attach"
         },
         {
           "key": "_attention",
-          "source": "Attention",
-          "target": ""
+          "source": "Attention"
         },
         {
           "key": "_authorize",
-          "source": "Authorize",
-          "target": ""
+          "source": "Authorize"
         },
         {
           "key": "_automatic",
-          "source": "Automatic",
-          "target": ""
+          "source": "Automatic"
         },
         {
           "key": "_automaticFreight",
-          "source": "Manually clearing the freight will enable automatic Freight recalculations.",
-          "target": ""
+          "source": "Manually clearing the freight will enable automatic Freight recalculations."
         },
         {
           "key": "_automaticOverride",
-          "source": "Override Allowed",
-          "target": ""
+          "source": "Override Allowed"
         },
         {
           "key": "_averageCost",
-          "source": "Average Cost",
-          "target": ""
+          "source": "Average Cost"
         },
         {
           "key": "_backorder",
-          "source": "Accepts Backorders",
-          "target": ""
+          "source": "Accepts Backorders"
         },
         {
           "key": "_balance",
-          "source": "Balance",
-          "target": ""
+          "source": "Balance"
         },
         {
           "key": "_balanceExpenses",
-          "source": "Balance Expenses",
-          "target": ""
+          "source": "Balance Expenses"
         },
         {
           "key": "_balanceExpensesTotal",
-          "source": "Balance Expenses Total",
-          "target": ""
+          "source": "Balance Expenses Total"
         },
         {
           "key": "_balanceForward",
-          "source": "Balance Forward",
-          "target": ""
+          "source": "Balance Forward"
         },
         {
           "key": "_balanceHours",
-          "source": "Balance Hours",
-          "target": ""
+          "source": "Balance Hours"
         },
         {
           "key": "_balanceHoursTotal",
-          "source": "Balance Hours Total",
-          "target": ""
+          "source": "Balance Hours Total"
         },
         {
           "key": "_balanceMethod",
-          "source": "Balance Method",
-          "target": ""
+          "source": "Balance Method"
         },
         {
           "key": "_bankAccount",
-          "source": "Bank Account",
-          "target": ""
-        },
-        {
-          "key": "_bankAccountType",
-          "source": "Account Type",
-          "target": ""
+          "source": "Bank Account"
         },
         {
           "key": "_bankAccounts",
-          "source": "Bank Accounts",
-          "target": ""
+          "source": "Bank Accounts"
+        },
+        {
+          "key": "_bankAccountType",
+          "source": "Account Type"
         },
         {
           "key": "_bankName",
-          "source": "Bank Name",
-          "target": ""
+          "source": "Bank Name"
         },
         {
           "key": "_barcode",
-          "source": "Barcode",
-          "target": ""
+          "source": "Barcode"
         },
         {
           "key": "_baseCurrencyMustBeSet",
-          "source": "You must first set a base currency",
-          "target": ""
+          "source": "You must first set a base currency"
         },
         {
           "key": "_basis",
-          "source": "Basis",
-          "target": ""
+          "source": "Basis"
         },
         {
           "key": "_bcc",
-          "source": "Bcc",
-          "target": ""
-        },
-        {
-          "key": "_biWeekly",
-          "source": "Bi-Weekly",
-          "target": ""
-        },
-        {
-          "key": "_billTo",
-          "source": "Bill To",
-          "target": ""
+          "source": "Bcc"
         },
         {
           "key": "_billed",
-          "source": "Billed",
-          "target": ""
+          "source": "Billed"
         },
         {
           "key": "_billingContact",
-          "source": "Billing Contact",
-          "target": ""
+          "source": "Billing Contact"
         },
         {
           "key": "_billingRate",
-          "source": "Billing Rate",
-          "target": ""
+          "source": "Billing Rate"
+        },
+        {
+          "key": "_billTo",
+          "source": "Bill To"
         },
         {
           "key": "_billtoAddress1",
-          "source": "Bill To Address",
-          "target": ""
+          "source": "Bill To Address"
         },
         {
           "key": "_billtoName",
-          "source": "Bill To Name",
-          "target": ""
+          "source": "Bill To Name"
+        },
+        {
+          "key": "_biWeekly",
+          "source": "Bi-Weekly"
         },
         {
           "key": "_blanketPurchaseOrders",
-          "source": "Uses Blanket Purchase Orders",
-          "target": ""
+          "source": "Uses Blanket Purchase Orders"
         },
         {
           "key": "_body",
-          "source": "Body",
-          "target": ""
+          "source": "Body"
         },
         {
           "key": "_boolean",
-          "source": "Boolean",
-          "target": ""
+          "source": "Boolean"
         },
         {
           "key": "_breeder",
-          "source": "Breeder",
-          "target": ""
+          "source": "Breeder"
         },
         {
           "key": "_budgeted",
-          "source": "Budgeted",
-          "target": ""
+          "source": "Budgeted"
         },
         {
           "key": "_budgetedExpenses",
-          "source": "Budgeted Expenses",
-          "target": ""
+          "source": "Budgeted Expenses"
         },
         {
           "key": "_budgetedExpensesTotal",
-          "source": "Total Expenses Budgeted",
-          "target": ""
+          "source": "Total Expenses Budgeted"
         },
         {
           "key": "_budgetedHours",
-          "source": "Budgeted Hours",
-          "target": ""
+          "source": "Budgeted Hours"
         },
         {
           "key": "_budgetedHoursTotal",
-          "source": "Total Hours Budgeted",
-          "target": ""
+          "source": "Total Hours Budgeted"
         },
         {
           "key": "_byProduct",
-          "source": "By Product",
-          "target": ""
-        },
-        {
-          "key": "_cRM",
-          "source": "CRM",
-          "target": ""
-        },
-        {
-          "key": "_canCreateUsers",
-          "source": "Can Create Users",
-          "target": ""
+          "source": "By Product"
         },
         {
           "key": "_cancelled",
-          "source": "Cancelled",
-          "target": ""
+          "source": "Cancelled"
+        },
+        {
+          "key": "_canCreateUsers",
+          "source": "Can Create Users"
         },
         {
           "key": "_cash",
-          "source": "Cash",
-          "target": ""
+          "source": "Cash"
         },
         {
           "key": "_category",
-          "source": "Category",
-          "target": ""
+          "source": "Category"
         },
         {
           "key": "_cc",
-          "source": "Cc",
-          "target": ""
+          "source": "Cc"
         },
         {
           "key": "_ccv",
-          "source": "CCV",
-          "target": ""
+          "source": "CCV"
         },
         {
           "key": "_changeAll?",
-          "source": "Would you like to update the address across them all?",
-          "target": ""
+          "source": "Would you like to update the address across them all?"
         },
         {
           "key": "_changeLog",
-          "source": "Change Log",
-          "target": ""
+          "source": "Change Log"
         },
         {
           "key": "_characteristic",
-          "source": "Characteristic",
-          "target": ""
+          "source": "Characteristic"
         },
         {
           "key": "_characteristicOption",
-          "source": "Characteristic Option",
-          "target": ""
+          "source": "Characteristic Option"
         },
         {
           "key": "_characteristicType",
-          "source": "Characteristic Type",
-          "target": ""
+          "source": "Characteristic Type"
         },
         {
           "key": "_checking",
-          "source": "Checking",
-          "target": ""
+          "source": "Checking"
         },
         {
           "key": "_class",
-          "source": "Class",
-          "target": ""
+          "source": "Class"
         },
         {
           "key": "_classCode",
-          "source": "Class Code",
-          "target": ""
+          "source": "Class Code"
         },
         {
           "key": "_classCodes",
-          "source": "Class Codes",
-          "target": ""
+          "source": "Class Codes"
         },
         {
           "key": "_close",
-          "source": "Close",
-          "target": ""
-        },
-        {
-          "key": "_closeDate",
-          "source": "Close Date",
-          "target": ""
-        },
-        {
-          "key": "_closeLine?",
-          "source": "Are you sure you want to close this line?",
-          "target": ""
+          "source": "Close"
         },
         {
           "key": "_closed",
-          "source": "Closed",
-          "target": ""
+          "source": "Closed"
         },
         {
-          "key": "_coProduct",
-          "source": "Co-Product",
-          "target": ""
+          "key": "_closeDate",
+          "source": "Close Date"
+        },
+        {
+          "key": "_closeLine?",
+          "source": "Are you sure you want to close this line?"
         },
         {
           "key": "_code",
-          "source": "Code",
-          "target": ""
-        },
-        {
-          "key": "_commentType",
-          "source": "Comment Type",
-          "target": ""
+          "source": "Code"
         },
         {
           "key": "_commentsEditable",
-          "source": "Comments Editable",
-          "target": ""
+          "source": "Comments Editable"
+        },
+        {
+          "key": "_commentType",
+          "source": "Comment Type"
         },
         {
           "key": "_commission",
-          "source": "Commission",
-          "target": ""
+          "source": "Commission"
         },
         {
           "key": "_company",
-          "source": "Company",
-          "target": ""
+          "source": "Company"
         },
         {
           "key": "_competitor",
-          "source": "Competitor",
-          "target": ""
+          "source": "Competitor"
         },
         {
           "key": "_complete",
-          "source": "Complete",
-          "target": ""
-        },
-        {
-          "key": "_completeDate",
-          "source": "Complete Date",
-          "target": ""
+          "source": "Complete"
         },
         {
           "key": "_completed",
-          "source": "Completed",
-          "target": ""
+          "source": "Completed"
+        },
+        {
+          "key": "_completeDate",
+          "source": "Complete Date"
         },
         {
           "key": "_completionActions",
-          "source": "Completion Actions",
-          "target": ""
+          "source": "Completion Actions"
         },
         {
           "key": "_concept",
-          "source": "Concept",
-          "target": ""
+          "source": "Concept"
         },
         {
           "key": "_configure",
-          "source": "Configure",
-          "target": ""
+          "source": "Configure"
         },
         {
           "key": "_configureCC",
-          "source": "Configure Credit Cards",
-          "target": ""
+          "source": "Configure Credit Cards"
         },
         {
           "key": "_configureCRM",
-          "source": "Configure CRM",
-          "target": ""
+          "source": "Configure CRM"
         },
         {
           "key": "_configureImportExport",
-          "source": "Configure Import Export",
-          "target": ""
+          "source": "Configure Import Export"
         },
         {
           "key": "_configurePM",
-          "source": "Configure Project",
-          "target": ""
+          "source": "Configure Project"
         },
         {
           "key": "_configureSO",
-          "source": "Configure Sales Orders",
-          "target": ""
+          "source": "Configure Sales Orders"
         },
         {
           "key": "_confirmed",
-          "source": "Confirmed",
-          "target": ""
+          "source": "Confirmed"
         },
         {
           "key": "_contact",
-          "source": "Contact",
-          "target": ""
+          "source": "Contact"
         },
         {
           "key": "_contactRelations",
-          "source": "Contacts",
-          "target": ""
+          "source": "Contacts"
         },
         {
           "key": "_contacts",
-          "source": "Contacts",
-          "target": ""
+          "source": "Contacts"
         },
         {
           "key": "_continue?",
-          "source": " Do you want to continue?",
-          "target": ""
+          "source": " Do you want to continue?"
         },
         {
           "key": "_convertAccount",
-          "source": "Convert this Account to a Customer?",
-          "target": ""
+          "source": "Convert this Account to a Customer?"
         },
         {
           "key": "_convertAccountEmployee",
-          "source": "Convert this Account to an Employee?",
-          "target": ""
+          "source": "Convert this Account to an Employee?"
         },
         {
           "key": "_convertAccountProspect",
-          "source": "Convert this Account to a Prospect?",
-          "target": ""
+          "source": "Convert this Account to a Prospect?"
         },
         {
           "key": "_convertAccountSalesRep",
-          "source": "Convert this Account to a SalesRep?",
-          "target": ""
+          "source": "Convert this Account to a SalesRep?"
         },
         {
           "key": "_convertAccountTaxAuthority",
-          "source": "Convert this Account to a Tax Authority?",
-          "target": ""
+          "source": "Convert this Account to a Tax Authority?"
         },
         {
           "key": "_convertProspect",
-          "source": "Convert this Prospect to a Customer?",
-          "target": ""
+          "source": "Convert this Prospect to a Customer?"
+        },
+        {
+          "key": "_coProduct",
+          "source": "Co-Product"
         },
         {
           "key": "_copyCharacteristics?",
-          "source": "Would you like to over-write the existing characteristics with the profile for this selection?",
-          "target": ""
+          "source": "Would you like to over-write the existing characteristics with the profile for this selection?"
         },
         {
           "key": "_copyToShipTo",
-          "source": "Ship To",
-          "target": ""
+          "source": "Ship To"
         },
         {
           "key": "_copyWorkflow?",
-          "source": "Would you like to over-write the existing workflow with the profile for this selection?",
-          "target": ""
+          "source": "Would you like to over-write the existing workflow with the profile for this selection?"
         },
         {
           "key": "_correspondenceContact",
-          "source": "Correspondence Contact",
-          "target": ""
+          "source": "Correspondence Contact"
         },
         {
           "key": "_costCategories",
-          "source": "Cost Categories",
-          "target": ""
+          "source": "Cost Categories"
         },
         {
           "key": "_costCategory",
-          "source": "Cost Category",
-          "target": ""
-        },
-        {
-          "key": "_costMethod",
-          "source": "Cost Method",
-          "target": ""
+          "source": "Cost Category"
         },
         {
           "key": "_costing",
-          "source": "Costing",
-          "target": ""
+          "source": "Costing"
+        },
+        {
+          "key": "_costMethod",
+          "source": "Cost Method"
         },
         {
           "key": "_costs",
-          "source": "Costs",
-          "target": ""
+          "source": "Costs"
         },
         {
           "key": "_countries",
-          "source": "Countries",
-          "target": ""
+          "source": "Countries"
         },
         {
           "key": "_county",
-          "source": "County",
-          "target": ""
+          "source": "County"
         },
         {
           "key": "_createAdjustmentTrans",
-          "source": "Create Adjustment Transactions",
-          "target": ""
+          "source": "Create Adjustment Transactions"
         },
         {
           "key": "_createBaseCurr",
-          "source": "Create new Base Currency",
-          "target": ""
-        },
-        {
-          "key": "_createExpenseTrans",
-          "source": "Create Expense Transactions",
-          "target": ""
-        },
-        {
-          "key": "_createNewCurrency",
-          "source": "Create New Currency",
-          "target": ""
-        },
-        {
-          "key": "_createReceiptTrans",
-          "source": "Create Receipt Transactions",
-          "target": ""
-        },
-        {
-          "key": "_createSOForHoldCustomer",
-          "source": "Create for Customers on Hold",
-          "target": ""
-        },
-        {
-          "key": "_createSOForWarnCustomer",
-          "source": "Create for Customers on Warn",
-          "target": ""
-        },
-        {
-          "key": "_createScrapTrans",
-          "source": "Create Scrap Transactions",
-          "target": ""
+          "source": "Create new Base Currency"
         },
         {
           "key": "_created",
-          "source": "Created",
-          "target": ""
+          "source": "Created"
         },
         {
           "key": "_createdBy",
-          "source": "Created By",
-          "target": ""
+          "source": "Created By"
+        },
+        {
+          "key": "_createExpenseTrans",
+          "source": "Create Expense Transactions"
+        },
+        {
+          "key": "_createNewCurrency",
+          "source": "Create New Currency"
+        },
+        {
+          "key": "_createReceiptTrans",
+          "source": "Create Receipt Transactions"
+        },
+        {
+          "key": "_createScrapTrans",
+          "source": "Create Scrap Transactions"
+        },
+        {
+          "key": "_createSOForHoldCustomer",
+          "source": "Create for Customers on Hold"
+        },
+        {
+          "key": "_createSOForWarnCustomer",
+          "source": "Create for Customers on Warn"
         },
         {
           "key": "_credit",
-          "source": "Credit",
-          "target": ""
+          "source": "Credit"
         },
         {
           "key": "_creditCard",
-          "source": "Credit Card",
-          "target": ""
+          "source": "Credit Card"
         },
         {
           "key": "_creditCards",
-          "source": "Credit Cards",
-          "target": ""
+          "source": "Credit Cards"
         },
         {
           "key": "_creditCheck",
-          "source": "Credit Check",
-          "target": ""
-        },
-        {
-          "key": "_creditHold",
-          "source": "This customer is on credit hold.",
-          "target": ""
-        },
-        {
-          "key": "_creditHolding",
-          "source": "On Credit Holding",
-          "target": ""
-        },
-        {
-          "key": "_creditLimit",
-          "source": "Credit Limit",
-          "target": ""
-        },
-        {
-          "key": "_creditMemo",
-          "source": "Credit Memo",
-          "target": ""
-        },
-        {
-          "key": "_creditRating",
-          "source": "Credit Rating",
-          "target": ""
-        },
-        {
-          "key": "_creditStatus",
-          "source": "Credit Status",
-          "target": ""
-        },
-        {
-          "key": "_creditWarn",
-          "source": "This customer is on credit warn.",
-          "target": ""
-        },
-        {
-          "key": "_creditWarning",
-          "source": "On Credit Warning",
-          "target": ""
+          "source": "Credit Check"
         },
         {
           "key": "_credited",
-          "source": "Credited",
-          "target": ""
+          "source": "Credited"
+        },
+        {
+          "key": "_creditHold",
+          "source": "This customer is on credit hold."
+        },
+        {
+          "key": "_creditHolding",
+          "source": "On Credit Holding"
+        },
+        {
+          "key": "_creditLimit",
+          "source": "Credit Limit"
+        },
+        {
+          "key": "_creditMemo",
+          "source": "Credit Memo"
+        },
+        {
+          "key": "_creditRating",
+          "source": "Credit Rating"
+        },
+        {
+          "key": "_creditStatus",
+          "source": "Credit Status"
+        },
+        {
+          "key": "_creditWarn",
+          "source": "This customer is on credit warn."
+        },
+        {
+          "key": "_creditWarning",
+          "source": "On Credit Warning"
         },
         {
           "key": "_crm",
-          "source": "CRM",
-          "target": ""
+          "source": "CRM"
+        },
+        {
+          "key": "_cRM",
+          "source": "CRM"
         },
         {
           "key": "_currencies",
-          "source": "Currencies",
-          "target": ""
+          "source": "Currencies"
         },
         {
           "key": "_currency",
-          "source": "Currency",
-          "target": ""
+          "source": "Currency"
         },
         {
           "key": "_currencyAbbreviation",
-          "source": "Currency Abbreviation",
-          "target": ""
+          "source": "Currency Abbreviation"
         },
         {
           "key": "_currencyName",
-          "source": "Currency Name",
-          "target": ""
+          "source": "Currency Name"
         },
         {
           "key": "_currencyNumber",
-          "source": "Currency Number",
-          "target": ""
+          "source": "Currency Number"
         },
         {
           "key": "_currencySymbol",
-          "source": "Currency Symbol",
-          "target": ""
-        },
-        {
-          "key": "_custPO",
-          "source": "Customer PO",
-          "target": ""
-        },
-        {
-          "key": "_custPrice",
-          "source": "Cust. Price",
-          "target": ""
+          "source": "Currency Symbol"
         },
         {
           "key": "_customer",
-          "source": "Customer",
-          "target": ""
+          "source": "Customer"
         },
         {
           "key": "_customerEmailProfile",
-          "source": "Customer Email Profile",
-          "target": ""
+          "source": "Customer Email Profile"
         },
         {
           "key": "_customerEmailProfiles",
-          "source": "Customer Email",
-          "target": ""
+          "source": "Customer Email"
         },
         {
           "key": "_customerExists",
-          "source": "A customer with this number already exists.",
-          "target": ""
+          "source": "A customer with this number already exists."
         },
         {
           "key": "_customerGroup",
-          "source": "Customer Groups",
-          "target": ""
+          "source": "Customer Groups"
         },
         {
           "key": "_customerNumber",
-          "source": "Customer #",
-          "target": ""
+          "source": "Customer #"
         },
         {
           "key": "_customerOrProspect",
-          "source": "Would you like to create a new Customer or a new Prospect?",
-          "target": ""
+          "source": "Would you like to create a new Customer or a new Prospect?"
         },
         {
           "key": "_customerPartNumber",
-          "source": "Customer Part #",
-          "target": ""
+          "source": "Customer Part #"
         },
         {
           "key": "_customerPrice",
-          "source": "Customer Price",
-          "target": ""
+          "source": "Customer Price"
         },
         {
           "key": "_customerProspect",
-          "source": "Customer / Prospect",
-          "target": ""
-        },
-        {
-          "key": "_customerType",
-          "source": "Customer Type",
-          "target": ""
-        },
-        {
-          "key": "_customerTypePattern",
-          "source": "Customer Type (Pattern)",
-          "target": ""
-        },
-        {
-          "key": "_customerTypes",
-          "source": "Customer Types",
-          "target": ""
+          "source": "Customer / Prospect"
         },
         {
           "key": "_customers",
-          "source": "Customers",
-          "target": ""
+          "source": "Customers"
+        },
+        {
+          "key": "_customerType",
+          "source": "Customer Type"
+        },
+        {
+          "key": "_customerTypePattern",
+          "source": "Customer Type (Pattern)"
+        },
+        {
+          "key": "_customerTypes",
+          "source": "Customer Types"
+        },
+        {
+          "key": "_custPO",
+          "source": "Customer PO"
+        },
+        {
+          "key": "_custPrice",
+          "source": "Cust. Price"
         },
         {
           "key": "_daily",
-          "source": "Daily",
-          "target": ""
+          "source": "Daily"
         },
         {
           "key": "_data",
-          "source": "Data",
-          "target": ""
-        },
-        {
-          "key": "_dataState",
-          "source": "Data State",
-          "target": ""
+          "source": "Data"
         },
         {
           "key": "_database",
-          "source": "Database",
-          "target": ""
+          "source": "Database"
         },
         {
           "key": "_databaseInformation",
-          "source": "Database Information",
-          "target": ""
+          "source": "Database Information"
+        },
+        {
+          "key": "_dataState",
+          "source": "Data State"
         },
         {
           "key": "_date",
-          "source": "Date",
-          "target": ""
+          "source": "Date"
         },
         {
           "key": "_dateRange",
-          "source": "Date Range",
-          "target": ""
+          "source": "Date Range"
         },
         {
           "key": "_days",
-          "source": "Days",
-          "target": ""
+          "source": "Days"
         },
         {
           "key": "_deactivate",
-          "source": "Deactivate",
-          "target": ""
+          "source": "Deactivate"
         },
         {
           "key": "_debitMemo",
-          "source": "Debit Memo",
-          "target": ""
+          "source": "Debit Memo"
         },
         {
           "key": "_default",
-          "source": "Default",
-          "target": ""
+          "source": "Default"
         },
         {
           "key": "_defaultHoldType",
-          "source": "Default Hold Type",
-          "target": ""
-        },
-        {
-          "key": "_defaultTaxZone",
-          "source": "Default Tax Zone",
-          "target": ""
+          "source": "Default Hold Type"
         },
         {
           "key": "_defaults",
-          "source": "Defaults",
-          "target": ""
+          "source": "Defaults"
+        },
+        {
+          "key": "_defaultTaxZone",
+          "source": "Default Tax Zone"
         },
         {
           "key": "_deferred",
-          "source": "Deferred",
-          "target": ""
+          "source": "Deferred"
         },
         {
           "key": "_deferredActions",
-          "source": "Deferred Actions",
-          "target": ""
+          "source": "Deferred Actions"
         },
         {
           "key": "_deleteCountSlips",
-          "source": "Delete Count Slips",
-          "target": ""
+          "source": "Delete Count Slips"
         },
         {
           "key": "_deleteCountTags",
-          "source": "Delete Count Tags",
-          "target": ""
+          "source": "Delete Count Tags"
         },
         {
           "key": "_deleteItemMasters",
-          "source": "Delete Item Masters",
-          "target": ""
+          "source": "Delete Item Masters"
         },
         {
           "key": "_deleteItemSites",
-          "source": "Delete Item Sites",
-          "target": ""
+          "source": "Delete Item Sites"
         },
         {
           "key": "_deleteLine?",
-          "source": "Are you sure you want to delete this line?",
-          "target": ""
+          "source": "Are you sure you want to delete this line?"
         },
         {
           "key": "_delivery",
-          "source": "Delivery",
-          "target": ""
+          "source": "Delivery"
         },
         {
           "key": "_department",
-          "source": "Department",
-          "target": ""
+          "source": "Department"
         },
         {
           "key": "_departments",
-          "source": "Departments",
-          "target": ""
+          "source": "Departments"
         },
         {
           "key": "_dependencies",
-          "source": "Dependencies",
-          "target": ""
+          "source": "Dependencies"
         },
         {
           "key": "_descending",
-          "source": "Descending",
-          "target": ""
+          "source": "Descending"
         },
         {
           "key": "_description",
-          "source": "Description",
-          "target": ""
+          "source": "Description"
         },
         {
           "key": "_description1",
-          "source": "Description1",
-          "target": ""
+          "source": "Description1"
         },
         {
           "key": "_description2",
-          "source": "Description2",
-          "target": ""
+          "source": "Description2"
         },
         {
           "key": "_detach",
-          "source": "Detach",
-          "target": ""
+          "source": "Detach"
         },
         {
           "key": "_detail",
-          "source": "Detail",
-          "target": ""
+          "source": "Detail"
         },
         {
           "key": "_disableExport",
-          "source": "Disable Export and Print",
-          "target": ""
+          "source": "Disable Export and Print"
         },
         {
           "key": "_discount",
-          "source": "Discount",
-          "target": ""
+          "source": "Discount"
         },
         {
           "key": "_discountDate",
-          "source": "Discount Date",
-          "target": ""
+          "source": "Discount Date"
         },
         {
           "key": "_discountDay",
-          "source": "Discount Day",
-          "target": ""
+          "source": "Discount Day"
         },
         {
           "key": "_discountDays",
-          "source": "Discount Days",
-          "target": ""
+          "source": "Discount Days"
         },
         {
           "key": "_discover",
-          "source": "Discover",
-          "target": ""
+          "source": "Discover"
         },
         {
           "key": "_document",
-          "source": "Document",
-          "target": ""
+          "source": "Document"
         },
         {
           "key": "_documentChangedStatus",
-          "source": "The status of the following {document} has been changed to {status}",
-          "target": ""
+          "source": "The status of the following {document} has been changed to {status}"
         },
         {
           "key": "_documentCreated",
-          "source": "The following {document} has been CREATED",
-          "target": ""
+          "source": "The following {document} has been CREATED"
         },
         {
           "key": "_documentCreatedStatus",
-          "source": "The following {document} has been created with status {status}",
-          "target": ""
+          "source": "The following {document} has been created with status {status}"
         },
         {
           "key": "_documentDate",
-          "source": "Document Date",
-          "target": ""
+          "source": "Document Date"
         },
         {
           "key": "_documentNewComment",
-          "source": "A new COMMENT has been added to the following {document}",
-          "target": ""
+          "source": "A new COMMENT has been added to the following {document}"
         },
         {
           "key": "_documentNumber",
-          "source": "Document #",
-          "target": ""
+          "source": "Document #"
         },
         {
           "key": "_documentType",
-          "source": "Document Type",
-          "target": ""
+          "source": "Document Type"
         },
         {
           "key": "_documentUpdated",
-          "source": "The following {document} has been UPDATED",
-          "target": ""
+          "source": "The following {document} has been UPDATED"
         },
         {
           "key": "_due",
-          "source": "Due",
-          "target": ""
+          "source": "Due"
         },
         {
           "key": "_dueDate",
-          "source": "Due Date",
-          "target": ""
+          "source": "Due Date"
         },
         {
           "key": "_dueDay",
-          "source": "Due Day",
-          "target": ""
+          "source": "Due Day"
         },
         {
           "key": "_dueDays",
-          "source": "Due Days",
-          "target": ""
+          "source": "Due Days"
         },
         {
           "key": "_editOthersComments",
-          "source": "Edit Others Comments",
-          "target": ""
+          "source": "Edit Others Comments"
         },
         {
           "key": "_editOwnComments",
-          "source": "Edit Own Comments",
-          "target": ""
+          "source": "Edit Own Comments"
         },
         {
           "key": "_editOwner",
-          "source": "Edit Owner",
-          "target": ""
+          "source": "Edit Owner"
         },
         {
           "key": "_effective",
-          "source": "Effective",
-          "target": ""
+          "source": "Effective"
         },
         {
           "key": "_effectiveDate",
-          "source": "Effective Date",
-          "target": ""
+          "source": "Effective Date"
         },
         {
           "key": "_email",
-          "source": "Email",
-          "target": ""
+          "source": "Email"
         },
         {
           "key": "_emailAddresses",
-          "source": "Email Addresses",
-          "target": ""
+          "source": "Email Addresses"
         },
         {
           "key": "_emailProfile",
-          "source": "Email Profile",
-          "target": ""
+          "source": "Email Profile"
         },
         {
           "key": "_emphasisColor",
-          "source": "Emphasis Color",
-          "target": ""
+          "source": "Emphasis Color"
         },
         {
           "key": "_employee",
-          "source": "Employee",
-          "target": ""
+          "source": "Employee"
         },
         {
           "key": "_employeeGroup",
-          "source": "Employee Group",
-          "target": ""
+          "source": "Employee Group"
         },
         {
           "key": "_employeeGroups",
-          "source": "Employee Groups",
-          "target": ""
+          "source": "Employee Groups"
         },
         {
           "key": "_employees",
-          "source": "Employees",
-          "target": ""
+          "source": "Employees"
         },
         {
           "key": "_end",
-          "source": "End",
-          "target": ""
+          "source": "End"
         },
         {
           "key": "_endBalance",
-          "source": "End Balance",
-          "target": ""
+          "source": "End Balance"
         },
         {
           "key": "_endDate",
-          "source": "End Date",
-          "target": ""
+          "source": "End Date"
         },
         {
           "key": "_ending",
-          "source": "Ending",
-          "target": ""
+          "source": "Ending"
         },
         {
           "key": "_endingLabel",
-          "source": "Ending Label",
-          "target": ""
+          "source": "Ending Label"
         },
         {
           "key": "_enterCountSlips",
-          "source": "Enter Count Slips",
-          "target": ""
+          "source": "Enter Count Slips"
         },
         {
           "key": "_enterCountTags",
-          "source": "Enter Count Tags",
-          "target": ""
+          "source": "Enter Count Tags"
         },
         {
           "key": "_enterMiscCounts",
-          "source": "Enter Miscellaneous Counts",
-          "target": ""
+          "source": "Enter Miscellaneous Counts"
         },
         {
           "key": "_enterNew",
-          "source": "Enter New",
-          "target": ""
+          "source": "Enter New"
         },
         {
           "key": "_enterReceipts",
-          "source": "Enter Receipts",
-          "target": ""
+          "source": "Enter Receipts"
         },
         {
           "key": "_enterReturns",
-          "source": "Enter Returns",
-          "target": ""
+          "source": "Enter Returns"
         },
         {
           "key": "_enterShippingInformation",
-          "source": "Enter Shipping Information",
-          "target": ""
+          "source": "Enter Shipping Information"
         },
         {
           "key": "_equals",
-          "source": "Equals",
-          "target": ""
+          "source": "Equals"
         },
         {
           "key": "_equity",
-          "source": "Equity",
-          "target": ""
+          "source": "Equity"
         },
         {
           "key": "_error",
-          "source": "Error",
-          "target": ""
+          "source": "Error"
         },
         {
           "key": "_errorColor",
-          "source": "Error Color",
-          "target": ""
+          "source": "Error Color"
         },
         {
           "key": "_eventRecipient",
-          "source": "Event Recipient",
-          "target": ""
+          "source": "Event Recipient"
         },
         {
           "key": "_excludeProspects",
-          "source": "Exclude Prospects",
-          "target": ""
+          "source": "Exclude Prospects"
         },
         {
           "key": "_exitPageWarning",
-          "source": "You are about to leave the xTuple application.",
-          "target": ""
+          "source": "You are about to leave the xTuple application."
         },
         {
           "key": "_expense",
-          "source": "Expense",
-          "target": ""
+          "source": "Expense"
         },
         {
           "key": "_expenseCategories",
-          "source": "Expense Categories",
-          "target": ""
+          "source": "Expense Categories"
         },
         {
           "key": "_expenseCategory",
-          "source": "Expense Category",
-          "target": ""
+          "source": "Expense Category"
         },
         {
           "key": "_expenses",
-          "source": "Expenses",
-          "target": ""
+          "source": "Expenses"
         },
         {
           "key": "_expirationDate",
-          "source": "Expiration Date",
-          "target": ""
-        },
-        {
-          "key": "_expireDate",
-          "source": "Expire Date",
-          "target": ""
+          "source": "Expiration Date"
         },
         {
           "key": "_expired",
-          "source": "Expired",
-          "target": ""
+          "source": "Expired"
+        },
+        {
+          "key": "_expireDate",
+          "source": "Expire Date"
         },
         {
           "key": "_expiredColor",
-          "source": "Expired Color",
-          "target": ""
+          "source": "Expired Color"
         },
         {
           "key": "_expires",
-          "source": "Expires",
-          "target": ""
+          "source": "Expires"
         },
         {
           "key": "_exportContact",
-          "source": "Export Contact",
-          "target": ""
+          "source": "Export Contact"
         },
         {
           "key": "_exportVcf",
-          "source": "Export VCF",
-          "target": ""
-        },
-        {
-          "key": "_extPrice",
-          "source": "Ext Price",
-          "target": ""
+          "source": "Export VCF"
         },
         {
           "key": "_extended",
-          "source": "Extended",
-          "target": ""
+          "source": "Extended"
         },
         {
           "key": "_extendedDescription",
-          "source": "Extended Description",
-          "target": ""
+          "source": "Extended Description"
         },
         {
           "key": "_extendedPrice",
-          "source": "Extended Price",
-          "target": ""
+          "source": "Extended Price"
         },
         {
           "key": "_extendedPriceScale",
-          "source": "Extended Price Scale",
-          "target": ""
+          "source": "Extended Price Scale"
         },
         {
           "key": "_extensions",
-          "source": "Extensions",
-          "target": ""
+          "source": "Extensions"
         },
         {
           "key": "_externalReference",
-          "source": "External Reference",
-          "target": ""
+          "source": "External Reference"
+        },
+        {
+          "key": "_extPrice",
+          "source": "Ext Price"
         },
         {
           "key": "_fax",
-          "source": "Fax",
-          "target": ""
+          "source": "Fax"
         },
         {
           "key": "_feedback",
-          "source": "Feedback",
-          "target": ""
+          "source": "Feedback"
         },
         {
           "key": "_file",
-          "source": "File",
-          "target": ""
+          "source": "File"
         },
         {
           "key": "_files",
-          "source": "Files",
-          "target": ""
+          "source": "Files"
         },
         {
           "key": "_filter",
-          "source": "Filter",
-          "target": ""
+          "source": "Filter"
         },
         {
           "key": "_filterBy",
-          "source": "Filter By",
-          "target": ""
+          "source": "Filter By"
         },
         {
           "key": "_financials",
-          "source": "Financials",
-          "target": ""
+          "source": "Financials"
         },
         {
           "key": "_firmSalesOrder",
-          "source": "Firm Sales Order Line",
-          "target": ""
+          "source": "Firm Sales Order Line"
         },
         {
           "key": "_firstName",
-          "source": "First Name",
-          "target": ""
+          "source": "First Name"
         },
         {
           "key": "_fiveYears",
-          "source": "Five Years",
-          "target": ""
+          "source": "Five Years"
         },
         {
           "key": "_fixed",
-          "source": "Fixed",
-          "target": ""
+          "source": "Fixed"
         },
         {
           "key": "_flag",
-          "source": "Flag",
-          "target": ""
+          "source": "Flag"
         },
         {
           "key": "_fob",
-          "source": "F.O.B.",
-          "target": ""
+          "source": "F.O.B."
         },
         {
           "key": "_for",
-          "source": "For",
-          "target": ""
+          "source": "For"
         },
         {
           "key": "_fractional",
-          "source": "Fractional",
-          "target": ""
+          "source": "Fractional"
         },
         {
           "key": "_freeFormBill",
-          "source": "Allow Free-Form Bill-To",
-          "target": ""
+          "source": "Allow Free-Form Bill-To"
         },
         {
           "key": "_freeFormShip",
-          "source": "Allow Free-Form Ship-Tos",
-          "target": ""
+          "source": "Allow Free-Form Ship-Tos"
         },
         {
           "key": "_freezeInventory",
-          "source": "Freeze Inventory",
-          "target": ""
+          "source": "Freeze Inventory"
         },
         {
           "key": "_freight",
-          "source": "Freight",
-          "target": ""
+          "source": "Freight"
         },
         {
           "key": "_freightClass",
-          "source": "Freight Class",
-          "target": ""
+          "source": "Freight Class"
         },
         {
           "key": "_freightWeight",
-          "source": "Freight Weight",
-          "target": ""
+          "source": "Freight Weight"
         },
         {
           "key": "_frequency",
-          "source": "Frequency",
-          "target": ""
+          "source": "Frequency"
         },
         {
           "key": "_from",
-          "source": "From",
-          "target": ""
+          "source": "From"
         },
         {
           "key": "_fromDate",
-          "source": "From Date",
-          "target": ""
+          "source": "From Date"
         },
         {
           "key": "_future",
-          "source": "Future",
-          "target": ""
+          "source": "Future"
         },
         {
           "key": "_futureColor",
-          "source": "Future Color",
-          "target": ""
+          "source": "Future Color"
         },
         {
           "key": "_gateway",
-          "source": "Gateway",
-          "target": ""
+          "source": "Gateway"
         },
         {
           "key": "_goodStanding",
-          "source": "In Good Standing",
-          "target": ""
+          "source": "In Good Standing"
         },
         {
           "key": "_graceDays",
-          "source": "Grace Days",
-          "target": ""
+          "source": "Grace Days"
         },
         {
           "key": "_grantedPrivileges",
-          "source": "Granted Privileges",
-          "target": ""
+          "source": "Granted Privileges"
         },
         {
           "key": "_grantedUserAccountRoles",
-          "source": "Granted User Account Roles",
-          "target": ""
-        },
-        {
-          "key": "_groupSequence",
-          "source": "Group Sequence",
-          "target": ""
+          "source": "Granted User Account Roles"
         },
         {
           "key": "_groups",
-          "source": "Groups",
-          "target": ""
+          "source": "Groups"
+        },
+        {
+          "key": "_groupSequence",
+          "source": "Group Sequence"
         },
         {
           "key": "_header",
-          "source": "Header",
-          "target": ""
+          "source": "Header"
         },
         {
           "key": "_history",
-          "source": "History",
-          "target": ""
+          "source": "History"
         },
         {
           "key": "_holdType",
-          "source": "Hold Type",
-          "target": ""
+          "source": "Hold Type"
         },
         {
           "key": "_home",
-          "source": "Home",
-          "target": ""
+          "source": "Home"
         },
         {
           "key": "_honorific",
-          "source": "Honorific",
-          "target": ""
+          "source": "Honorific"
         },
         {
           "key": "_honorifics",
-          "source": "Honorifics",
-          "target": ""
+          "source": "Honorifics"
         },
         {
           "key": "_hourly",
-          "source": "Hourly",
-          "target": ""
+          "source": "Hourly"
         },
         {
           "key": "_hours",
-          "source": "Hours",
-          "target": ""
+          "source": "Hours"
         },
         {
           "key": "_hrs",
-          "source": "hrs.",
-          "target": ""
+          "source": "hrs."
         },
         {
           "key": "_image",
-          "source": "Image",
-          "target": ""
+          "source": "Image"
         },
         {
           "key": "_images",
-          "source": "Images",
-          "target": ""
-        },
-        {
-          "key": "_inProcess",
-          "source": "In Process",
-          "target": ""
+          "source": "Images"
         },
         {
           "key": "_inactive",
-          "source": "Inactive",
-          "target": ""
+          "source": "Inactive"
         },
         {
           "key": "_incident",
-          "source": "Incident",
-          "target": ""
+          "source": "Incident"
         },
         {
           "key": "_incidentCategories",
-          "source": "Incident Categories",
-          "target": ""
+          "source": "Incident Categories"
         },
         {
           "key": "_incidentCategory",
-          "source": "Incident Category",
-          "target": ""
+          "source": "Incident Category"
         },
         {
           "key": "_incidentEmailProfile",
-          "source": "Incident Email Profile",
-          "target": ""
+          "source": "Incident Email Profile"
         },
         {
           "key": "_incidentEmailProfiles",
-          "source": "Incident Email",
-          "target": ""
+          "source": "Incident Email"
         },
         {
           "key": "_incidentHistory",
-          "source": "Incident History",
-          "target": ""
+          "source": "Incident History"
         },
         {
           "key": "_incidentRelations",
-          "source": "Incidents",
-          "target": ""
+          "source": "Incidents"
         },
         {
           "key": "_incidentResolution",
-          "source": "Incident Resolution",
-          "target": ""
+          "source": "Incident Resolution"
         },
         {
           "key": "_incidentResolutions",
-          "source": "Incident Resolutions",
-          "target": ""
-        },
-        {
-          "key": "_incidentSeverities",
-          "source": "Incident Severities",
-          "target": ""
-        },
-        {
-          "key": "_incidentSeverity",
-          "source": "Incident Severity",
-          "target": ""
-        },
-        {
-          "key": "_incidentStatus",
-          "source": "Status",
-          "target": ""
+          "source": "Incident Resolutions"
         },
         {
           "key": "_incidents",
-          "source": "Incidents",
-          "target": ""
+          "source": "Incidents"
+        },
+        {
+          "key": "_incidentSeverities",
+          "source": "Incident Severities"
+        },
+        {
+          "key": "_incidentSeverity",
+          "source": "Incident Severity"
+        },
+        {
+          "key": "_incidentStatus",
+          "source": "Status"
         },
         {
           "key": "_incoterms",
-          "source": "Incoterms",
-          "target": ""
+          "source": "Incoterms"
         },
         {
           "key": "_individual",
-          "source": "Individual",
-          "target": ""
+          "source": "Individual"
         },
         {
           "key": "_information",
-          "source": "Information",
-          "target": ""
+          "source": "Information"
         },
         {
           "key": "_initials",
-          "source": "Initials",
-          "target": ""
+          "source": "Initials"
+        },
+        {
+          "key": "_inProcess",
+          "source": "In Process"
         },
         {
           "key": "_insufficientPrivileges",
-          "source": "You have insufficient privileges to perform this action.",
-          "target": ""
+          "source": "You have insufficient privileges to perform this action."
         },
         {
           "key": "_inventoryHistory",
-          "source": "Inventory History",
-          "target": ""
+          "source": "Inventory History"
         },
         {
           "key": "_inventoryUnit",
-          "source": "Inventory Unit",
-          "target": ""
+          "source": "Inventory Unit"
         },
         {
           "key": "_invoice",
-          "source": "Invoice",
-          "target": ""
+          "source": "Invoice"
         },
         {
           "key": "_invoiceDate",
-          "source": "Invoice Date",
-          "target": ""
+          "source": "Invoice Date"
         },
         {
           "key": "_invoiceLine",
-          "source": "Invoice Line",
-          "target": ""
+          "source": "Invoice Line"
         },
         {
           "key": "_invoiceNumber",
-          "source": "Invoice #",
-          "target": ""
+          "source": "Invoice #"
         },
         {
           "key": "_invoices",
-          "source": "Invoices",
-          "target": ""
+          "source": "Invoices"
         },
         {
           "key": "_isActive",
-          "source": "Active",
-          "target": ""
+          "source": "Active"
         },
         {
           "key": "_isAddresses",
-          "source": "Addresses",
-          "target": ""
+          "source": "Addresses"
         },
         {
           "key": "_isAgent",
-          "source": "Agent",
-          "target": ""
+          "source": "Agent"
         },
         {
           "key": "_isBase",
-          "source": "Base",
-          "target": ""
+          "source": "Base"
         },
         {
           "key": "_isContacts",
-          "source": "Contacts",
-          "target": ""
+          "source": "Contacts"
         },
         {
           "key": "_isDebit",
-          "source": "Debit",
-          "target": ""
+          "source": "Debit"
         },
         {
           "key": "_isDefault",
-          "source": "Default",
-          "target": ""
+          "source": "Default"
         },
         {
           "key": "_isDeleted",
-          "source": "Deleted",
-          "target": ""
+          "source": "Deleted"
         },
         {
           "key": "_isEmployees",
-          "source": "Employees",
-          "target": ""
+          "source": "Employees"
         },
         {
           "key": "_isEvent",
-          "source": "Event",
-          "target": ""
+          "source": "Event"
         },
         {
           "key": "_isExclusive",
-          "source": "Exclusive",
-          "target": ""
+          "source": "Exclusive"
         },
         {
           "key": "_isFractional",
-          "source": "Fractional",
-          "target": ""
+          "source": "Fractional"
         },
         {
           "key": "_isIncidents",
-          "source": "Incidents",
-          "target": ""
+          "source": "Incidents"
         },
         {
           "key": "_isInvoices",
-          "source": "Invoices",
-          "target": ""
-        },
-        {
-          "key": "_isItemWeight",
-          "source": "Item Weight",
-          "target": ""
+          "source": "Invoices"
         },
         {
           "key": "_isItems",
-          "source": "Items",
-          "target": ""
+          "source": "Items"
+        },
+        {
+          "key": "_isItemWeight",
+          "source": "Item Weight"
         },
         {
           "key": "_isMessage",
-          "source": "Message",
-          "target": ""
+          "source": "Message"
         },
         {
           "key": "_isMiscellaneous",
-          "source": "Miscellaneous",
-          "target": ""
+          "source": "Miscellaneous"
         },
         {
           "key": "_isOpportunities",
-          "source": "Opportunities",
-          "target": ""
+          "source": "Opportunities"
         },
         {
           "key": "_isPicklist",
-          "source": "Picklist",
-          "target": ""
+          "source": "Picklist"
         },
         {
           "key": "_isPosted",
-          "source": "Posted",
-          "target": ""
+          "source": "Posted"
         },
         {
           "key": "_isPrinted",
-          "source": "Printed",
-          "target": ""
+          "source": "Printed"
         },
         {
           "key": "_isPublic",
-          "source": "Public",
-          "target": ""
+          "source": "Public"
         },
         {
           "key": "_isSearchable",
-          "source": "Searchable",
-          "target": ""
+          "source": "Searchable"
         },
         {
           "key": "_isSold",
-          "source": "Sold",
-          "target": ""
-        },
-        {
-          "key": "_isSystem",
-          "source": "System",
-          "target": ""
-        },
-        {
-          "key": "_isUsedByBilling",
-          "source": "Used By Billing",
-          "target": ""
-        },
-        {
-          "key": "_isUsedByPayments",
-          "source": "Used By Payments",
-          "target": ""
-        },
-        {
-          "key": "_isVoid",
-          "source": "Void",
-          "target": ""
+          "source": "Sold"
         },
         {
           "key": "_issueItem",
-          "source": "Issue Item",
-          "target": ""
+          "source": "Issue Item"
         },
         {
           "key": "_issueStockToShipping",
-          "source": "Issue Stock to Shipping",
-          "target": ""
+          "source": "Issue Stock to Shipping"
         },
         {
           "key": "_issueToShipping",
-          "source": "Issue to Shipping",
-          "target": ""
+          "source": "Issue to Shipping"
+        },
+        {
+          "key": "_isSystem",
+          "source": "System"
+        },
+        {
+          "key": "_isUsedByBilling",
+          "source": "Used By Billing"
+        },
+        {
+          "key": "_isUsedByPayments",
+          "source": "Used By Payments"
+        },
+        {
+          "key": "_isVoid",
+          "source": "Void"
         },
         {
           "key": "_item",
-          "source": "Item",
-          "target": ""
+          "source": "Item"
         },
         {
           "key": "_itemConversion",
-          "source": "Item Conversion",
-          "target": ""
+          "source": "Item Conversion"
         },
         {
           "key": "_itemDescription",
-          "source": "Item Description",
-          "target": ""
+          "source": "Item Description"
         },
         {
           "key": "_itemGroup",
-          "source": "Item Group",
-          "target": ""
+          "source": "Item Group"
         },
         {
           "key": "_itemGroups",
-          "source": "Item Groups",
-          "target": ""
+          "source": "Item Groups"
         },
         {
           "key": "_itemNumber",
-          "source": "Item Number",
-          "target": ""
-        },
-        {
-          "key": "_itemSite",
-          "source": "Item Site",
-          "target": ""
-        },
-        {
-          "key": "_itemSites",
-          "source": "Item Sites",
-          "target": ""
-        },
-        {
-          "key": "_itemType",
-          "source": "Item Type",
-          "target": ""
-        },
-        {
-          "key": "_itemUnitConversion",
-          "source": "Item Unit Conversion",
-          "target": ""
-        },
-        {
-          "key": "_itemUnitType",
-          "source": "Item Unit Type",
-          "target": ""
+          "source": "Item Number"
         },
         {
           "key": "_items",
-          "source": "Items",
-          "target": ""
+          "source": "Items"
+        },
+        {
+          "key": "_itemSite",
+          "source": "Item Site"
+        },
+        {
+          "key": "_itemSites",
+          "source": "Item Sites"
+        },
+        {
+          "key": "_itemType",
+          "source": "Item Type"
+        },
+        {
+          "key": "_itemUnitConversion",
+          "source": "Item Unit Conversion"
+        },
+        {
+          "key": "_itemUnitType",
+          "source": "Item Unit Type"
         },
         {
           "key": "_jobTitle",
-          "source": "Job Title",
-          "target": ""
+          "source": "Job Title"
         },
         {
           "key": "_kit",
-          "source": "Kit",
-          "target": ""
+          "source": "Kit"
         },
         {
           "key": "_language",
-          "source": "Language",
-          "target": ""
+          "source": "Language"
         },
         {
           "key": "_lastName",
-          "source": "Last Name",
-          "target": ""
+          "source": "Last Name"
         },
         {
           "key": "_latestComment",
-          "source": "Latest Comment",
-          "target": ""
+          "source": "Latest Comment"
         },
         {
           "key": "_leadTime",
-          "source": "Lead Time",
-          "target": ""
+          "source": "Lead Time"
         },
         {
           "key": "_ledgerAccount",
-          "source": "Ledger Account",
-          "target": ""
+          "source": "Ledger Account"
         },
         {
           "key": "_ledgerAccounts",
-          "source": "Ledger Accounts",
-          "target": ""
+          "source": "Ledger Accounts"
         },
         {
           "key": "_liability",
-          "source": "Liability",
-          "target": ""
+          "source": "Liability"
         },
         {
           "key": "_limitToList",
-          "source": "Limit to List",
-          "target": ""
+          "source": "Limit to List"
         },
         {
           "key": "_line1",
-          "source": "Line1",
-          "target": ""
+          "source": "Line1"
         },
         {
           "key": "_line2",
-          "source": "Line2",
-          "target": ""
+          "source": "Line2"
         },
         {
           "key": "_line3",
-          "source": "Line3",
-          "target": ""
+          "source": "Line3"
         },
         {
           "key": "_lineItems",
-          "source": "Line Items",
-          "target": ""
+          "source": "Line Items"
         },
         {
           "key": "_lineNumber",
-          "source": "Line Number",
-          "target": ""
+          "source": "Line Number"
         },
         {
           "key": "_lines",
-          "source": "Lines",
-          "target": ""
+          "source": "Lines"
         },
         {
           "key": "_list",
-          "source": "List",
-          "target": ""
+          "source": "List"
         },
         {
           "key": "_listPrice",
-          "source": "List Price",
-          "target": ""
+          "source": "List Price"
         },
         {
           "key": "_listPriceDiscount",
-          "source": "List Price Discount",
-          "target": ""
+          "source": "List Price Discount"
         },
         {
           "key": "_locale",
-          "source": "Locale",
-          "target": ""
+          "source": "Locale"
         },
         {
           "key": "_location",
-          "source": "Location",
-          "target": ""
+          "source": "Location"
         },
         {
           "key": "_login",
-          "source": "Login",
-          "target": ""
+          "source": "Login"
         },
         {
           "key": "_logout",
-          "source": "Logout",
-          "target": ""
+          "source": "Logout"
         },
         {
           "key": "_lotSerial",
-          "source": "Lot/Serial",
-          "target": ""
+          "source": "Lot/Serial"
         },
         {
           "key": "_mainAddress",
-          "source": "Main Address",
-          "target": ""
+          "source": "Main Address"
         },
         {
           "key": "_maintainAddresses",
-          "source": "Maintain Addresses",
-          "target": ""
-        },
-        {
-          "key": "_maintainAllCRMAccounts",
-          "source": "Maintain All Accounts",
-          "target": ""
+          "source": "Maintain Addresses"
         },
         {
           "key": "_maintainAllContacts",
-          "source": "Maintain All Contacts",
-          "target": ""
+          "source": "Maintain All Contacts"
+        },
+        {
+          "key": "_maintainAllCRMAccounts",
+          "source": "Maintain All Accounts"
         },
         {
           "key": "_maintainAllIncidents",
-          "source": "Maintain All Incidents",
-          "target": ""
+          "source": "Maintain All Incidents"
         },
         {
           "key": "_maintainAllOpportunities",
-          "source": "Maintain All Opportunities",
-          "target": ""
+          "source": "Maintain All Opportunities"
         },
         {
           "key": "_maintainAllProjects",
-          "source": "Maintain All Projects",
-          "target": ""
+          "source": "Maintain All Projects"
         },
         {
           "key": "_maintainAllToDoItems",
-          "source": "Maintain All To-Do Items",
-          "target": ""
+          "source": "Maintain All To-Do Items"
         },
         {
           "key": "_maintainAllWorkflows",
-          "source": "Maintain All Workflows",
-          "target": ""
+          "source": "Maintain All Workflows"
         },
         {
           "key": "_maintainBankAccounts",
-          "source": "Maintain Bank Accounts",
-          "target": ""
+          "source": "Maintain Bank Accounts"
         },
         {
           "key": "_maintainCharacteristics",
-          "source": "Maintain Characteristics",
-          "target": ""
+          "source": "Maintain Characteristics"
         },
         {
           "key": "_maintainClassCodes",
-          "source": "Maintain Class Codes",
-          "target": ""
+          "source": "Maintain Class Codes"
         },
         {
           "key": "_maintainCommentTypes",
-          "source": "Maintain Comment Types",
-          "target": ""
+          "source": "Maintain Comment Types"
         },
         {
           "key": "_maintainCostCategories",
-          "source": "Maintain Cost Categories",
-          "target": ""
+          "source": "Maintain Cost Categories"
         },
         {
           "key": "_maintainCountries",
-          "source": "Maintain Countries",
-          "target": ""
+          "source": "Maintain Countries"
         },
         {
           "key": "_maintainCurrencies",
-          "source": "Maintain Currencies",
-          "target": ""
+          "source": "Maintain Currencies"
         },
         {
           "key": "_maintainCurrencyRates",
-          "source": "Maintain Currency Rates",
-          "target": ""
+          "source": "Maintain Currency Rates"
         },
         {
           "key": "_maintainCustomerGroups",
-          "source": "Maintain Customer Groups",
-          "target": ""
+          "source": "Maintain Customer Groups"
         },
         {
           "key": "_maintainCustomerMasters",
-          "source": "Maintain Customers",
-          "target": ""
+          "source": "Maintain Customers"
         },
         {
           "key": "_maintainCustomerTypes",
-          "source": "Maintain Customer Types",
-          "target": ""
+          "source": "Maintain Customer Types"
         },
         {
           "key": "_maintainDepartments",
-          "source": "Maintain Departments",
-          "target": ""
+          "source": "Maintain Departments"
         },
         {
           "key": "_maintainEmployees",
-          "source": "Maintain Employees",
-          "target": ""
+          "source": "Maintain Employees"
         },
         {
           "key": "_maintainExpenseCategories",
-          "source": "Maintain Expense Categories",
-          "target": ""
+          "source": "Maintain Expense Categories"
         },
         {
           "key": "_maintainExtensions",
-          "source": "Maintain Extensions",
-          "target": ""
+          "source": "Maintain Extensions"
         },
         {
           "key": "_maintainFreightClasses",
-          "source": "Maintain Freight Classes",
-          "target": ""
+          "source": "Maintain Freight Classes"
         },
         {
           "key": "_maintainImages",
-          "source": "Maintain Images",
-          "target": ""
+          "source": "Maintain Images"
         },
         {
           "key": "_maintainIncidentCategories",
-          "source": "Maintain Incident Categories",
-          "target": ""
+          "source": "Maintain Incident Categories"
         },
         {
           "key": "_maintainIncidentPriorities",
-          "source": "Maintain Incident Priorities",
-          "target": ""
+          "source": "Maintain Incident Priorities"
         },
         {
           "key": "_maintainIncidentResolutions",
-          "source": "Maintain Incident Resolutions",
-          "target": ""
+          "source": "Maintain Incident Resolutions"
         },
         {
           "key": "_maintainIncidentSeverities",
-          "source": "Maintain Incident Severities",
-          "target": ""
+          "source": "Maintain Incident Severities"
         },
         {
           "key": "_maintainItemGroups",
-          "source": "Maintain Item Groups",
-          "target": ""
+          "source": "Maintain Item Groups"
         },
         {
           "key": "_maintainItemMasters",
-          "source": "Maintain Item Masters",
-          "target": ""
+          "source": "Maintain Item Masters"
         },
         {
           "key": "_maintainItemSites",
-          "source": "Maintain Item Sites",
-          "target": ""
+          "source": "Maintain Item Sites"
         },
         {
           "key": "_maintainLocations",
-          "source": "Maintain Locations",
-          "target": ""
+          "source": "Maintain Locations"
         },
         {
           "key": "_maintainOpportunitySources",
-          "source": "Maintain Opportunity Sources",
-          "target": ""
+          "source": "Maintain Opportunity Sources"
         },
         {
           "key": "_maintainOpportunityStages",
-          "source": "Maintain Opportunity Stages",
-          "target": ""
+          "source": "Maintain Opportunity Stages"
         },
         {
           "key": "_maintainOpportunityTypes",
-          "source": "Maintain Opportunity Types",
-          "target": ""
+          "source": "Maintain Opportunity Types"
         },
         {
           "key": "_maintainPackingListBatch",
-          "source": "Maintain Packing List Batch",
-          "target": ""
+          "source": "Maintain Packing List Batch"
         },
         {
           "key": "_maintainPartners",
-          "source": "Maintain Partners",
-          "target": ""
-        },
-        {
-          "key": "_maintainPersonalCRMAccounts",
-          "source": "Maintain Personal Accounts",
-          "target": ""
+          "source": "Maintain Partners"
         },
         {
           "key": "_maintainPersonalContacts",
-          "source": "Maintain Personal Contacts",
-          "target": ""
+          "source": "Maintain Personal Contacts"
+        },
+        {
+          "key": "_maintainPersonalCRMAccounts",
+          "source": "Maintain Personal Accounts"
         },
         {
           "key": "_maintainPersonalIncidents",
-          "source": "Maintain Personal Incidents",
-          "target": ""
+          "source": "Maintain Personal Incidents"
         },
         {
           "key": "_maintainPersonalOpportunities",
-          "source": "Maintain Personal Opportunities",
-          "target": ""
+          "source": "Maintain Personal Opportunities"
         },
         {
           "key": "_maintainPersonalProjects",
-          "source": "Maintain Personal Projects",
-          "target": ""
+          "source": "Maintain Personal Projects"
         },
         {
           "key": "_maintainPersonalToDoItems",
-          "source": "Maintain Personal To-Do Items",
-          "target": ""
+          "source": "Maintain Personal To-Do Items"
         },
         {
           "key": "_maintainPreferencesSelf",
-          "source": "Maintain Personal Preferences",
-          "target": ""
+          "source": "Maintain Personal Preferences"
         },
         {
           "key": "_maintainProductCategories",
-          "source": "Maintain Product Categories",
-          "target": ""
+          "source": "Maintain Product Categories"
         },
         {
           "key": "_maintainProspectMasters",
-          "source": "Maintain Prospect Masters",
-          "target": ""
+          "source": "Maintain Prospect Masters"
         },
         {
           "key": "_maintainPurchaseRequests",
-          "source": "Maintain Purchase Requests",
-          "target": ""
+          "source": "Maintain Purchase Requests"
         },
         {
           "key": "_maintainQuotes",
-          "source": "Maintain Quotes",
-          "target": ""
+          "source": "Maintain Quotes"
         },
         {
           "key": "_maintainReasonCodes",
-          "source": "Maintain Reason Codes",
-          "target": ""
-        },
-        {
-          "key": "_maintainSaleTypes",
-          "source": "Maintain Sale Types",
-          "target": ""
+          "source": "Maintain Reason Codes"
         },
         {
           "key": "_maintainSalesCategories",
-          "source": "Maintain Sales Categories",
-          "target": ""
+          "source": "Maintain Sales Categories"
         },
         {
           "key": "_maintainSalesOrders",
-          "source": "Maintain Sales Orders",
-          "target": ""
+          "source": "Maintain Sales Orders"
         },
         {
           "key": "_maintainSalesReps",
-          "source": "Maintain Sales Reps",
-          "target": ""
+          "source": "Maintain Sales Reps"
+        },
+        {
+          "key": "_maintainSaleTypes",
+          "source": "Maintain Sale Types"
         },
         {
           "key": "_maintainShifts",
-          "source": "Maintain Shifts",
-          "target": ""
-        },
-        {
-          "key": "_maintainShipVias",
-          "source": "Maintain Ship Vias",
-          "target": ""
+          "source": "Maintain Shifts"
         },
         {
           "key": "_maintainShippingZones",
-          "source": "Maintain Ship Zones",
-          "target": ""
+          "source": "Maintain Ship Zones"
+        },
+        {
+          "key": "_maintainShipVias",
+          "source": "Maintain Ship Vias"
         },
         {
           "key": "_maintainSiteTypes",
-          "source": "Maintain Site Types",
-          "target": ""
+          "source": "Maintain Site Types"
         },
         {
           "key": "_maintainStates",
-          "source": "Maintain States",
-          "target": ""
+          "source": "Maintain States"
         },
         {
           "key": "_maintainTaxAssignments",
-          "source": "Maintain Tax Assignments",
-          "target": ""
+          "source": "Maintain Tax Assignments"
         },
         {
           "key": "_maintainTaxAuthorities",
-          "source": "Maintain Tax Authorities",
-          "target": ""
+          "source": "Maintain Tax Authorities"
         },
         {
           "key": "_maintainTaxClasses",
-          "source": "Maintain Tax Classes",
-          "target": ""
+          "source": "Maintain Tax Classes"
         },
         {
           "key": "_maintainTaxCodes",
-          "source": "MaintainTaxCodes",
-          "target": ""
+          "source": "MaintainTaxCodes"
         },
         {
           "key": "_maintainTaxReconciliations",
-          "source": "Maintain Tax Reconciliations",
-          "target": ""
+          "source": "Maintain Tax Reconciliations"
         },
         {
           "key": "_maintainTaxRegistrations",
-          "source": "Maintain Tax Registrations",
-          "target": ""
+          "source": "Maintain Tax Registrations"
         },
         {
           "key": "_maintainTaxTypes",
-          "source": "Maintain Tax Types",
-          "target": ""
+          "source": "Maintain Tax Types"
         },
         {
           "key": "_maintainTaxZones",
-          "source": "Maintain Tax Zones",
-          "target": ""
+          "source": "Maintain Tax Zones"
         },
         {
           "key": "_maintainTerms",
-          "source": "Maintain Terms ",
-          "target": ""
+          "source": "Maintain Terms "
         },
         {
           "key": "_maintainTitles",
-          "source": "Maintain Titles",
-          "target": ""
+          "source": "Maintain Titles"
         },
         {
           "key": "_maintainUOMs",
-          "source": "Maintain Units of Measure",
-          "target": ""
+          "source": "Maintain Units of Measure"
         },
         {
           "key": "_maintainUsers",
-          "source": "Maintain Users",
-          "target": ""
+          "source": "Maintain Users"
         },
         {
           "key": "_maintainWarehouses",
-          "source": "Maintain Sites",
-          "target": ""
+          "source": "Maintain Sites"
         },
         {
           "key": "_maintainWorkflowsSelf",
-          "source": "Maintain Personal Workflows",
-          "target": ""
+          "source": "Maintain Personal Workflows"
         },
         {
           "key": "_manager",
-          "source": "Manager",
-          "target": ""
+          "source": "Manager"
         },
         {
           "key": "_manual",
-          "source": "Manual",
-          "target": ""
+          "source": "Manual"
         },
         {
           "key": "_manualFreight",
-          "source": "Manually editing the freight will disable automatic freight recalculations.",
-          "target": ""
+          "source": "Manually editing the freight will disable automatic freight recalculations."
         },
         {
           "key": "_manufactured",
-          "source": "Manufactured",
-          "target": ""
+          "source": "Manufactured"
         },
         {
           "key": "_manufacturing",
-          "source": "Manufacturing",
-          "target": ""
+          "source": "Manufacturing"
         },
         {
           "key": "_map",
-          "source": "Map",
-          "target": ""
+          "source": "Map"
         },
         {
           "key": "_margin",
-          "source": "Margin",
-          "target": ""
+          "source": "Margin"
         },
         {
           "key": "_markup",
-          "source": "Markup",
-          "target": ""
+          "source": "Markup"
         },
         {
           "key": "_mask",
-          "source": "Mask",
-          "target": ""
+          "source": "Mask"
         },
         {
           "key": "_masterCard",
-          "source": "MasterCard",
-          "target": ""
+          "source": "MasterCard"
         },
         {
           "key": "_match",
-          "source": "Match",
-          "target": ""
+          "source": "Match"
         },
         {
           "key": "_maximum",
-          "source": "Maximum",
-          "target": ""
+          "source": "Maximum"
         },
         {
           "key": "_menu",
-          "source": "Menu",
-          "target": ""
+          "source": "Menu"
         },
         {
           "key": "_messageRecipient",
-          "source": "Message Recipient",
-          "target": ""
+          "source": "Message Recipient"
         },
         {
           "key": "_middleName",
-          "source": "Middle Name",
-          "target": ""
+          "source": "Middle Name"
         },
         {
           "key": "_minimumOrderQuantity",
-          "source": "Order Minimum",
-          "target": ""
+          "source": "Order Minimum"
         },
         {
           "key": "_misc.",
-          "source": "Misc.",
-          "target": ""
+          "source": "Misc."
         },
         {
           "key": "_miscCharge",
-          "source": "Misc. Charge",
-          "target": ""
+          "source": "Misc. Charge"
         },
         {
           "key": "_miscCreditMemo",
-          "source": "Misc. Credit Memo",
-          "target": ""
+          "source": "Misc. Credit Memo"
         },
         {
           "key": "_miscDebitMemo",
-          "source": "Misc. Debit Memo",
-          "target": ""
+          "source": "Misc. Debit Memo"
         },
         {
           "key": "_miscellaneous",
-          "source": "Miscellaneous",
-          "target": ""
+          "source": "Miscellaneous"
         },
         {
           "key": "_module",
-          "source": "Module",
-          "target": ""
+          "source": "Module"
         },
         {
           "key": "_monthExpired",
-          "source": "Expiration Month",
-          "target": ""
+          "source": "Expiration Month"
         },
         {
           "key": "_monthly",
-          "source": "Monthly",
-          "target": ""
+          "source": "Monthly"
         },
         {
           "key": "_multiple",
-          "source": "Multiple",
-          "target": ""
+          "source": "Multiple"
         },
         {
           "key": "_multipleOrderQuantity",
-          "source": "Order Multiple",
-          "target": ""
+          "source": "Order Multiple"
         },
         {
           "key": "_mustRemoveDependentExtensions",
-          "source": "Removing Dependent Extensions",
-          "target": ""
+          "source": "Removing Dependent Extensions"
         },
         {
           "key": "_mustSave",
-          "source": "You must save your changes before proceeding.",
-          "target": ""
+          "source": "You must save your changes before proceeding."
         },
         {
           "key": "_name",
-          "source": "Name",
-          "target": ""
+          "source": "Name"
         },
         {
           "key": "_neither",
-          "source": "Neither",
-          "target": ""
+          "source": "Neither"
         },
         {
           "key": "_new",
-          "source": "New",
-          "target": ""
+          "source": "New"
         },
         {
           "key": "_nextCheckNumber",
-          "source": "Next Check Number",
-          "target": ""
+          "source": "Next Check Number"
         },
         {
           "key": "_nextHoldType",
-          "source": "Next Hold Type",
-          "target": ""
+          "source": "Next Hold Type"
         },
         {
           "key": "_nextNumber",
-          "source": "Next Number",
-          "target": ""
+          "source": "Next Number"
         },
         {
           "key": "_nextStatus",
-          "source": "Next Status",
-          "target": ""
+          "source": "Next Status"
         },
         {
           "key": "_noAccountName",
-          "source": "No Account Name",
-          "target": ""
+          "source": "No Account Name"
         },
         {
           "key": "_noAddress",
-          "source": "No Address",
-          "target": ""
+          "source": "No Address"
         },
         {
           "key": "_noAssignDate",
-          "source": "No Assign Date",
-          "target": ""
+          "source": "No Assign Date"
         },
         {
           "key": "_noAssignedTo",
-          "source": "No Assigned To",
-          "target": ""
+          "source": "No Assigned To"
         },
         {
           "key": "_noCategory",
-          "source": "No Category",
-          "target": ""
+          "source": "No Category"
         },
         {
           "key": "_noChange",
-          "source": "No Change",
-          "target": ""
+          "source": "No Change"
         },
         {
           "key": "_noCloseTarget",
-          "source": "No Close Target",
-          "target": ""
+          "source": "No Close Target"
         },
         {
           "key": "_noCompleteDate",
-          "source": "No Complete Date",
-          "target": ""
+          "source": "No Complete Date"
         },
         {
           "key": "_noContact",
-          "source": "No Contact",
-          "target": ""
+          "source": "No Contact"
         },
         {
           "key": "_noDepartment",
-          "source": "No Department",
-          "target": ""
+          "source": "No Department"
         },
         {
           "key": "_noDueDate",
-          "source": "No Due Date",
-          "target": ""
+          "source": "No Due Date"
         },
         {
           "key": "_noEmail",
-          "source": "No Email",
-          "target": ""
+          "source": "No Email"
         },
         {
           "key": "_noExpiration",
-          "source": "No Expiration",
-          "target": ""
+          "source": "No Expiration"
         },
         {
           "key": "_noJobTitle",
-          "source": "No Job Title",
-          "target": ""
-        },
-        {
-          "key": "_noName",
-          "source": "No Name",
-          "target": ""
-        },
-        {
-          "key": "_noNumber",
-          "source": "No Number",
-          "target": ""
-        },
-        {
-          "key": "_noOwner",
-          "source": "No Owner",
-          "target": ""
-        },
-        {
-          "key": "_noPhone",
-          "source": "No Phone",
-          "target": ""
-        },
-        {
-          "key": "_noPriceFound",
-          "source": "This item is marked as exclusive and no qualifying price was found.",
-          "target": ""
-        },
-        {
-          "key": "_noPriority",
-          "source": "No Priority",
-          "target": ""
-        },
-        {
-          "key": "_noProject",
-          "source": "No Project",
-          "target": ""
-        },
-        {
-          "key": "_noProjectType",
-          "source": "No Type",
-          "target": ""
-        },
-        {
-          "key": "_noPurchase",
-          "source": "This item may not be purchased in this date. Please select another date or item.",
-          "target": ""
-        },
-        {
-          "key": "_noPurchaseOrder",
-          "source": "No Purchase Order Number",
-          "target": ""
-        },
-        {
-          "key": "_noReschedule",
-          "source": "No Items can be rescheduled because there are no valid price schedules for the date entered.",
-          "target": ""
-        },
-        {
-          "key": "_noSalesRep",
-          "source": "No Sales Rep",
-          "target": ""
-        },
-        {
-          "key": "_noSchedule",
-          "source": "No Schedule",
-          "target": ""
-        },
-        {
-          "key": "_noSeverity",
-          "source": "No Severity",
-          "target": ""
-        },
-        {
-          "key": "_noStage",
-          "source": "No Stage",
-          "target": ""
-        },
-        {
-          "key": "_noStartDate",
-          "source": "No Start Date",
-          "target": ""
-        },
-        {
-          "key": "_noStatus",
-          "source": "No Status",
-          "target": ""
-        },
-        {
-          "key": "_noTerms",
-          "source": "No Terms",
-          "target": ""
-        },
-        {
-          "key": "_noType",
-          "source": "No Type",
-          "target": ""
-        },
-        {
-          "key": "_noUserSelected",
-          "source": "No User Selected",
-          "target": ""
+          "source": "No Job Title"
         },
         {
           "key": "_nominal",
-          "source": "Nominal",
-          "target": ""
+          "source": "Nominal"
+        },
+        {
+          "key": "_noName",
+          "source": "No Name"
+        },
+        {
+          "key": "_noNumber",
+          "source": "No Number"
+        },
+        {
+          "key": "_noOwner",
+          "source": "No Owner"
+        },
+        {
+          "key": "_noPhone",
+          "source": "No Phone"
+        },
+        {
+          "key": "_noPriceFound",
+          "source": "This item is marked as exclusive and no qualifying price was found."
+        },
+        {
+          "key": "_noPriority",
+          "source": "No Priority"
+        },
+        {
+          "key": "_noProject",
+          "source": "No Project"
+        },
+        {
+          "key": "_noProjectType",
+          "source": "No Type"
+        },
+        {
+          "key": "_noPurchase",
+          "source": "This item may not be purchased in this date. Please select another date or item."
+        },
+        {
+          "key": "_noPurchaseOrder",
+          "source": "No Purchase Order Number"
+        },
+        {
+          "key": "_noReschedule",
+          "source": "No Items can be rescheduled because there are no valid price schedules for the date entered."
+        },
+        {
+          "key": "_noSalesRep",
+          "source": "No Sales Rep"
+        },
+        {
+          "key": "_noSchedule",
+          "source": "No Schedule"
+        },
+        {
+          "key": "_noSeverity",
+          "source": "No Severity"
+        },
+        {
+          "key": "_noStage",
+          "source": "No Stage"
+        },
+        {
+          "key": "_noStartDate",
+          "source": "No Start Date"
+        },
+        {
+          "key": "_noStatus",
+          "source": "No Status"
         },
         {
           "key": "_notControlled",
-          "source": "Not Controlled",
-          "target": ""
+          "source": "Not Controlled"
         },
         {
-          "key": "_notSold",
-          "source": "Not Sold",
-          "target": ""
+          "key": "_noTerms",
+          "source": "No Terms"
         },
         {
           "key": "_notes",
-          "source": "Notes",
-          "target": ""
+          "source": "Notes"
+        },
+        {
+          "key": "_notSold",
+          "source": "Not Sold"
+        },
+        {
+          "key": "_noType",
+          "source": "No Type"
+        },
+        {
+          "key": "_noUserSelected",
+          "source": "No User Selected"
         },
         {
           "key": "_number",
-          "source": "Number",
-          "target": ""
+          "source": "Number"
         },
         {
           "key": "_object",
-          "source": "Object",
-          "target": ""
+          "source": "Object"
         },
         {
           "key": "_offset",
-          "source": "Offset",
-          "target": ""
+          "source": "Offset"
         },
         {
           "key": "_onCompletion",
-          "source": "On Completion",
-          "target": ""
+          "source": "On Completion"
         },
         {
           "key": "_onDeferred",
-          "source": "On Deferred",
-          "target": ""
+          "source": "On Deferred"
         },
         {
           "key": "_open",
-          "source": "Open",
-          "target": ""
+          "source": "Open"
         },
         {
           "key": "_openBalance",
-          "source": "Open Balance",
-          "target": ""
+          "source": "Open Balance"
         },
         {
           "key": "_openDate",
-          "source": "Open Date",
-          "target": ""
+          "source": "Open Date"
         },
         {
           "key": "_openItem",
-          "source": "Open Item",
-          "target": ""
-        },
-        {
-          "key": "_openItemSite",
-          "source": "Open Item Site",
-          "target": ""
+          "source": "Open Item"
         },
         {
           "key": "_openItems",
-          "source": "Open Items",
-          "target": ""
+          "source": "Open Items"
+        },
+        {
+          "key": "_openItemSite",
+          "source": "Open Item Site"
         },
         {
           "key": "_opportunities",
-          "source": "Opportunities",
-          "target": ""
+          "source": "Opportunities"
         },
         {
           "key": "_opportunity",
-          "source": "Opportunity",
-          "target": ""
+          "source": "Opportunity"
         },
         {
           "key": "_opportunityRelations",
-          "source": "Opportunities",
-          "target": ""
+          "source": "Opportunities"
         },
         {
           "key": "_opportunitySource",
-          "source": "Opportunity Source",
-          "target": ""
+          "source": "Opportunity Source"
         },
         {
           "key": "_opportunitySources",
-          "source": "Opportunity Sources",
-          "target": ""
+          "source": "Opportunity Sources"
         },
         {
           "key": "_opportunityStage",
-          "source": "Opportunity Stage",
-          "target": ""
+          "source": "Opportunity Stage"
         },
         {
           "key": "_opportunityStages",
-          "source": "Opportunity Stages",
-          "target": ""
+          "source": "Opportunity Stages"
         },
         {
           "key": "_opportunityType",
-          "source": "Opportunity Type",
-          "target": ""
+          "source": "Opportunity Type"
         },
         {
           "key": "_opportunityTypes",
-          "source": "Opportunity Types",
-          "target": ""
+          "source": "Opportunity Types"
         },
         {
           "key": "_options",
-          "source": "Options",
-          "target": ""
+          "source": "Options"
         },
         {
           "key": "_order",
-          "source": "Order",
-          "target": ""
+          "source": "Order"
         },
         {
           "key": "_order#",
-          "source": "Order #",
-          "target": ""
+          "source": "Order #"
         },
         {
           "key": "_orderCreditHold",
-          "source": "This Sales Order is on Credit Hold and must be taken off of Credit Hold before any inventory may be issued to it.",
-          "target": ""
+          "source": "This Sales Order is on Credit Hold and must be taken off of Credit Hold before any inventory may be issued to it."
         },
         {
           "key": "_orderDate",
-          "source": "Order Date",
-          "target": ""
-        },
-        {
-          "key": "_orderNotes",
-          "source": "Order Notes",
-          "target": ""
-        },
-        {
-          "key": "_orderNumber",
-          "source": "Order Number",
-          "target": ""
-        },
-        {
-          "key": "_orderPackingHold",
-          "source": "This Sales Order is on Packing Hold and must be taken off of Packing Hold before any inventory may be issued to it.",
-          "target": ""
-        },
-        {
-          "key": "_orderShippingHold",
-          "source": "This Sales Order is on Shipping Hold and must be taken off of Shipping Hold before it may be shipped.",
-          "target": ""
-        },
-        {
-          "key": "_orderType",
-          "source": "Order Type",
-          "target": ""
-        },
-        {
-          "key": "_orderWorkflow",
-          "source": "Order Workflow",
-          "target": ""
+          "source": "Order Date"
         },
         {
           "key": "_ordered",
-          "source": "Ordered",
-          "target": ""
+          "source": "Ordered"
+        },
+        {
+          "key": "_orderNotes",
+          "source": "Order Notes"
+        },
+        {
+          "key": "_orderNumber",
+          "source": "Order Number"
+        },
+        {
+          "key": "_orderPackingHold",
+          "source": "This Sales Order is on Packing Hold and must be taken off of Packing Hold before any inventory may be issued to it."
+        },
+        {
+          "key": "_orderShippingHold",
+          "source": "This Sales Order is on Shipping Hold and must be taken off of Shipping Hold before it may be shipped."
+        },
+        {
+          "key": "_orderType",
+          "source": "Order Type"
+        },
+        {
+          "key": "_orderWorkflow",
+          "source": "Order Workflow"
         },
         {
           "key": "_organization",
-          "source": "Organization",
-          "target": ""
+          "source": "Organization"
         },
         {
           "key": "_other",
-          "source": "Other",
-          "target": ""
+          "source": "Other"
         },
         {
           "key": "_outsideProcess",
-          "source": "Outside Process",
-          "target": ""
+          "source": "Outside Process"
         },
         {
           "key": "_overridePrice",
-          "source": "Override Price",
-          "target": ""
+          "source": "Override Price"
         },
         {
           "key": "_overrideSODate",
-          "source": "Override Order Date",
-          "target": ""
+          "source": "Override Order Date"
         },
         {
           "key": "_overrideTax",
-          "source": "Override Tax Type",
-          "target": ""
+          "source": "Override Tax Type"
         },
         {
           "key": "_owner",
-          "source": "Owner",
-          "target": ""
+          "source": "Owner"
         },
         {
           "key": "_packDate",
-          "source": "Pack Date",
-          "target": ""
+          "source": "Pack Date"
         },
         {
           "key": "_packing",
-          "source": "Packing",
-          "target": ""
+          "source": "Packing"
         },
         {
           "key": "_paid",
-          "source": "Paid",
-          "target": ""
+          "source": "Paid"
         },
         {
           "key": "_partialReschedule",
-          "source": "Some exclusive items may not be rescheduled because there is no valid price schedule for the date entered.",
-          "target": ""
+          "source": "Some exclusive items may not be rescheduled because there is no valid price schedule for the date entered."
         },
         {
           "key": "_partialShip",
-          "source": "Accepts Partial Shipments",
-          "target": ""
+          "source": "Accepts Partial Shipments"
         },
         {
           "key": "_partner",
-          "source": "Partner",
-          "target": ""
+          "source": "Partner"
         },
         {
           "key": "_password",
-          "source": "Password",
-          "target": ""
+          "source": "Password"
         },
         {
           "key": "_path",
-          "source": "Path",
-          "target": ""
+          "source": "Path"
         },
         {
           "key": "_pattern",
-          "source": "Pattern",
-          "target": ""
+          "source": "Pattern"
         },
         {
           "key": "_payment",
-          "source": "Payment",
-          "target": ""
+          "source": "Payment"
         },
         {
           "key": "_pending",
-          "source": "Pending",
-          "target": ""
+          "source": "Pending"
         },
         {
           "key": "_percent",
-          "source": "Percent",
-          "target": ""
+          "source": "Percent"
         },
         {
           "key": "_period",
-          "source": "Period",
-          "target": ""
+          "source": "Period"
         },
         {
           "key": "_phantom",
-          "source": "Phantom",
-          "target": ""
+          "source": "Phantom"
         },
         {
           "key": "_phone",
-          "source": "Phone",
-          "target": ""
+          "source": "Phone"
         },
         {
           "key": "_plannerCode",
-          "source": "Planner Code",
-          "target": ""
+          "source": "Planner Code"
         },
         {
           "key": "_plannerCodes",
-          "source": "Planner Codes",
-          "target": ""
+          "source": "Planner Codes"
         },
         {
           "key": "_planning",
-          "source": "Planning",
-          "target": ""
+          "source": "Planning"
         },
         {
           "key": "_pleaseLogin",
-          "source": "Please Login",
-          "target": ""
+          "source": "Please Login"
         },
         {
           "key": "_policy",
-          "source": "Policy",
-          "target": ""
+          "source": "Policy"
         },
         {
           "key": "_post",
-          "source": "Post",
-          "target": ""
+          "source": "Post"
         },
         {
           "key": "_postbooks",
-          "source": "PostBooks",
-          "target": ""
+          "source": "PostBooks"
         },
         {
           "key": "_posted",
-          "source": "Posted",
-          "target": ""
+          "source": "Posted"
         },
         {
           "key": "_predecessors",
-          "source": "Predecessors",
-          "target": ""
+          "source": "Predecessors"
         },
         {
           "key": "_price",
-          "source": "Price",
-          "target": ""
+          "source": "Price"
         },
         {
           "key": "_priceMode",
-          "source": "Price Mode",
-          "target": ""
-        },
-        {
-          "key": "_priceUnit",
-          "source": "Price Unit",
-          "target": ""
-        },
-        {
-          "key": "_priceUnitRatio",
-          "source": "Price Unit Ratio",
-          "target": ""
+          "source": "Price Mode"
         },
         {
           "key": "_prices",
-          "source": "Prices",
-          "target": ""
+          "source": "Prices"
+        },
+        {
+          "key": "_priceUnit",
+          "source": "Price Unit"
+        },
+        {
+          "key": "_priceUnitRatio",
+          "source": "Price Unit Ratio"
         },
         {
           "key": "_primaryContact",
-          "source": "Primary Contact",
-          "target": ""
+          "source": "Primary Contact"
         },
         {
           "key": "_primaryEmail",
-          "source": "Primary Email",
-          "target": ""
-        },
-        {
-          "key": "_printOnSave",
-          "source": "Print on Save",
-          "target": ""
+          "source": "Primary Email"
         },
         {
           "key": "_printed",
-          "source": "Printed",
-          "target": ""
+          "source": "Printed"
+        },
+        {
+          "key": "_printOnSave",
+          "source": "Print on Save"
         },
         {
           "key": "_priorities",
-          "source": "Priorities",
-          "target": ""
+          "source": "Priorities"
         },
         {
           "key": "_priority",
-          "source": "Priority",
-          "target": ""
+          "source": "Priority"
         },
         {
           "key": "_privilege",
-          "source": "Privilege",
-          "target": ""
+          "source": "Privilege"
         },
         {
           "key": "_privileges",
-          "source": "Privileges",
-          "target": ""
+          "source": "Privileges"
         },
         {
           "key": "_probability",
-          "source": "Probability",
-          "target": ""
+          "source": "Probability"
         },
         {
           "key": "_product",
-          "source": "Product",
-          "target": ""
+          "source": "Product"
         },
         {
           "key": "_productCategories",
-          "source": "Product Categories",
-          "target": ""
+          "source": "Product Categories"
         },
         {
           "key": "_productCategory",
-          "source": "Product Category",
-          "target": ""
+          "source": "Product Category"
         },
         {
           "key": "_products",
-          "source": "Products",
-          "target": ""
+          "source": "Products"
         },
         {
           "key": "_profit",
-          "source": "Profit",
-          "target": ""
+          "source": "Profit"
         },
         {
           "key": "_project",
-          "source": "Project",
-          "target": ""
-        },
-        {
-          "key": "_projectType",
-          "source": "Project Type",
-          "target": ""
+          "source": "Project"
         },
         {
           "key": "_projects",
-          "source": "Projects",
-          "target": ""
+          "source": "Projects"
+        },
+        {
+          "key": "_projectType",
+          "source": "Project Type"
         },
         {
           "key": "_promiseDate",
-          "source": "Promised Date",
-          "target": ""
+          "source": "Promised Date"
         },
         {
           "key": "_properName",
-          "source": "Proper Name",
-          "target": ""
+          "source": "Proper Name"
         },
         {
           "key": "_propername",
-          "source": "Propername",
-          "target": ""
+          "source": "Propername"
         },
         {
           "key": "_prospect",
-          "source": "Prospect",
-          "target": ""
+          "source": "Prospect"
         },
         {
           "key": "_prospectExists",
-          "source": "This number is currently assigned to a Prospect.",
-          "target": ""
+          "source": "This number is currently assigned to a Prospect."
         },
         {
           "key": "_prospects",
-          "source": "Prospects",
-          "target": ""
+          "source": "Prospects"
         },
         {
           "key": "_proximo",
-          "source": "Proximo",
-          "target": ""
+          "source": "Proximo"
         },
         {
           "key": "_public",
-          "source": "Public",
-          "target": ""
-        },
-        {
-          "key": "_purchaseOrder",
-          "source": "Purchase Order",
-          "target": ""
-        },
-        {
-          "key": "_purchaseOrderDate",
-          "source": "Purchased",
-          "target": ""
-        },
-        {
-          "key": "_purchaseOrderNumber",
-          "source": "Purchase Order",
-          "target": ""
+          "source": "Public"
         },
         {
           "key": "_purchased",
-          "source": "Purchased",
-          "target": ""
+          "source": "Purchased"
+        },
+        {
+          "key": "_purchaseOrder",
+          "source": "Purchase Order"
+        },
+        {
+          "key": "_purchaseOrderDate",
+          "source": "Purchased"
+        },
+        {
+          "key": "_purchaseOrderNumber",
+          "source": "Purchase Order"
         },
         {
           "key": "_qualifier",
-          "source": "Qualifier",
-          "target": ""
+          "source": "Qualifier"
         },
         {
           "key": "_quantity",
-          "source": "Quantity",
-          "target": ""
+          "source": "Quantity"
         },
         {
           "key": "_quantityAfter",
-          "source": "Quantity After",
-          "target": ""
+          "source": "Quantity After"
         },
         {
           "key": "_quantityBefore",
-          "source": "Quantity Before",
-          "target": ""
+          "source": "Quantity Before"
         },
         {
           "key": "_quantityOrd",
-          "source": "Qty Ordered",
-          "target": ""
+          "source": "Qty Ordered"
         },
         {
           "key": "_quantityShip",
-          "source": "Qty Shipped",
-          "target": ""
+          "source": "Qty Shipped"
         },
         {
           "key": "_quantityUnit",
-          "source": "Quantity Unit",
-          "target": ""
+          "source": "Quantity Unit"
         },
         {
           "key": "_quantityUnitRatio",
-          "source": "Qty Unit Ratio",
-          "target": ""
+          "source": "Qty Unit Ratio"
         },
         {
           "key": "_quote",
-          "source": "Quote",
-          "target": ""
+          "source": "Quote"
         },
         {
           "key": "_quoteDate",
-          "source": "Quote Date",
-          "target": ""
+          "source": "Quote Date"
         },
         {
           "key": "_quoteLine",
-          "source": "Quote Line",
-          "target": ""
+          "source": "Quote Line"
         },
         {
           "key": "_quotes",
-          "source": "Quotes",
-          "target": ""
-        },
-        {
-          "key": "_reEnterPassword",
-          "source": "Re-Enter Password",
-          "target": ""
+          "source": "Quotes"
         },
         {
           "key": "_reasonCode",
-          "source": "Reason Code",
-          "target": ""
+          "source": "Reason Code"
         },
         {
           "key": "_reasonCodes",
-          "source": "Reason Codes",
-          "target": ""
+          "source": "Reason Codes"
         },
         {
           "key": "_reassign",
-          "source": "Reassign",
-          "target": ""
+          "source": "Reassign"
         },
         {
           "key": "_reassignSelectedActivities",
-          "source": "Reassign Selected Activities",
-          "target": ""
+          "source": "Reassign Selected Activities"
         },
         {
           "key": "_reassignToDoItems",
-          "source": "Edit Assign To",
-          "target": ""
+          "source": "Edit Assign To"
         },
         {
           "key": "_reassignUser",
-          "source": "Reassign User",
-          "target": ""
+          "source": "Reassign User"
         },
         {
           "key": "_recalculateAll?",
-          "source": "Do you want to recalculate all prices line items, taxes, and freight ?",
-          "target": ""
+          "source": "Do you want to recalculate all prices line items, taxes, and freight ?"
         },
         {
           "key": "_recallInvoicedShipment",
-          "source": "Recall Invoiced Shipment",
-          "target": ""
+          "source": "Recall Invoiced Shipment"
         },
         {
           "key": "_recallOrders",
-          "source": "Recall Orders",
-          "target": ""
+          "source": "Recall Orders"
         },
         {
           "key": "_received",
-          "source": "Received",
-          "target": ""
+          "source": "Received"
         },
         {
           "key": "_recurrences",
-          "source": "Recurrences",
-          "target": ""
+          "source": "Recurrences"
         },
         {
           "key": "_recurring",
-          "source": "Recurring",
-          "target": ""
+          "source": "Recurring"
+        },
+        {
+          "key": "_reEnterPassword",
+          "source": "Re-Enter Password"
         },
         {
           "key": "_reference",
-          "source": "Reference",
-          "target": ""
+          "source": "Reference"
         },
         {
           "key": "_regular",
-          "source": "Regular",
-          "target": ""
+          "source": "Regular"
         },
         {
           "key": "_relationships",
-          "source": "Relationships",
-          "target": ""
+          "source": "Relationships"
         },
         {
           "key": "_release",
-          "source": "Release",
-          "target": ""
+          "source": "Release"
         },
         {
           "key": "_replyTo",
-          "source": "Reply To",
-          "target": ""
+          "source": "Reply To"
         },
         {
           "key": "_requireCCV",
-          "source": "Require CCV",
-          "target": ""
+          "source": "Require CCV"
         },
         {
           "key": "_required",
-          "source": "Required",
-          "target": ""
+          "source": "Required"
         },
         {
           "key": "_rescheduleAll",
-          "source": "Changing this date will update the Schedule Date on all editable line items.",
-          "target": ""
+          "source": "Changing this date will update the Schedule Date on all editable line items."
         },
         {
           "key": "_resolution",
-          "source": "Resolution",
-          "target": ""
+          "source": "Resolution"
         },
         {
           "key": "_resolved",
-          "source": "Resolved",
-          "target": ""
+          "source": "Resolved"
         },
         {
           "key": "_return",
-          "source": "Return",
-          "target": ""
+          "source": "Return"
         },
         {
           "key": "_returnDate",
-          "source": "Return Date",
-          "target": ""
-        },
-        {
-          "key": "_returnLine",
-          "source": "Return Line",
-          "target": ""
-        },
-        {
-          "key": "_returnStockFromShipping",
-          "source": "Return Stock from Shipping",
-          "target": ""
+          "source": "Return Date"
         },
         {
           "key": "_returned",
-          "source": "Returned",
-          "target": ""
+          "source": "Returned"
+        },
+        {
+          "key": "_returnLine",
+          "source": "Return Line"
         },
         {
           "key": "_returns",
-          "source": "Returns",
-          "target": ""
+          "source": "Returns"
+        },
+        {
+          "key": "_returnStockFromShipping",
+          "source": "Return Stock from Shipping"
         },
         {
           "key": "_revenue",
-          "source": "Revenue",
-          "target": ""
+          "source": "Revenue"
         },
         {
           "key": "_roles",
-          "source": "Roles",
-          "target": ""
+          "source": "Roles"
         },
         {
           "key": "_salaried",
-          "source": "Salaried",
-          "target": ""
-        },
-        {
-          "key": "_saleType",
-          "source": "Sale Type",
-          "target": ""
-        },
-        {
-          "key": "_saleTypes",
-          "source": "Sale Types",
-          "target": ""
+          "source": "Salaried"
         },
         {
           "key": "_sales",
-          "source": "Sales",
-          "target": ""
+          "source": "Sales"
         },
         {
           "key": "_salesEmailProfile",
-          "source": "Sales Email Profile",
-          "target": ""
+          "source": "Sales Email Profile"
         },
         {
           "key": "_salesEmailProfiles",
-          "source": "Sales Email Profiles",
-          "target": ""
+          "source": "Sales Email Profiles"
         },
         {
           "key": "_salesOrder",
-          "source": "Sales Order",
-          "target": ""
+          "source": "Sales Order"
         },
         {
           "key": "_salesOrderDate",
-          "source": "Sales Order Date",
-          "target": ""
+          "source": "Sales Order Date"
         },
         {
           "key": "_salesOrderLine",
-          "source": "Sales Order Line",
-          "target": ""
-        },
-        {
-          "key": "_salesOrderWorkflow",
-          "source": "Sales Order Workflow",
-          "target": ""
+          "source": "Sales Order Line"
         },
         {
           "key": "_salesOrders",
-          "source": "Sales Orders",
-          "target": ""
+          "source": "Sales Orders"
+        },
+        {
+          "key": "_salesOrderWorkflow",
+          "source": "Sales Order Workflow"
         },
         {
           "key": "_salesRep",
-          "source": "Sales Rep",
-          "target": ""
+          "source": "Sales Rep"
         },
         {
           "key": "_salesReps",
-          "source": "Sales Reps",
-          "target": ""
+          "source": "Sales Reps"
+        },
+        {
+          "key": "_saleType",
+          "source": "Sale Type"
+        },
+        {
+          "key": "_saleTypes",
+          "source": "Sale Types"
         },
         {
           "key": "_schedDate",
-          "source": "Schedule Date",
-          "target": ""
+          "source": "Schedule Date"
         },
         {
           "key": "_schedule",
-          "source": "Schedule",
-          "target": ""
-        },
-        {
-          "key": "_scheduleDate",
-          "source": "Schedule Date",
-          "target": ""
+          "source": "Schedule"
         },
         {
           "key": "_scheduled",
-          "source": "Scheduled",
-          "target": ""
+          "source": "Scheduled"
+        },
+        {
+          "key": "_scheduleDate",
+          "source": "Schedule Date"
         },
         {
           "key": "_secondaryContact",
-          "source": "Secondary Contact",
-          "target": ""
+          "source": "Secondary Contact"
         },
         {
           "key": "_selectBaseCurrency",
-          "source": "Please select a base currency for this database:",
-          "target": ""
+          "source": "Please select a base currency for this database:"
         },
         {
           "key": "_selectBilling",
-          "source": "Select Sales Order for Billing",
-          "target": ""
-        },
-        {
-          "key": "_selectOrganization",
-          "source": "Select Organization",
-          "target": ""
+          "source": "Select Sales Order for Billing"
         },
         {
           "key": "_selection",
-          "source": "Selection",
-          "target": ""
+          "source": "Selection"
+        },
+        {
+          "key": "_selectOrganization",
+          "source": "Select Organization"
         },
         {
           "key": "_sense",
-          "source": "Sense",
-          "target": ""
+          "source": "Sense"
         },
         {
           "key": "_sequence",
-          "source": "Sequence",
-          "target": ""
+          "source": "Sequence"
         },
         {
           "key": "_series",
-          "source": "Series",
-          "target": ""
+          "source": "Series"
         },
         {
           "key": "_sessionTimedOut",
-          "source": "Your session has timed out",
-          "target": ""
+          "source": "Your session has timed out"
         },
         {
           "key": "_setBaseCurrToUSD",
-          "source": "Set Base Currency to USD ($)",
-          "target": ""
+          "source": "Set Base Currency to USD ($)"
         },
         {
           "key": "_settings",
-          "source": "Settings",
-          "target": ""
+          "source": "Settings"
         },
         {
           "key": "_setup",
-          "source": "Setup",
-          "target": ""
+          "source": "Setup"
         },
         {
           "key": "_severity",
-          "source": "Severity",
-          "target": ""
+          "source": "Severity"
         },
         {
           "key": "_shared",
-          "source": "Shared",
-          "target": ""
+          "source": "Shared"
         },
         {
           "key": "_shift",
-          "source": "Shift",
-          "target": ""
+          "source": "Shift"
         },
         {
           "key": "_shifts",
-          "source": "Shifts",
-          "target": ""
+          "source": "Shifts"
         },
         {
           "key": "_shipCharge",
-          "source": "Shipping Charges",
-          "target": ""
+          "source": "Shipping Charges"
         },
         {
           "key": "_shipComplete",
-          "source": "Ship Complete",
-          "target": ""
+          "source": "Ship Complete"
         },
         {
           "key": "_shipForm",
-          "source": "Shipping Form",
-          "target": ""
+          "source": "Shipping Form"
         },
         {
           "key": "_shipNumber",
-          "source": "Shipment #",
-          "target": ""
+          "source": "Shipment #"
         },
         {
           "key": "_shipOrders",
-          "source": "Ship Orders",
-          "target": ""
-        },
-        {
-          "key": "_shipTo",
-          "source": "Ship To",
-          "target": ""
-        },
-        {
-          "key": "_shipVia",
-          "source": "Ship Via",
-          "target": ""
-        },
-        {
-          "key": "_shipVias",
-          "source": "Ship Vias",
-          "target": ""
-        },
-        {
-          "key": "_shipZone",
-          "source": "Ship Zone",
-          "target": ""
-        },
-        {
-          "key": "_shipZones",
-          "source": "Ship Zones",
-          "target": ""
+          "source": "Ship Orders"
         },
         {
           "key": "_shipping",
-          "source": "Shipping",
-          "target": ""
+          "source": "Shipping"
         },
         {
           "key": "_shippingNotes",
-          "source": "Shipping Notes",
-          "target": ""
+          "source": "Shipping Notes"
+        },
+        {
+          "key": "_shipTo",
+          "source": "Ship To"
         },
         {
           "key": "_shiptoAddress1",
-          "source": "Ship To Address",
-          "target": ""
+          "source": "Ship To Address"
         },
         {
           "key": "_shiptoName",
-          "source": "Ship To Name",
-          "target": ""
+          "source": "Ship To Name"
         },
         {
           "key": "_shiptoPhone",
-          "source": "Ship To Phone",
-          "target": ""
+          "source": "Ship To Phone"
+        },
+        {
+          "key": "_shipVia",
+          "source": "Ship Via"
+        },
+        {
+          "key": "_shipVias",
+          "source": "Ship Vias"
+        },
+        {
+          "key": "_shipZone",
+          "source": "Ship Zone"
+        },
+        {
+          "key": "_shipZones",
+          "source": "Ship Zones"
         },
         {
           "key": "_show",
-          "source": "Show",
-          "target": ""
+          "source": "Show"
         },
         {
           "key": "_showClosed",
-          "source": "Show Closed",
-          "target": ""
+          "source": "Show Closed"
         },
         {
           "key": "_showCompleted",
-          "source": "Show Complete",
-          "target": ""
+          "source": "Show Complete"
         },
         {
           "key": "_showCompletedOnly",
-          "source": "Show Complete Only",
-          "target": ""
+          "source": "Show Complete Only"
         },
         {
           "key": "_showExpired",
-          "source": "Show Expired",
-          "target": ""
+          "source": "Show Expired"
         },
         {
           "key": "_showInactive",
-          "source": "Show Inactive",
-          "target": ""
+          "source": "Show Inactive"
         },
         {
           "key": "_showMarginsOnSalesOrder",
-          "source": "Show Margins",
-          "target": ""
+          "source": "Show Margins"
         },
         {
           "key": "_showOnlyTopLevel",
-          "source": "Show Only Top Level",
-          "target": ""
+          "source": "Show Only Top Level"
         },
         {
           "key": "_showPosted",
-          "source": "Show Posted",
-          "target": ""
-        },
-        {
-          "key": "_showUnReleased",
-          "source": "Show Unreleased",
-          "target": ""
+          "source": "Show Posted"
         },
         {
           "key": "_showUnposted",
-          "source": "Show Unposted",
-          "target": ""
+          "source": "Show Unposted"
+        },
+        {
+          "key": "_showUnReleased",
+          "source": "Show Unreleased"
         },
         {
           "key": "_showVoided",
-          "source": "Show Voided",
-          "target": ""
+          "source": "Show Voided"
         },
         {
           "key": "_site",
-          "source": "Site",
-          "target": ""
+          "source": "Site"
         },
         {
           "key": "_siteCode",
-          "source": "Site Code",
-          "target": ""
-        },
-        {
-          "key": "_siteType",
-          "source": "Site Type",
-          "target": ""
-        },
-        {
-          "key": "_siteTypes",
-          "source": "Site Types",
-          "target": ""
+          "source": "Site Code"
         },
         {
           "key": "_sites",
-          "source": "Sites",
-          "target": ""
+          "source": "Sites"
+        },
+        {
+          "key": "_siteType",
+          "source": "Site Type"
+        },
+        {
+          "key": "_siteTypes",
+          "source": "Site Types"
         },
         {
           "key": "_sold",
-          "source": "Sold",
-          "target": ""
+          "source": "Sold"
         },
         {
           "key": "_soldRanking",
-          "source": "Sold Ranking",
-          "target": ""
+          "source": "Sold Ranking"
         },
         {
           "key": "_source",
-          "source": "Source",
-          "target": ""
+          "source": "Source"
         },
         {
           "key": "_sourceType",
-          "source": "Source Type",
-          "target": ""
+          "source": "Source Type"
         },
         {
           "key": "_stage",
-          "source": "Stage",
-          "target": ""
+          "source": "Stage"
         },
         {
           "key": "_standardCost",
-          "source": "Standard Cost",
-          "target": ""
+          "source": "Standard Cost"
         },
         {
           "key": "_start",
-          "source": "Start",
-          "target": ""
+          "source": "Start"
         },
         {
           "key": "_startDate",
-          "source": "Start Date",
-          "target": ""
+          "source": "Start Date"
         },
         {
           "key": "_states",
-          "source": "States",
-          "target": ""
+          "source": "States"
         },
         {
           "key": "_status",
-          "source": "Status",
-          "target": ""
+          "source": "Status"
         },
         {
           "key": "_string",
-          "source": "String",
-          "target": ""
+          "source": "String"
         },
         {
           "key": "_subject",
-          "source": "Subject",
-          "target": ""
+          "source": "Subject"
         },
         {
           "key": "_subtotal",
-          "source": "Subtotal",
-          "target": ""
+          "source": "Subtotal"
         },
         {
           "key": "_successors",
-          "source": "Successors",
-          "target": ""
+          "source": "Successors"
         },
         {
           "key": "_suffix",
-          "source": "Suffix",
-          "target": ""
+          "source": "Suffix"
         },
         {
           "key": "_summary",
-          "source": "Summary",
-          "target": ""
+          "source": "Summary"
         },
         {
           "key": "_symbol",
-          "source": "Symbol",
-          "target": ""
+          "source": "Symbol"
         },
         {
           "key": "_system",
-          "source": "System",
-          "target": ""
+          "source": "System"
         },
         {
           "key": "_systemConfiguration",
-          "source": "System Configuration",
-          "target": ""
+          "source": "System Configuration"
         },
         {
           "key": "_target",
-          "source": "Target",
-          "target": ""
+          "source": "Target"
         },
         {
           "key": "_targetClose",
-          "source": "Target Close",
-          "target": ""
+          "source": "Target Close"
         },
         {
           "key": "_targetType",
-          "source": "Target Type",
-          "target": ""
+          "source": "Target Type"
         },
         {
           "key": "_task",
-          "source": "Task",
-          "target": ""
+          "source": "Task"
         },
         {
           "key": "_tasks",
-          "source": "Tasks",
-          "target": ""
+          "source": "Tasks"
         },
         {
           "key": "_tax",
-          "source": "Tax",
-          "target": ""
+          "source": "Tax"
         },
         {
           "key": "_taxAdjustments",
-          "source": "Tax Adjustments",
-          "target": ""
+          "source": "Tax Adjustments"
         },
         {
           "key": "_taxAssignment",
-          "source": "Tax Assignment",
-          "target": ""
+          "source": "Tax Assignment"
         },
         {
           "key": "_taxAuthority",
-          "source": "Tax Authority",
-          "target": ""
+          "source": "Tax Authority"
         },
         {
           "key": "_taxClass",
-          "source": "Tax Class",
-          "target": ""
+          "source": "Tax Class"
         },
         {
           "key": "_taxCode",
-          "source": "Tax Code",
-          "target": ""
-        },
-        {
-          "key": "_taxRate",
-          "source": "Tax Rate",
-          "target": ""
-        },
-        {
-          "key": "_taxRegistration",
-          "source": "Tax Registrations",
-          "target": ""
-        },
-        {
-          "key": "_taxTotal",
-          "source": "Tax Total",
-          "target": ""
-        },
-        {
-          "key": "_taxType",
-          "source": "Tax Type",
-          "target": ""
-        },
-        {
-          "key": "_taxZone",
-          "source": "Tax Zone",
-          "target": ""
+          "source": "Tax Code"
         },
         {
           "key": "_taxes",
-          "source": "Taxes",
-          "target": ""
+          "source": "Taxes"
+        },
+        {
+          "key": "_taxRate",
+          "source": "Tax Rate"
+        },
+        {
+          "key": "_taxRegistration",
+          "source": "Tax Registrations"
+        },
+        {
+          "key": "_taxTotal",
+          "source": "Tax Total"
+        },
+        {
+          "key": "_taxType",
+          "source": "Tax Type"
+        },
+        {
+          "key": "_taxZone",
+          "source": "Tax Zone"
         },
         {
           "key": "_terms",
-          "source": "Terms",
-          "target": ""
+          "source": "Terms"
         },
         {
           "key": "_testMode",
-          "source": "Test Mode",
-          "target": ""
+          "source": "Test Mode"
         },
         {
           "key": "_text",
-          "source": "Text",
-          "target": ""
+          "source": "Text"
         },
         {
           "key": "_thisMonth",
-          "source": "This Month",
-          "target": ""
+          "source": "This Month"
         },
         {
           "key": "_thisWeek",
-          "source": "This Week",
-          "target": ""
+          "source": "This Week"
         },
         {
           "key": "_thisYear",
-          "source": "This Year",
-          "target": ""
+          "source": "This Year"
         },
         {
           "key": "_time",
-          "source": "Time",
-          "target": ""
+          "source": "Time"
         },
         {
           "key": "_timeFrame",
-          "source": "Time Frame",
-          "target": ""
+          "source": "Time Frame"
         },
         {
           "key": "_to",
-          "source": "To",
-          "target": ""
+          "source": "To"
         },
         {
           "key": "_toDate",
-          "source": "To Date",
-          "target": ""
+          "source": "To Date"
         },
         {
           "key": "_toDo",
-          "source": "To Do",
-          "target": ""
+          "source": "To Do"
         },
         {
           "key": "_toDoRelations",
-          "source": "To Dos",
-          "target": ""
-        },
-        {
-          "key": "_toDoStatus",
-          "source": "To Do Status",
-          "target": ""
+          "source": "To Dos"
         },
         {
           "key": "_toDos",
-          "source": "To Dos",
-          "target": ""
+          "source": "To Dos"
         },
         {
-          "key": "_toReceive",
-          "source": "To Receive",
-          "target": ""
-        },
-        {
-          "key": "_toUnit",
-          "source": "To Unit",
-          "target": ""
+          "key": "_toDoStatus",
+          "source": "To Do Status"
         },
         {
           "key": "_tooling",
-          "source": "Tooling",
-          "target": ""
+          "source": "Tooling"
+        },
+        {
+          "key": "_toReceive",
+          "source": "To Receive"
         },
         {
           "key": "_total",
-          "source": "Total",
-          "target": ""
+          "source": "Total"
         },
         {
           "key": "_totals",
-          "source": "Totals",
-          "target": ""
+          "source": "Totals"
+        },
+        {
+          "key": "_toUnit",
+          "source": "To Unit"
         },
         {
           "key": "_trace",
-          "source": "Trace",
-          "target": ""
+          "source": "Trace"
         },
         {
           "key": "_transactionDate",
-          "source": "Transaction Date",
-          "target": ""
+          "source": "Transaction Date"
         },
         {
           "key": "_transactionSuccessful",
-          "source": "Transaction Successful",
-          "target": ""
+          "source": "Transaction Successful"
         },
         {
           "key": "_transactionType",
-          "source": "Transaction Type",
-          "target": ""
+          "source": "Transaction Type"
         },
         {
           "key": "_trigger",
-          "source": "Trigger",
-          "target": ""
+          "source": "Trigger"
         },
         {
           "key": "_twoYears",
-          "source": "Two Years",
-          "target": ""
+          "source": "Two Years"
         },
         {
           "key": "_type",
-          "source": "Type",
-          "target": ""
+          "source": "Type"
         },
         {
           "key": "_typePattern",
-          "source": "Type Pattern",
-          "target": ""
+          "source": "Type Pattern"
         },
         {
           "key": "_unit",
-          "source": "Unit",
-          "target": ""
+          "source": "Unit"
         },
         {
           "key": "_unitCost",
-          "source": "Unit Cost",
-          "target": ""
+          "source": "Unit Cost"
         },
         {
           "key": "_unitCosts",
-          "source": "Unit Costs",
-          "target": ""
+          "source": "Unit Costs"
         },
         {
           "key": "_unitPrice",
-          "source": "Net Unit Price",
-          "target": ""
-        },
-        {
-          "key": "_unitType",
-          "source": "Unit Type",
-          "target": ""
+          "source": "Net Unit Price"
         },
         {
           "key": "_units",
-          "source": "Units",
-          "target": ""
+          "source": "Units"
+        },
+        {
+          "key": "_unitType",
+          "source": "Unit Type"
         },
         {
           "key": "_unknown",
-          "source": "(unknown)",
-          "target": ""
+          "source": "(unknown)"
         },
         {
           "key": "_unrelease",
-          "source": "Unrelease",
-          "target": ""
+          "source": "Unrelease"
         },
         {
           "key": "_unreleased",
-          "source": "Unreleased",
-          "target": ""
+          "source": "Unreleased"
         },
         {
           "key": "_unsupportedGateway",
-          "source": "Unsupported Gateway",
-          "target": ""
+          "source": "Unsupported Gateway"
         },
         {
           "key": "_uom",
-          "source": "UOM",
-          "target": ""
+          "source": "UOM"
         },
         {
           "key": "_upcCode",
-          "source": "UPC Code",
-          "target": ""
+          "source": "UPC Code"
         },
         {
           "key": "_updateCustomerCreditStatus",
-          "source": "Update Credit Status",
-          "target": ""
-        },
-        {
-          "key": "_updateFractional",
-          "source": "The quantity ordered and unit of measure selected will result in a fractional inventory qty for this item. This item does not allow fractional quantities; the quantity will be updated accordingly.",
-          "target": ""
-        },
-        {
-          "key": "_updateHoldType?",
-          "source": "Would you like to over-write the existing hold type with the default for this selection?",
-          "target": ""
-        },
-        {
-          "key": "_updatePrice?",
-          "source": "You have changed the price basis, do you want to update the Price?",
-          "target": ""
+          "source": "Update Credit Status"
         },
         {
           "key": "_updated",
-          "source": "Updated",
-          "target": ""
+          "source": "Updated"
         },
         {
           "key": "_updatedBy",
-          "source": "Updated By",
-          "target": ""
+          "source": "Updated By"
+        },
+        {
+          "key": "_updateFractional",
+          "source": "The quantity ordered and unit of measure selected will result in a fractional inventory qty for this item. This item does not allow fractional quantities; the quantity will be updated accordingly."
+        },
+        {
+          "key": "_updateHoldType?",
+          "source": "Would you like to over-write the existing hold type with the default for this selection?"
+        },
+        {
+          "key": "_updatePrice?",
+          "source": "You have changed the price basis, do you want to update the Price?"
         },
         {
           "key": "_url",
-          "source": "Link",
-          "target": ""
+          "source": "Link"
         },
         {
           "key": "_urls",
-          "source": "Links",
-          "target": ""
+          "source": "Links"
         },
         {
           "key": "_useDescription",
-          "source": "Use Description",
-          "target": ""
+          "source": "Use Description"
         },
         {
           "key": "_useEnhancedAuth",
-          "source": "Use Enhanced Authentication",
-          "target": ""
+          "source": "Use Enhanced Authentication"
         },
         {
           "key": "_user",
-          "source": "User",
-          "target": ""
+          "source": "User"
         },
         {
           "key": "_userAccount",
-          "source": "User Account",
-          "target": ""
+          "source": "User Account"
         },
         {
           "key": "_userAccountRole",
-          "source": "User Account Role",
-          "target": ""
+          "source": "User Account Role"
         },
         {
           "key": "_userAccountRoles",
-          "source": "User Account Roles",
-          "target": ""
+          "source": "User Account Roles"
         },
         {
           "key": "_userAccounts",
-          "source": "User Accounts",
-          "target": ""
-        },
-        {
-          "key": "_userPreference",
-          "source": "User Preference",
-          "target": ""
-        },
-        {
-          "key": "_userPreferences",
-          "source": "User Preferences",
-          "target": ""
+          "source": "User Accounts"
         },
         {
           "key": "_username",
-          "source": "Username",
-          "target": ""
+          "source": "Username"
+        },
+        {
+          "key": "_userPreference",
+          "source": "User Preference"
+        },
+        {
+          "key": "_userPreferences",
+          "source": "User Preferences"
         },
         {
           "key": "_usesPurchaseOrders",
-          "source": "Uses Purchase Orders",
-          "target": ""
+          "source": "Uses Purchase Orders"
         },
         {
           "key": "_validator",
-          "source": "Validator",
-          "target": ""
+          "source": "Validator"
         },
         {
           "key": "_value",
-          "source": "Value",
-          "target": ""
+          "source": "Value"
         },
         {
           "key": "_valueAfter",
-          "source": "Value After",
-          "target": ""
+          "source": "Value After"
         },
         {
           "key": "_valueBefore",
-          "source": "Value Before",
-          "target": ""
+          "source": "Value Before"
         },
         {
           "key": "_vendor",
-          "source": "Vendor",
-          "target": ""
+          "source": "Vendor"
         },
         {
           "key": "_vendorAddress",
-          "source": "Vendor Address",
-          "target": ""
+          "source": "Vendor Address"
         },
         {
           "key": "_vendorType",
-          "source": "Vendor Type",
-          "target": ""
+          "source": "Vendor Type"
         },
         {
           "key": "_verified",
-          "source": "Verified",
-          "target": ""
+          "source": "Verified"
         },
         {
           "key": "_version",
-          "source": "Version",
-          "target": ""
+          "source": "Version"
         },
         {
           "key": "_viewAddresses",
-          "source": "View Addresses",
-          "target": ""
-        },
-        {
-          "key": "_viewAllCRMAccounts",
-          "source": "View All Accounts",
-          "target": ""
+          "source": "View Addresses"
         },
         {
           "key": "_viewAllContacts",
-          "source": "View All Contacts",
-          "target": ""
+          "source": "View All Contacts"
+        },
+        {
+          "key": "_viewAllCRMAccounts",
+          "source": "View All Accounts"
         },
         {
           "key": "_viewAllIncidents",
-          "source": "View All Incidents",
-          "target": ""
+          "source": "View All Incidents"
         },
         {
           "key": "_viewAllOpportunities",
-          "source": "View All Opportunities",
-          "target": ""
+          "source": "View All Opportunities"
         },
         {
           "key": "_viewAllProjects",
-          "source": "View All Projects",
-          "target": ""
+          "source": "View All Projects"
         },
         {
           "key": "_viewAllToDoItems",
-          "source": "View All To-Do Items",
-          "target": ""
+          "source": "View All To-Do Items"
         },
         {
           "key": "_viewBankAccounts",
-          "source": "View Bank Accounts",
-          "target": ""
+          "source": "View Bank Accounts"
         },
         {
           "key": "_viewCharacteristics",
-          "source": "View Characteristics",
-          "target": ""
+          "source": "View Characteristics"
         },
         {
           "key": "_viewClassCodes",
-          "source": "View Class Codes",
-          "target": ""
+          "source": "View Class Codes"
         },
         {
           "key": "_viewCostCategories",
-          "source": "View Cost Categories",
-          "target": ""
+          "source": "View Cost Categories"
         },
         {
           "key": "_viewCosts",
-          "source": "View Costs",
-          "target": ""
+          "source": "View Costs"
         },
         {
           "key": "_viewCurrencyRates",
-          "source": "View Currency Rates",
-          "target": ""
+          "source": "View Currency Rates"
         },
         {
           "key": "_viewCustomerGroups",
-          "source": "View Customer Groups",
-          "target": ""
+          "source": "View Customer Groups"
         },
         {
           "key": "_viewCustomerMasters",
-          "source": "View Customers",
-          "target": ""
+          "source": "View Customers"
         },
         {
           "key": "_viewCustomerTypes",
-          "source": "View Customer Types",
-          "target": ""
+          "source": "View Customer Types"
         },
         {
           "key": "_viewDepartments",
-          "source": "View Departments",
-          "target": ""
+          "source": "View Departments"
         },
         {
           "key": "_viewEmployees",
-          "source": "View Employees",
-          "target": ""
+          "source": "View Employees"
         },
         {
           "key": "_viewFreightClasses",
-          "source": "View Freight Classes",
-          "target": ""
+          "source": "View Freight Classes"
         },
         {
           "key": "_viewInventoryHistory",
-          "source": "View Inventory History",
-          "target": ""
+          "source": "View Inventory History"
         },
         {
           "key": "_viewInventoryValue",
-          "source": "View Inventory Value",
-          "target": ""
+          "source": "View Inventory Value"
         },
         {
           "key": "_viewItemMasters",
-          "source": "View Item Masters",
-          "target": ""
+          "source": "View Item Masters"
         },
         {
           "key": "_viewItemSites",
-          "source": "View Item Sites",
-          "target": ""
+          "source": "View Item Sites"
         },
         {
           "key": "_viewLocations",
-          "source": "View Locations",
-          "target": ""
+          "source": "View Locations"
         },
         {
           "key": "_viewPackingListBatch",
-          "source": "View Packing List Batch",
-          "target": ""
-        },
-        {
-          "key": "_viewPersonalCRMAccounts",
-          "source": "View Personal Accounts",
-          "target": ""
+          "source": "View Packing List Batch"
         },
         {
           "key": "_viewPersonalContacts",
-          "source": "View Personal Contacts",
-          "target": ""
+          "source": "View Personal Contacts"
+        },
+        {
+          "key": "_viewPersonalCRMAccounts",
+          "source": "View Personal Accounts"
         },
         {
           "key": "_viewPersonalIncidents",
-          "source": "View Personal Incidents",
-          "target": ""
+          "source": "View Personal Incidents"
         },
         {
           "key": "_viewPersonalOpportunities",
-          "source": "View Personal Opportunities",
-          "target": ""
+          "source": "View Personal Opportunities"
         },
         {
           "key": "_viewPersonalProjects",
-          "source": "View Personal Projects",
-          "target": ""
+          "source": "View Personal Projects"
         },
         {
           "key": "_viewPersonalToDoItems",
-          "source": "View Personal To-Do Items",
-          "target": ""
+          "source": "View Personal To-Do Items"
         },
         {
           "key": "_viewProductCategories",
-          "source": "View Product Categories",
-          "target": ""
+          "source": "View Product Categories"
         },
         {
           "key": "_viewProspectMasters",
-          "source": "View Prospect Masters",
-          "target": ""
+          "source": "View Prospect Masters"
         },
         {
           "key": "_viewPurchaseRequests",
-          "source": "View Purchase Requests",
-          "target": ""
+          "source": "View Purchase Requests"
         },
         {
           "key": "_viewQOH",
-          "source": "View Quantity on Hand",
-          "target": ""
+          "source": "View Quantity on Hand"
         },
         {
           "key": "_viewQuotes",
-          "source": "View Quotes",
-          "target": ""
-        },
-        {
-          "key": "_viewSaleTypes",
-          "source": "View Sale Types",
-          "target": ""
+          "source": "View Quotes"
         },
         {
           "key": "_viewSalesCategories",
-          "source": "View Sales Categories",
-          "target": ""
+          "source": "View Sales Categories"
         },
         {
           "key": "_viewSalesOrders",
-          "source": "View Sales Orders",
-          "target": ""
+          "source": "View Sales Orders"
         },
         {
           "key": "_viewSalesReps",
-          "source": "View Sales Reps",
-          "target": ""
+          "source": "View Sales Reps"
         },
         {
-          "key": "_viewShipVias",
-          "source": "View Ship Vias",
-          "target": ""
+          "key": "_viewSaleTypes",
+          "source": "View Sale Types"
         },
         {
           "key": "_viewShipping",
-          "source": "View Shipping",
-          "target": ""
+          "source": "View Shipping"
         },
         {
           "key": "_viewShippingZones",
-          "source": "View Ship Zones",
-          "target": ""
+          "source": "View Ship Zones"
+        },
+        {
+          "key": "_viewShipVias",
+          "source": "View Ship Vias"
         },
         {
           "key": "_viewSiteTypes",
-          "source": "View Site Types",
-          "target": ""
+          "source": "View Site Types"
         },
         {
           "key": "_viewTaxAssignments",
-          "source": "View Tax Assignments",
-          "target": ""
+          "source": "View Tax Assignments"
         },
         {
           "key": "_viewTaxAuthorities",
-          "source": "View Tax Authorities",
-          "target": ""
+          "source": "View Tax Authorities"
         },
         {
           "key": "_viewTaxClasses",
-          "source": "View Tax Classes",
-          "target": ""
+          "source": "View Tax Classes"
         },
         {
           "key": "_viewTaxCodes",
-          "source": "View Tax Codes",
-          "target": ""
+          "source": "View Tax Codes"
         },
         {
           "key": "_viewTaxReconciliations",
-          "source": "View Tax Reconciliations",
-          "target": ""
+          "source": "View Tax Reconciliations"
         },
         {
           "key": "_viewTaxRegistrations",
-          "source": "View Tax Registrations",
-          "target": ""
+          "source": "View Tax Registrations"
         },
         {
           "key": "_viewTaxTypes",
-          "source": "View Tax Types",
-          "target": ""
+          "source": "View Tax Types"
         },
         {
           "key": "_viewTaxZones",
-          "source": "View Tax Zones",
-          "target": ""
+          "source": "View Tax Zones"
         },
         {
           "key": "_viewTerms",
-          "source": "View Terms",
-          "target": ""
+          "source": "View Terms"
         },
         {
           "key": "_viewTitles",
-          "source": "View Honorifics",
-          "target": ""
+          "source": "View Honorifics"
         },
         {
           "key": "_viewWarehouses",
-          "source": "View Sites",
-          "target": ""
+          "source": "View Sites"
         },
         {
           "key": "_visa",
-          "source": "Visa",
-          "target": ""
+          "source": "Visa"
         },
         {
           "key": "_void",
-          "source": "Void",
-          "target": ""
+          "source": "Void"
         },
         {
           "key": "_voucher",
-          "source": "Voucher",
-          "target": ""
+          "source": "Voucher"
         },
         {
           "key": "_wage",
-          "source": "Wage",
-          "target": ""
+          "source": "Wage"
         },
         {
           "key": "_wageType",
-          "source": "Wage Type",
-          "target": ""
+          "source": "Wage Type"
         },
         {
           "key": "_warningColor",
-          "source": "Warning Color",
-          "target": ""
+          "source": "Warning Color"
         },
         {
           "key": "_web",
-          "source": "Web",
-          "target": ""
+          "source": "Web"
         },
         {
           "key": "_webAddress",
-          "source": "Web Address",
-          "target": ""
+          "source": "Web Address"
         },
         {
           "key": "_weekly",
-          "source": "Weekly",
-          "target": ""
+          "source": "Weekly"
         },
         {
           "key": "_welcome",
-          "source": "Welcome",
-          "target": ""
+          "source": "Welcome"
         },
         {
           "key": "_whatToDo",
-          "source": "What would you like to do?",
-          "target": ""
+          "source": "What would you like to do?"
         },
         {
           "key": "_wholesalePrice",
-          "source": "Wholesale Price",
-          "target": ""
+          "source": "Wholesale Price"
         },
         {
           "key": "_workflow",
-          "source": "Workflow",
-          "target": ""
+          "source": "Workflow"
         },
         {
           "key": "_workflowType",
-          "source": "Workflow Type",
-          "target": ""
+          "source": "Workflow Type"
         },
         {
           "key": "_xtuplePostbooks",
-          "source": "PostBooks",
-          "target": ""
+          "source": "PostBooks"
         },
         {
           "key": "_yearExpired",
-          "source": "Expiration Year",
-          "target": ""
+          "source": "Expiration Year"
         }
       ]
     },
@@ -4840,1999 +3874,1600 @@
       "extension": "_database_",
       "strings": [
         {
-          "key": "_xtdb_CreateRevision2",
-          "source": "Revision control not enabled.",
-          "target": ""
-        },
-        {
           "key": "_xtdb_attachQuoteToOpportunity1",
-          "source": "The selected Quote cannot be attached because the Quote cannot be found.",
-          "target": ""
+          "source": "The selected Quote cannot be attached because the Quote cannot be found."
         },
         {
           "key": "_xtdb_attachQuoteToOpportunity2",
-          "source": "The selected Quote cannot be attached because the Opportunity cannot be found.",
-          "target": ""
+          "source": "The selected Quote cannot be attached because the Opportunity cannot be found."
         },
         {
           "key": "_xtdb_attachQuoteToOpportunity3",
-          "source": "The selected Quote cannot be attached because it is already associated with an Opportunity. You must detach this Quote before you may attach it.",
-          "target": ""
+          "source": "The selected Quote cannot be attached because it is already associated with an Opportunity. You must detach this Quote before you may attach it."
         },
         {
           "key": "_xtdb_attachSalesOrderToOpportunity1",
-          "source": "The selected Sales Order cannot be attached because the Sales Order cannot be found.",
-          "target": ""
+          "source": "The selected Sales Order cannot be attached because the Sales Order cannot be found."
         },
         {
           "key": "_xtdb_attachSalesOrderToOpportunity2",
-          "source": "The selected Sales Order cannot be attached because the Opportunity cannot be found.",
-          "target": ""
+          "source": "The selected Sales Order cannot be attached because the Opportunity cannot be found."
         },
         {
           "key": "_xtdb_attachSalesOrderToOpportunity3",
-          "source": "The selected Sales Order cannot be attached because it is already associated with an Opportunity. You must detach this Sales Order before you may attach it.",
-          "target": ""
+          "source": "The selected Sales Order cannot be attached because it is already associated with an Opportunity. You must detach this Sales Order before you may attach it."
         },
         {
           "key": "_xtdb_changeCMHeadTaxAuth1",
-          "source": "This Credit Memo was not found.",
-          "target": ""
+          "source": "This Credit Memo was not found."
         },
         {
           "key": "_xtdb_changeCMHeadTaxAuth2",
-          "source": "This Tax Authority was not found.",
-          "target": ""
+          "source": "This Tax Authority was not found."
         },
         {
           "key": "_xtdb_changeCobTaxZone1",
-          "source": "This Bill was not found.",
-          "target": ""
+          "source": "This Bill was not found."
         },
         {
           "key": "_xtdb_changeCobTaxZone2",
-          "source": "Freight Tax Type was not found.",
-          "target": ""
+          "source": "Freight Tax Type was not found."
         },
         {
           "key": "_xtdb_changeInvoiceTaxZone1",
-          "source": "This Invoice was not found.",
-          "target": ""
+          "source": "This Invoice was not found."
         },
         {
           "key": "_xtdb_changeInvoiceTaxZone2",
-          "source": "Freight Tax Type was not found.",
-          "target": ""
+          "source": "Freight Tax Type was not found."
         },
         {
           "key": "_xtdb_changeQuoteTaxZone1",
-          "source": "This Quote was not found.",
-          "target": ""
+          "source": "This Quote was not found."
         },
         {
           "key": "_xtdb_changeSOTaxZone1",
-          "source": "This Sales Order was not found.",
-          "target": ""
+          "source": "This Sales Order was not found."
         },
         {
           "key": "_xtdb_changeTOTax1",
-          "source": "This Transfer Order was not found.",
-          "target": ""
+          "source": "This Transfer Order was not found."
         },
         {
           "key": "_xtdb_changeTOTaxAuth2",
-          "source": "This Tax Authority was not found.",
-          "target": ""
+          "source": "This Tax Authority was not found."
         },
         {
           "key": "_xtdb_closeAccountingPeriod1",
-          "source": "The selected Accounting Period cannot be closed because it is already closed.",
-          "target": ""
+          "source": "The selected Accounting Period cannot be closed because it is already closed."
         },
         {
           "key": "_xtdb_closeAccountingPeriod2",
-          "source": "The selected Accounting Period cannot be closed because there is a gap between the end of the previous Period and the start of this Period. You must edit either the previous Perod or this Period to eliminate the gap.",
-          "target": ""
+          "source": "The selected Accounting Period cannot be closed because there is a gap between the end of the previous Period and the start of this Period. You must edit either the previous Perod or this Period to eliminate the gap."
         },
         {
           "key": "_xtdb_closeAccountingPeriod3",
-          "source": "The selected Accounting Period cannot be closed because the previous Period is not closed. You must close the previous Period before you may close this Period.",
-          "target": ""
+          "source": "The selected Accounting Period cannot be closed because the previous Period is not closed. You must close the previous Period before you may close this Period."
         },
         {
           "key": "_xtdb_closeAccountingPeriod4",
-          "source": "The selected Accounting Period cannot be closed because there is a gap between the end of this Period and the start of the next Period. You must edit either this Period or the next Period to eliminate the gap.",
-          "target": ""
+          "source": "The selected Accounting Period cannot be closed because there is a gap between the end of this Period and the start of the next Period. You must edit either this Period or the next Period to eliminate the gap."
         },
         {
           "key": "_xtdb_closeAccountingPeriod5",
-          "source": "The selected Accounting Period cannot be closed because it ends in the future.",
-          "target": ""
+          "source": "The selected Accounting Period cannot be closed because it ends in the future."
         },
         {
           "key": "_xtdb_closeAccountingPeriod6",
-          "source": "The selected Accounting Period cannot be closed because it is the last period in the Fiscal Year and the next Fiscal Year has not been defined yet. Create the next Fiscal Year before closing this Accounting Period.",
-          "target": ""
+          "source": "The selected Accounting Period cannot be closed because it is the last period in the Fiscal Year and the next Fiscal Year has not been defined yet. Create the next Fiscal Year before closing this Accounting Period."
         },
         {
           "key": "_xtdb_closeAccountingYearPeriod10",
-          "source": "The selected Fiscal Year cannot be closed because there are periods within the year that are still open.",
-          "target": ""
+          "source": "The selected Fiscal Year cannot be closed because there are periods within the year that are still open."
         },
         {
           "key": "_xtdb_closeAccountingYearPeriod11",
-          "source": "The selected Fiscal Year cannot be closed because there are prior years that are still open.",
-          "target": ""
+          "source": "The selected Fiscal Year cannot be closed because there are prior years that are still open."
         },
         {
           "key": "_xtdb_closeAccountingYearPeriod7",
-          "source": "The selected Fiscal Year cannot be closed because you have not specified a Year End Equity Account in the accounting configuration.",
-          "target": ""
+          "source": "The selected Fiscal Year cannot be closed because you have not specified a Year End Equity Account in the accounting configuration."
         },
         {
           "key": "_xtdb_closeAccountingYearPeriod8",
-          "source": "The selected Fiscal Year cannot be closed because there does not seem to be an Accounting Period defined for the beginning of the next Fiscal Year.",
-          "target": ""
+          "source": "The selected Fiscal Year cannot be closed because there does not seem to be an Accounting Period defined for the beginning of the next Fiscal Year."
         },
         {
           "key": "_xtdb_closeAccountingYearPeriod9",
-          "source": "The selected Fiscal Year cannot be closed because there is no Trial Balance record for the account in the required Period. Or you have not specified a Year End Equity Account in the accounting configuration.",
-          "target": ""
+          "source": "The selected Fiscal Year cannot be closed because there is no Trial Balance record for the account in the required Period. Or you have not specified a Year End Equity Account in the accounting configuration."
         },
         {
           "key": "_xtdb_closeToItem1",
-          "source": "The item cannot be Closed at this time as there is inventory at shipping.",
-          "target": ""
+          "source": "The item cannot be Closed at this time as there is inventory at shipping."
         },
         {
           "key": "_xtdb_convertCustomerToProspect10",
-          "source": "Could not convert Customer to Prospect to because there is already a Prospect with this internal ID.",
-          "target": ""
+          "source": "Could not convert Customer to Prospect to because there is already a Prospect with this internal ID."
         },
         {
           "key": "_xtdb_convertProspectToCustomer10",
-          "source": "Could not convert Prospect to Customer because there is already a Customer with this internal ID.",
-          "target": ""
+          "source": "Could not convert Prospect to Customer because there is already a Customer with this internal ID."
         },
         {
           "key": "_xtdb_convertQuote1",
-          "source": "Quote #%1 has one or more line items without a warehouse specified. These line items must be fixed before you may convert this quote.",
-          "target": ""
+          "source": "Quote #%1 has one or more line items without a warehouse specified. These line items must be fixed before you may convert this quote."
         },
         {
           "key": "_xtdb_convertQuote2",
-          "source": "Cannot find the Customer data for Quote #%1.",
-          "target": ""
+          "source": "Cannot find the Customer data for Quote #%1."
         },
         {
           "key": "_xtdb_convertQuote3",
-          "source": "Quote #%1 is associated with a Prospect, not a Customer. Convert the Prospect to a Customer first.",
-          "target": ""
+          "source": "Quote #%1 is associated with a Prospect, not a Customer. Convert the Prospect to a Customer first."
         },
         {
           "key": "_xtdb_convertQuote4",
-          "source": "Quote #%1 is for a Customer that has been placed on a Credit Hold and you do not have privilege to create Sales Orders for Customers on Credit Hold. The selected Customer must be taken off of Credit Hold before you may create convert this Quote.",
-          "target": ""
+          "source": "Quote #%1 is for a Customer that has been placed on a Credit Hold and you do not have privilege to create Sales Orders for Customers on Credit Hold. The selected Customer must be taken off of Credit Hold before you may create convert this Quote."
         },
         {
           "key": "_xtdb_convertQuote5",
-          "source": "Quote #%1 is for a Customer that has been placed on a Credit Warning and you do not have privilege to create Sales Orders for Customers on Credit Warning. The selected Customer must be taken off of Credit Warning before you may create convert this Quote.",
-          "target": ""
+          "source": "Quote #%1 is for a Customer that has been placed on a Credit Warning and you do not have privilege to create Sales Orders for Customers on Credit Warning. The selected Customer must be taken off of Credit Warning before you may create convert this Quote."
         },
         {
           "key": "_xtdb_convertQuote6",
-          "source": "Quote #%1 has expired and can not be converted.",
-          "target": ""
+          "source": "Quote #%1 has expired and can not be converted."
         },
         {
           "key": "_xtdb_convertQuote7",
-          "source": "Quote #%1 has references a PO number that has already been used.",
-          "target": ""
+          "source": "Quote #%1 has references a PO number that has already been used."
         },
         {
           "key": "_xtdb_copyBOM1",
-          "source": "Could not find the Source BOM to copy.",
-          "target": ""
+          "source": "Could not find the Source BOM to copy."
         },
         {
           "key": "_xtdb_copyBOM2",
-          "source": "The selected source Item does not have any Bill of Material Component Items associated with it.",
-          "target": ""
+          "source": "The selected source Item does not have any Bill of Material Component Items associated with it."
         },
         {
           "key": "_xtdb_copyBOM3",
-          "source": "The selected target Item already has a Bill of Materials associated with it. You must first delete the Bill of Materials for the selected target item before attempting to copy an existing Bill of Materials.",
-          "target": ""
+          "source": "The selected target Item already has a Bill of Materials associated with it. You must first delete the Bill of Materials for the selected target item before attempting to copy an existing Bill of Materials."
         },
         {
           "key": "_xtdb_copyBOM4",
-          "source": "The Item you are trying to copy this Bill of Material to is a component item which would cause a recursive Bill of Material.",
-          "target": ""
+          "source": "The Item you are trying to copy this Bill of Material to is a component item which would cause a recursive Bill of Material."
         },
         {
           "key": "_xtdb_copyItemSite1",
-          "source": "Could not copy the Item Site because it does not appear to exist.",
-          "target": ""
+          "source": "Could not copy the Item Site because it does not appear to exist."
         },
         {
           "key": "_xtdb_copyItemSite2",
-          "source": "Could not copy the Item Site because the warehouse for the new Item Site record does not appear to exist.",
-          "target": ""
+          "source": "Could not copy the Item Site because the warehouse for the new Item Site record does not appear to exist."
         },
         {
           "key": "_xtdb_copyItemSite3",
-          "source": "You do not have sufficient privilege to create an Item Site.",
-          "target": ""
+          "source": "You do not have sufficient privilege to create an Item Site."
         },
         {
           "key": "_xtdb_copyPO1",
-          "source": "Could not find the P/O to copy.",
-          "target": ""
+          "source": "Could not find the P/O to copy."
         },
         {
           "key": "_xtdb_copyPO2",
-          "source": "The Vendor of the original P/O does not match the Vendor for the copy. Changing the Vendor is not yet supported when copying a P/O.",
-          "target": ""
+          "source": "The Vendor of the original P/O does not match the Vendor for the copy. Changing the Vendor is not yet supported when copying a P/O."
         },
         {
           "key": "_xtdb_copyPO3",
-          "source": "The system does not allow purchases of Items for this Vendor without Item Sources and at least one line item item in the original P/O does not have an active Item Source.",
-          "target": ""
+          "source": "The system does not allow purchases of Items for this Vendor without Item Sources and at least one line item item in the original P/O does not have an active Item Source."
         },
         {
           "key": "_xtdb_copyPO4",
-          "source": "At least one line item in the original P/O does not have an active Item Source Price for this Vendor.",
-          "target": ""
+          "source": "At least one line item in the original P/O does not have an active Item Source Price for this Vendor."
         },
         {
           "key": "_xtdb_copyPrj1",
-          "source": "Copying an existing project failed, possibly because the source project does not exist.",
-          "target": ""
+          "source": "Copying an existing project failed, possibly because the source project does not exist."
         },
         {
           "key": "_xtdb_correctOperationPosting1",
-          "source": "You may not correct a quantity greater than the amount originally posted.",
-          "target": ""
+          "source": "You may not correct a quantity greater than the amount originally posted."
         },
         {
           "key": "_xtdb_correctReceipt12",
-          "source": "The receipt has been split and may not be corrected. Correct Receipt.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_createAPCreditMemoApplication1",
-          "source": "You may not apply more than the balance due to this document.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_createAPCreditMemoApplication2",
-          "source": "You may not apply more than the amount available to apply for this Credit Memo.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_createARCreditMemo1",
-          "source": "Either the Prepaid Account or the A/R Account  for this Customer could not be found.",
-          "target": ""
+          "source": "The receipt has been split and may not be corrected. Correct Receipt."
         },
         {
           "key": "_xtdb_createAccountingPeriod1",
-          "source": "The Start Date falls within another Accounting Period.",
-          "target": ""
+          "source": "The Start Date falls within another Accounting Period."
         },
         {
           "key": "_xtdb_createAccountingPeriod2",
-          "source": "The End Date falls within another Accounting Period.",
-          "target": ""
+          "source": "The End Date falls within another Accounting Period."
         },
         {
           "key": "_xtdb_createAccountingPeriod3",
-          "source": "The Start and End Dates enclose another Accounting Period.",
-          "target": ""
+          "source": "The Start and End Dates enclose another Accounting Period."
         },
         {
           "key": "_xtdb_createAccountingPeriod4",
-          "source": "The Period dates are outside the selected Fiscal Year.",
-          "target": ""
+          "source": "The Period dates are outside the selected Fiscal Year."
         },
         {
           "key": "_xtdb_createAccountingPeriod5",
-          "source": "The Start Date must be prior to the End Date.",
-          "target": ""
+          "source": "The Start Date must be prior to the End Date."
         },
         {
           "key": "_xtdb_createAccountingYearPeriod1",
-          "source": "The Year is closed.",
-          "target": ""
+          "source": "The Year is closed."
         },
         {
           "key": "_xtdb_createAccountingYearPeriod2",
-          "source": "Year dates may not overlap another year.",
-          "target": ""
+          "source": "Year dates may not overlap another year."
         },
         {
           "key": "_xtdb_createAccountingYearPeriod3",
-          "source": "Year dates may not overlap another year.",
-          "target": ""
+          "source": "Year dates may not overlap another year."
         },
         {
           "key": "_xtdb_createAccountingYearPeriod4",
-          "source": "Periods exist for this year outside the proposed dates.",
-          "target": ""
+          "source": "Periods exist for this year outside the proposed dates."
         },
         {
           "key": "_xtdb_createAccountingYearPeriod5",
-          "source": "The Start Date must be prior to the End Date",
-          "target": ""
+          "source": "The Start Date must be prior to the End Date"
+        },
+        {
+          "key": "_xtdb_createAPCreditMemoApplication1",
+          "source": "You may not apply more than the balance due to this document."
+        },
+        {
+          "key": "_xtdb_createAPCreditMemoApplication2",
+          "source": "You may not apply more than the amount available to apply for this Credit Memo."
+        },
+        {
+          "key": "_xtdb_createARCreditMemo1",
+          "source": "Either the Prepaid Account or the A/R Account  for this Customer could not be found."
         },
         {
           "key": "_xtdb_createBOMItem1",
-          "source": "You may not create a BOM Item that defines a Parent that is composed of itself.",
-          "target": ""
+          "source": "You may not create a BOM Item that defines a Parent that is composed of itself."
         },
         {
           "key": "_xtdb_createBOMItem2",
-          "source": "The Component that you have selected for this BOM Item is a manufactured or phantom Item that uses the Parent Item as a Component Item in its own BOM. You may not create a recursive BOM.",
-          "target": ""
+          "source": "The Component that you have selected for this BOM Item is a manufactured or phantom Item that uses the Parent Item as a Component Item in its own BOM. You may not create a recursive BOM."
         },
         {
           "key": "_xtdb_createCrmAcct1",
-          "source": "This CRM Account Number is already in use by an existing CRM Account. Please choose a different number and save again.",
-          "target": ""
+          "source": "This CRM Account Number is already in use by an existing CRM Account. Please choose a different number and save again."
         },
         {
           "key": "_xtdb_createCrmAcct2",
-          "source": "This CRM Account Number is already in use by an existing Customer. Please choose a different number and save again.",
-          "target": ""
+          "source": "This CRM Account Number is already in use by an existing Customer. Please choose a different number and save again."
         },
         {
           "key": "_xtdb_createCrmAcct5",
-          "source": "This CRM Account Number is already in use by an existing Prospect. Please choose a different number and save again.",
-          "target": ""
+          "source": "This CRM Account Number is already in use by an existing Prospect. Please choose a different number and save again."
         },
         {
           "key": "_xtdb_createCrmAcct6",
-          "source": "This CRM Account Number is already in use by an existing Vendor. Please choose a different number and save again.",
-          "target": ""
+          "source": "This CRM Account Number is already in use by an existing Vendor. Please choose a different number and save again."
         },
         {
           "key": "_xtdb_createCrmAcct7",
-          "source": "This CRM Account Number is already in use by an existing Tax Authority. Please choose a different number and save again.",
-          "target": ""
+          "source": "This CRM Account Number is already in use by an existing Tax Authority. Please choose a different number and save again."
         },
         {
           "key": "_xtdb_createInvoice1",
-          "source": "This Billing Selection cannot be posted because it has already been posted.",
-          "target": ""
+          "source": "This Billing Selection cannot be posted because it has already been posted."
         },
         {
           "key": "_xtdb_createInvoices5",
-          "source": "The G/L Account Assignments for one or more of the Billing Selections that you are trying to post are not configured correctly. Therefore, G/L Transactions cannot be posted for these. You must contact your Systems Administrator to have this corrected before you may post these Billing Selections.",
-          "target": ""
+          "source": "The G/L Account Assignments for one or more of the Billing Selections that you are trying to post are not configured correctly. Therefore, G/L Transactions cannot be posted for these. You must contact your Systems Administrator to have this corrected before you may post these Billing Selections."
         },
         {
           "key": "_xtdb_createProspect1",
-          "source": "Cannot create a Prospect because there is no CRM Account to tie it to.",
-          "target": ""
+          "source": "Cannot create a Prospect because there is no CRM Account to tie it to."
         },
         {
           "key": "_xtdb_createProspect2",
-          "source": "Cannot create a Prospect for this CRM Account because it is already a Customer.",
-          "target": ""
+          "source": "Cannot create a Prospect for this CRM Account because it is already a Customer."
         },
         {
           "key": "_xtdb_createProspect3",
-          "source": "Cannot create a Prospect for this CRM Account because it is already a Prospect.",
-          "target": ""
+          "source": "Cannot create a Prospect for this CRM Account because it is already a Prospect."
         },
         {
           "key": "_xtdb_createPurchaseToSale1",
-          "source": "SO Header Information related to this SO Item not found!",
-          "target": ""
+          "source": "SO Header Information related to this SO Item not found!"
         },
         {
           "key": "_xtdb_createPurchaseToSale2",
-          "source": "Item Source Information not found!",
-          "target": ""
+          "source": "Item Source Information not found!"
         },
         {
           "key": "_xtdb_createRecurringItems10",
-          "source": "Cannot create recurring items with an unrecognized object type.",
-          "target": ""
+          "source": "Cannot create recurring items with an unrecognized object type."
+        },
+        {
+          "key": "_xtdb_CreateRevision2",
+          "source": "Revision control not enabled."
         },
         {
           "key": "_xtdb_createTodoItem1",
-          "source": "The To-Do List Item cannot be created as there is no assigned User.",
-          "target": ""
+          "source": "The To-Do List Item cannot be created as there is no assigned User."
         },
         {
           "key": "_xtdb_createTodoItem2",
-          "source": "The To-Do List Item cannot be created as the Task Name is blank.",
-          "target": ""
+          "source": "The To-Do List Item cannot be created as the Task Name is blank."
         },
         {
           "key": "_xtdb_createTodoItem3",
-          "source": "The To-Do List Item cannot be created as there is no Due Date.",
-          "target": ""
+          "source": "The To-Do List Item cannot be created as there is no Due Date."
         },
         {
           "key": "_xtdb_createWo1",
-          "source": "Work Order can not be created because Site not allowed to Manufacture this Item.",
-          "target": ""
+          "source": "Work Order can not be created because Site not allowed to Manufacture this Item."
         },
         {
           "key": "_xtdb_createWo2",
-          "source": "Work Order can not be exploded because items on the BOM exist without itemsites.",
-          "target": ""
+          "source": "Work Order can not be exploded because items on the BOM exist without itemsites."
         },
         {
           "key": "_xtdb_deleteAccount1",
-          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Cost Categories. You must reassign these Cost Category assignments before you may delete the selected G/L Account.",
-          "target": ""
+          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Cost Categories. You must reassign these Cost Category assignments before you may delete the selected G/L Account."
         },
         {
           "key": "_xtdb_deleteAccount10",
-          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Currency definition. You must reassign these Currency definitions before you may delete the selected G/L Account.",
-          "target": ""
+          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Currency definition. You must reassign these Currency definitions before you may delete the selected G/L Account."
         },
         {
           "key": "_xtdb_deleteAccount11",
-          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more A/R Open Items. You must reassign these Currency definitions before you may delete the selected G/L Account.",
-          "target": ""
+          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more A/R Open Items. You must reassign these Currency definitions before you may delete the selected G/L Account."
         },
         {
           "key": "_xtdb_deleteAccount2",
-          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Sales Account Assignment. You must reassign these Sales Account Assignments before you may delete the selected G/L Account.",
-          "target": ""
+          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Sales Account Assignment. You must reassign these Sales Account Assignments before you may delete the selected G/L Account."
         },
         {
           "key": "_xtdb_deleteAccount3",
-          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Customer A/R Account assignments. You must reassign these Customer A/R Account assignments before you may delete the selected G/L Account.",
-          "target": ""
+          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Customer A/R Account assignments. You must reassign these Customer A/R Account assignments before you may delete the selected G/L Account."
         },
         {
           "key": "_xtdb_deleteAccount4",
-          "source": "The selected G/L Account cannot be deleted as it is currently used as the default Account one or more Sites. You must reassign the default Account for these Sites before you may delete the selected G/L Account.",
-          "target": ""
+          "source": "The selected G/L Account cannot be deleted as it is currently used as the default Account one or more Sites. You must reassign the default Account for these Sites before you may delete the selected G/L Account."
         },
         {
           "key": "_xtdb_deleteAccount5",
-          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Bank Accounts. You must reassign these Bank Accounts before you may delete the selected G/L Account.",
-          "target": ""
+          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Bank Accounts. You must reassign these Bank Accounts before you may delete the selected G/L Account."
         },
         {
           "key": "_xtdb_deleteAccount6",
-          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Expense Categories. You must reassign these Expense Categories before you may delete the selected G/L Account.",
-          "target": ""
+          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Expense Categories. You must reassign these Expense Categories before you may delete the selected G/L Account."
         },
         {
           "key": "_xtdb_deleteAccount7",
-          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Tax Codes. You must reassign these Tax Codes before you may delete the selected G/L Account.",
-          "target": ""
+          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Tax Codes. You must reassign these Tax Codes before you may delete the selected G/L Account."
         },
         {
           "key": "_xtdb_deleteAccount8",
-          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Standard Journals. You must reassign these Standard Journal Items before you may delete the selected G/L Account.",
-          "target": ""
+          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Standard Journals. You must reassign these Standard Journal Items before you may delete the selected G/L Account."
         },
         {
           "key": "_xtdb_deleteAccount9",
-          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Customer A/P Account assignments. You must reassign these Customer A/P Account assignments before you may delete the selected G/L Account.",
-          "target": ""
+          "source": "The selected G/L Account cannot be deleted as it is currently used in one or more Customer A/P Account assignments. You must reassign these Customer A/P Account assignments before you may delete the selected G/L Account."
         },
         {
           "key": "_xtdb_deleteAccount99",
-          "source": "The selected G/L Account cannot be deleted as there have been G/L Transactions posted against it.",
-          "target": ""
+          "source": "The selected G/L Account cannot be deleted as there have been G/L Transactions posted against it."
         },
         {
           "key": "_xtdb_deleteAccountingPeriod4",
-          "source": "The selected Accounting Period has G/L Transactions posted against it and, thus, cannot be deleted.",
-          "target": ""
+          "source": "The selected Accounting Period has G/L Transactions posted against it and, thus, cannot be deleted."
         },
         {
           "key": "_xtdb_deleteAccountingPeriod5",
-          "source": "The selected Accounting Period is not the last accounting period and cannot be deleted.",
-          "target": ""
+          "source": "The selected Accounting Period is not the last accounting period and cannot be deleted."
         },
         {
           "key": "_xtdb_deleteAccountingYearPeriod1",
-          "source": "The selected Fiscal Year cannot be deleted because it is closed.",
-          "target": ""
+          "source": "The selected Fiscal Year cannot be deleted because it is closed."
         },
         {
           "key": "_xtdb_deleteAccountingYearPeriod2",
-          "source": "The selected Fiscal Year cannot be deleted because there are Accounting Periods defined for it.",
-          "target": ""
+          "source": "The selected Fiscal Year cannot be deleted because there are Accounting Periods defined for it."
         },
         {
           "key": "_xtdb_deleteAddress1",
-          "source": "The selected Address cannot be deleted as it is used by an active Contact.",
-          "target": ""
+          "source": "The selected Address cannot be deleted as it is used by an active Contact."
         },
         {
           "key": "_xtdb_deleteAddress2",
-          "source": "The selected Address cannot be deleted as it is used by an active Vendor.",
-          "target": ""
+          "source": "The selected Address cannot be deleted as it is used by an active Vendor."
         },
         {
           "key": "_xtdb_deleteAddress3",
-          "source": "The selected Address cannot be deleted as it is used by an active Ship-To Address.",
-          "target": ""
+          "source": "The selected Address cannot be deleted as it is used by an active Ship-To Address."
         },
         {
           "key": "_xtdb_deleteAddress4",
-          "source": "The selected Address cannot be deleted as it is used by an active Vendor Address.",
-          "target": ""
+          "source": "The selected Address cannot be deleted as it is used by an active Vendor Address."
         },
         {
           "key": "_xtdb_deleteAddress5",
-          "source": "The selected Address cannot be deleted as it is used by an active Site.",
-          "target": ""
+          "source": "The selected Address cannot be deleted as it is used by an active Site."
         },
         {
           "key": "_xtdb_deleteBankAdjustmentType1",
-          "source": "The selected Bank Adjustment Type cannot be deleted because it is currently used by a Bank Adjustment.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteCRMAccount1",
-          "source": "The selected CRM Account cannot be deleted as it is a Customer.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteCRMAccount2",
-          "source": "The selected CRM Account cannot be deleted as it is a Vendor.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteCRMAccount3",
-          "source": "The selected CRM Account cannot be deleted as it is a Prospect.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteCRMAccount4",
-          "source": "The selected CRM Account cannot be deleted as it has Contacts. You may Detach the Contacts from this CRM Account and try deleting it again or set its status to inactive",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteCRMAccount5",
-          "source": "The selected CRM Account cannot be deleted as it is a Tax Authority.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteCRMAccount6",
-          "source": "The selected CRM Account cannot be deleted as it is a Sales Rep.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteCRMAccount7",
-          "source": "The selected CRM Account cannot be deleted as it is a Employee.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteCRMAccount8",
-          "source": "The selected CRM Account cannot be deleted as it is a User.",
-          "target": ""
+          "source": "The selected Bank Adjustment Type cannot be deleted because it is currently used by a Bank Adjustment."
         },
         {
           "key": "_xtdb_deleteCashrcpt1",
-          "source": "The selected Cash Receipt cannot be deleted because it is a Customer Deposit made with a Credit Card and the card has already been charged.",
-          "target": ""
+          "source": "The selected Cash Receipt cannot be deleted because it is a Customer Deposit made with a Credit Card and the card has already been charged."
         },
         {
           "key": "_xtdb_deleteCharacteristic1",
-          "source": "The selected Characteristic cannot be deleted because there are Items assigned to it. You must remove these assignments before you may delete the selected Characteristic.",
-          "target": ""
+          "source": "The selected Characteristic cannot be deleted because there are Items assigned to it. You must remove these assignments before you may delete the selected Characteristic."
         },
         {
           "key": "_xtdb_deleteCharacteristic2",
-          "source": "The selected Characteristic cannot be deleted because there are Customers assigned to it. You must remove these assignments before you may delete the selected Characteristic.",
-          "target": ""
+          "source": "The selected Characteristic cannot be deleted because there are Customers assigned to it. You must remove these assignments before you may delete the selected Characteristic."
         },
         {
           "key": "_xtdb_deleteCharacteristic3",
-          "source": "The selected Characteristic cannot be deleted because there are Addresses assigned to it. You must remove these assignments before you may delete the selected Characteristic.",
-          "target": ""
+          "source": "The selected Characteristic cannot be deleted because there are Addresses assigned to it. You must remove these assignments before you may delete the selected Characteristic."
         },
         {
           "key": "_xtdb_deleteCharacteristic4",
-          "source": "The selected Characteristic cannot be deleted because there are Contacts assigned to it. You must remove these assignments before you may delete the selected Characteristic.",
-          "target": ""
+          "source": "The selected Characteristic cannot be deleted because there are Contacts assigned to it. You must remove these assignments before you may delete the selected Characteristic."
         },
         {
           "key": "_xtdb_deleteCharacteristic5",
-          "source": "The selected Characteristic cannot be deleted because there are CRM Accounts assigned to it. You must remove these assignments before you may delete the selected Characteristic.",
-          "target": ""
+          "source": "The selected Characteristic cannot be deleted because there are CRM Accounts assigned to it. You must remove these assignments before you may delete the selected Characteristic."
         },
         {
           "key": "_xtdb_deleteCharacteristic6",
-          "source": "The selected Characteristic cannot be deleted because there are Incidents assigned to it. You must remove these assignments before you may delete the selected Characteristic.",
-          "target": ""
+          "source": "The selected Characteristic cannot be deleted because there are Incidents assigned to it. You must remove these assignments before you may delete the selected Characteristic."
         },
         {
           "key": "_xtdb_deleteCharacteristic7",
-          "source": "The selected Characteristic cannot be deleted because there are Employees assigned to it. You must remove these assignments before you may delete the selected Characteristic.",
-          "target": ""
+          "source": "The selected Characteristic cannot be deleted because there are Employees assigned to it. You must remove these assignments before you may delete the selected Characteristic."
         },
         {
           "key": "_xtdb_deleteCheck1",
-          "source": "Cannot delete this check because either it has not been voided, it has already been posted or replaced, or it has been transmitted electronically.",
-          "target": ""
+          "source": "Cannot delete this check because either it has not been voided, it has already been posted or replaced, or it has been transmitted electronically."
         },
         {
           "key": "_xtdb_deleteClassCode1",
-          "source": "The selected Class Code cannot be deleted because there are Items that are assigned to it. You must reassign these Items before you may delete the selected Class Code.",
-          "target": ""
+          "source": "The selected Class Code cannot be deleted because there are Items that are assigned to it. You must reassign these Items before you may delete the selected Class Code."
         },
         {
           "key": "_xtdb_deleteCompany1",
-          "source": "The selected Company cannot be deleted as it is in use by existing Account. You must reclass these Accounts before you may delete the selected Company.",
-          "target": ""
+          "source": "The selected Company cannot be deleted as it is in use by existing Account. You must reclass these Accounts before you may delete the selected Company."
         },
         {
           "key": "_xtdb_deleteContact1",
-          "source": "The selected Contact cannot be deleted as s/he is the primary or secondary Contact for a CRM Account.",
-          "target": ""
+          "source": "The selected Contact cannot be deleted as s/he is the primary or secondary Contact for a CRM Account."
         },
         {
           "key": "_xtdb_deleteContact2",
-          "source": "The selected Contact cannot be deleted as s/he is the Correspondence or Billing Contact for a Customer.",
-          "target": ""
+          "source": "The selected Contact cannot be deleted as s/he is the Correspondence or Billing Contact for a Customer."
         },
         {
           "key": "_xtdb_deleteContact3",
-          "source": "The selected Contact cannot be deleted as s/he is the primary or secondary Contact for a Vendor.",
-          "target": ""
+          "source": "The selected Contact cannot be deleted as s/he is the primary or secondary Contact for a Vendor."
         },
         {
           "key": "_xtdb_deleteContact4",
-          "source": "The selected Contact cannot be deleted as s/he is the Contact for a Ship-To Address.",
-          "target": ""
+          "source": "The selected Contact cannot be deleted as s/he is the Contact for a Ship-To Address."
         },
         {
           "key": "_xtdb_deleteContact5",
-          "source": "The selected Contact cannot be deleted as s/he is the Contact for a Vendor Address.",
-          "target": ""
+          "source": "The selected Contact cannot be deleted as s/he is the Contact for a Vendor Address."
         },
         {
           "key": "_xtdb_deleteContact6",
-          "source": "The selected Contact cannot be deleted as s/he is the Contact for a Site.",
-          "target": ""
+          "source": "The selected Contact cannot be deleted as s/he is the Contact for a Site."
+        },
+        {
+          "key": "_xtdb_deleteCRMAccount1",
+          "source": "The selected CRM Account cannot be deleted as it is a Customer."
+        },
+        {
+          "key": "_xtdb_deleteCRMAccount2",
+          "source": "The selected CRM Account cannot be deleted as it is a Vendor."
+        },
+        {
+          "key": "_xtdb_deleteCRMAccount3",
+          "source": "The selected CRM Account cannot be deleted as it is a Prospect."
+        },
+        {
+          "key": "_xtdb_deleteCRMAccount4",
+          "source": "The selected CRM Account cannot be deleted as it has Contacts. You may Detach the Contacts from this CRM Account and try deleting it again or set its status to inactive"
+        },
+        {
+          "key": "_xtdb_deleteCRMAccount5",
+          "source": "The selected CRM Account cannot be deleted as it is a Tax Authority."
+        },
+        {
+          "key": "_xtdb_deleteCRMAccount6",
+          "source": "The selected CRM Account cannot be deleted as it is a Sales Rep."
+        },
+        {
+          "key": "_xtdb_deleteCRMAccount7",
+          "source": "The selected CRM Account cannot be deleted as it is a Employee."
+        },
+        {
+          "key": "_xtdb_deleteCRMAccount8",
+          "source": "The selected CRM Account cannot be deleted as it is a User."
         },
         {
           "key": "_xtdb_deleteCustomer1",
-          "source": "The selected Customer cannot be deleted as there are still Ship-Tos assigned to it. You must delete all of the selected Customer's Ship-Tos before you may delete it.",
-          "target": ""
+          "source": "The selected Customer cannot be deleted as there are still Ship-Tos assigned to it. You must delete all of the selected Customer's Ship-Tos before you may delete it."
         },
         {
           "key": "_xtdb_deleteCustomer2",
-          "source": "The selected Customer cannot be deleted as there has been Sales History recorded for this Customer. You may Edit the selected Customer and set its status to inactive.",
-          "target": ""
+          "source": "The selected Customer cannot be deleted as there has been Sales History recorded for this Customer. You may Edit the selected Customer and set its status to inactive."
         },
         {
           "key": "_xtdb_deleteCustomer3",
-          "source": "Credit Memos",
-          "target": ""
+          "source": "Credit Memos"
         },
         {
           "key": "_xtdb_deleteCustomer4",
-          "source": "custhist",
-          "target": ""
+          "source": "custhist"
         },
         {
           "key": "_xtdb_deleteCustomer5",
-          "source": "A/R Open",
-          "target": ""
+          "source": "A/R Open"
         },
         {
           "key": "_xtdb_deleteCustomer6",
-          "source": "The selected Customer cannot be deleted as Checks have been written to it.",
-          "target": ""
+          "source": "The selected Customer cannot be deleted as Checks have been written to it."
         },
         {
           "key": "_xtdb_deleteCustomer7",
-          "source": "The selected Customer cannot be deleted as there are still Invoices assigned to it. You must delete all of the selected Customer's Invoices before you may delete it",
-          "target": ""
+          "source": "The selected Customer cannot be deleted as there are still Invoices assigned to it. You must delete all of the selected Customer's Invoices before you may delete it"
         },
         {
           "key": "_xtdb_deleteCustomer8",
-          "source": "The selected Customer cannot be deleted as there are still Quotes assigned to it. You must delete all of the selected Customer's Quotes before you may delete it",
-          "target": ""
+          "source": "The selected Customer cannot be deleted as there are still Quotes assigned to it. You must delete all of the selected Customer's Quotes before you may delete it"
         },
         {
           "key": "_xtdb_deleteCustomerType1",
-          "source": "The selected Customer Type cannot be deleted as there are one or more Customers assigned to it. You must reassign these Customers before you may delete the selected Customer Type.",
-          "target": ""
+          "source": "The selected Customer Type cannot be deleted as there are one or more Customers assigned to it. You must reassign these Customers before you may delete the selected Customer Type."
         },
         {
           "key": "_xtdb_deleteEmpgrp1",
-          "source": "The selected Employee Group cannot be deleted as there are one or more Employees assigned to it. You must reassign these Employees before you may delete the selected Employee Group.",
-          "target": ""
+          "source": "The selected Employee Group cannot be deleted as there are one or more Employees assigned to it. You must reassign these Employees before you may delete the selected Employee Group."
         },
         {
           "key": "_xtdb_deleteForm1",
-          "source": "The selected Check Format cannot be deleted as it is used by one or more Bank Accounts. You must reassign these Bank Accounts before you may delete the selected Check Form.",
-          "target": ""
+          "source": "The selected Check Format cannot be deleted as it is used by one or more Bank Accounts. You must reassign these Bank Accounts before you may delete the selected Check Form."
         },
         {
           "key": "_xtdb_deleteFreightClass1",
-          "source": "The selected Freight Class cannot be deleted because there are Items that are assigned to it. You must reassign these Items before you may delete the selected Freight Class.",
-          "target": ""
+          "source": "The selected Freight Class cannot be deleted because there are Items that are assigned to it. You must reassign these Items before you may delete the selected Freight Class."
         },
         {
           "key": "_xtdb_deleteIncident1",
-          "source": "This Incident cannot be deleted as there are To-Do List Items associated with it.",
-          "target": ""
+          "source": "This Incident cannot be deleted as there are To-Do List Items associated with it."
         },
         {
           "key": "_xtdb_deleteIncident2",
-          "source": "This Incident cannot be deleted as there are Comments associated with it.",
-          "target": ""
+          "source": "This Incident cannot be deleted as there are Comments associated with it."
         },
         {
           "key": "_xtdb_deleteItem1",
-          "source": "This Item cannot be deleted as it is used in one or more bills of materials.",
-          "target": ""
+          "source": "This Item cannot be deleted as it is used in one or more bills of materials."
         },
         {
           "key": "_xtdb_deleteItem2",
-          "source": "This Item cannot be deleted as there are Item Site records associated with it.",
-          "target": ""
+          "source": "This Item cannot be deleted as there are Item Site records associated with it."
         },
         {
           "key": "_xtdb_deleteItem3",
-          "source": "This Item cannot be deleted as there are Substitute records associated with it.",
-          "target": ""
+          "source": "This Item cannot be deleted as there are Substitute records associated with it."
         },
         {
           "key": "_xtdb_deleteItem4",
-          "source": "This Item cannot be deleted as there are Breeder BOM records associated with it.",
-          "target": ""
+          "source": "This Item cannot be deleted as there are Breeder BOM records associated with it."
         },
         {
           "key": "_xtdb_deleteItem5",
-          "source": "This Item cannot be deleted as there are assignement records associated with it.",
-          "target": ""
+          "source": "This Item cannot be deleted as there are assignement records associated with it."
         },
         {
           "key": "_xtdb_deleteItem6",
-          "source": "This Item cannot be deleted as there are Revision Control records associated with it.",
-          "target": ""
+          "source": "This Item cannot be deleted as there are Revision Control records associated with it."
         },
         {
           "key": "_xtdb_deleteItemSite1",
-          "source": "The selected Item Site cannot be deleted as there is Inventory History posted against it. You may edit the Item Site and deactivate it.",
-          "target": ""
+          "source": "The selected Item Site cannot be deleted as there is Inventory History posted against it. You may edit the Item Site and deactivate it."
         },
         {
           "key": "_xtdb_deleteItemSite2",
-          "source": "The selected Item Site cannot be deleted as there is Work Order History posted against it. You may edit the Item Site and deactivate it.",
-          "target": ""
+          "source": "The selected Item Site cannot be deleted as there is Work Order History posted against it. You may edit the Item Site and deactivate it."
         },
         {
           "key": "_xtdb_deleteItemSite3",
-          "source": "The selected Item Site cannot be deleted as there is Sales History posted against it. You may edit the Item Site and deactivate it.",
-          "target": ""
+          "source": "The selected Item Site cannot be deleted as there is Sales History posted against it. You may edit the Item Site and deactivate it."
         },
         {
           "key": "_xtdb_deleteItemSite4",
-          "source": "The selected Item Site cannot be deleted as there is Purchasing History posted against it. You may edit the Item Site and deactivate it.",
-          "target": ""
+          "source": "The selected Item Site cannot be deleted as there is Purchasing History posted against it. You may edit the Item Site and deactivate it."
         },
         {
           "key": "_xtdb_deleteItemSite5",
-          "source": "The selected Item Site cannot be deleted as there is Planning History posted against it. You may edit the Item Site and deactivate it.",
-          "target": ""
+          "source": "The selected Item Site cannot be deleted as there is Planning History posted against it. You may edit the Item Site and deactivate it."
         },
         {
           "key": "_xtdb_deleteItemSite6",
-          "source": "The selected Item Site cannot be deleted as there are Production Plans associated with it.",
-          "target": ""
+          "source": "The selected Item Site cannot be deleted as there are Production Plans associated with it."
         },
         {
           "key": "_xtdb_deleteItemSite7",
-          "source": "The selected Item Site cannot be deleted as it is used as a Supplied from Site.",
-          "target": ""
+          "source": "The selected Item Site cannot be deleted as it is used as a Supplied from Site."
         },
         {
           "key": "_xtdb_deleteItemSite9",
-          "source": "The selected Item Site cannot be deleted as there is a non-zero Inventory Quantity posted against it.",
-          "target": ""
+          "source": "The selected Item Site cannot be deleted as there is a non-zero Inventory Quantity posted against it."
         },
         {
           "key": "_xtdb_deleteItemUOMConv1",
-          "source": "This UOM Conversion cannot be deleted as there are records for this Item which use this UOM.",
-          "target": ""
+          "source": "This UOM Conversion cannot be deleted as there are records for this Item which use this UOM."
         },
         {
           "key": "_xtdb_deleteOpenRecurringItems10",
-          "source": "Cannot delete open recurring items with an invalid type.",
-          "target": ""
+          "source": "Cannot delete open recurring items with an invalid type."
         },
         {
           "key": "_xtdb_deleteOpenRecurringItems11",
-          "source": "Cannot delete open recurring items without a valid parent item.",
-          "target": ""
+          "source": "Cannot delete open recurring items without a valid parent item."
         },
         {
           "key": "_xtdb_deleteOpportunity1",
-          "source": "The selected Opportunity cannot be deleted because there are ToDo Items assigned to it. You must delete or reassign these ToDo Items before you may delete it.",
-          "target": ""
+          "source": "The selected Opportunity cannot be deleted because there are ToDo Items assigned to it. You must delete or reassign these ToDo Items before you may delete it."
         },
         {
           "key": "_xtdb_deleteOpportunity2",
-          "source": "The selected Opportunity cannot be deleted because there are Quotes assigned to it. You must delete or reassign these Quotes before you may delete it.",
-          "target": ""
+          "source": "The selected Opportunity cannot be deleted because there are Quotes assigned to it. You must delete or reassign these Quotes before you may delete it."
         },
         {
           "key": "_xtdb_deleteOpportunity3",
-          "source": "The selected Opportunity cannot be deleted because there are Sales Orders assigned to it. You must delete or reassign these Sales Orders before you may delete it.",
-          "target": ""
+          "source": "The selected Opportunity cannot be deleted because there are Sales Orders assigned to it. You must delete or reassign these Sales Orders before you may delete it."
         },
         {
           "key": "_xtdb_deletePackage1",
-          "source": "The selected Package cannot be deleted because there are other packages that depend on it to function properly.",
-          "target": ""
+          "source": "The selected Package cannot be deleted because there are other packages that depend on it to function properly."
         },
         {
           "key": "_xtdb_deleteProfitCenter1",
-          "source": "The selected Profit Center cannot be deleted as it is in use by existing Account. You must reclass these Accounts before you may delete the selected Profit Center.",
-          "target": ""
+          "source": "The selected Profit Center cannot be deleted as it is in use by existing Account. You must reclass these Accounts before you may delete the selected Profit Center."
         },
         {
           "key": "_xtdb_deleteProspect1",
-          "source": "The selected Prospect cannot be deleted as there are still Quotes for it. You must delete all of this Prospect's Quotes before you may delete the Prospect.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteSO1",
-          "source": "This Sales Order cannot be deleted because a Credit Card has been charged for it.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteSO10",
-          "source": "This Sales Order cannot be deleted as one or more of its Line items have associated Purchase Order Line Items which are either closed or have receipts associated with them. You may want to consider cancelling this Sales Order instead.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteSO101",
-          "source": "This Sales Order cannot be deleted as some of its line items have already been shipped.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteSO102",
-          "source": "This Sales Order cannot be deleted as some of its line items have already been issued to shipping.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteSO103",
-          "source": "This Sales Order cannot be deleted as some of its line items are linked to a Return Authorization. You must resolve this conflict before you may delete this Sales Order.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteSO104",
-          "source": "This Sales Order cannot be deleted as some of its line items are linked to an In Process Work Order. You must resolve this conflict before you may delete this Sales Order.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteSO105",
-          "source": "This Sales Order cannot be deleted as some of its line items have transaction history.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteSO2",
-          "source": "This Sales Order cannot be deleted because there is Credit Card transaction history for it.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteSO20",
-          "source": "The Sales Order was deleted successfully. However, the Released Purchase Orders associated with one or more line items of this Sales Order could not be deleted. You must delete these Purchase Orders seperately if desired.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteSOItem10",
-          "source": "This Sales Order Item cannot be deleted as it has associated Purchase Order Line Item which is either closed or has receipts associated with it. You may want to consider cancelling this Sales Order Item instead.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteSOItem101",
-          "source": "This Sales Order Item cannot be deleted as it has already been shipped.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteSOItem102",
-          "source": "This Sales Order Item cannot be deleted as it has already been issued to shipping.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteSOItem103",
-          "source": "This Sales Order Item cannot be deleted as it is linked to a Return Authorization. You must resolve this conflict before you may delete this Sales Order Item.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteSOItem104",
-          "source": "This Sales Order Item cannot be deleted as it is linked to an In Process Work Order. You must resolve this conflict before you may delete this Sales Order Item.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteSOItem105",
-          "source": "This Sales Order Item cannot be deleted as it has generated Inventory History. You may want to consider cancelling this Sales Order Item.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteSOItem20",
-          "source": "The Sales Order Item was deleted successfully. However, the Purchase Order Line Item associated with this Sales Line could not be deleted. You must delete this Purchase Line Item seperately if desired.",
-          "target": ""
+          "source": "The selected Prospect cannot be deleted as there are still Quotes for it. You must delete all of this Prospect's Quotes before you may delete the Prospect."
         },
         {
           "key": "_xtdb_deleteSalesRep1",
-          "source": "The selected Sales Rep. cannot be deleted as he/she is still assigned to one or more Customers. You must reassign different Sales Reps. to all Customers to which the selected Sales Rep. is assigned before you may delete the selected Sales Rep.",
-          "target": ""
+          "source": "The selected Sales Rep. cannot be deleted as he/she is still assigned to one or more Customers. You must reassign different Sales Reps. to all Customers to which the selected Sales Rep. is assigned before you may delete the selected Sales Rep."
         },
         {
           "key": "_xtdb_deleteSalesRep2",
-          "source": "The selected Sales Rep. cannot be deleted as he/she is still assigned to one or more Ship-tos. You must reassign different Sales Reps. to all Ship-tos to which the selected Sales Rep. is assigned before you may delete the selected Sales Rep.",
-          "target": ""
+          "source": "The selected Sales Rep. cannot be deleted as he/she is still assigned to one or more Ship-tos. You must reassign different Sales Reps. to all Ship-tos to which the selected Sales Rep. is assigned before you may delete the selected Sales Rep."
         },
         {
           "key": "_xtdb_deleteSalesRep3",
-          "source": "The selected Sales Rep. cannot be deleted as there has been sales history recorded against him/her. You may edit and set the selected Sales Rep's active status to inactive.",
-          "target": ""
+          "source": "The selected Sales Rep. cannot be deleted as there has been sales history recorded against him/her. You may edit and set the selected Sales Rep's active status to inactive."
         },
         {
           "key": "_xtdb_deleteShipto1",
-          "source": "The selected Shipto cannot be deleted as there is still Archived Sales History assigned to it. You must delete all of the selected Customer's Ship-Tos before you may delete it.",
-          "target": ""
+          "source": "The selected Shipto cannot be deleted as there is still Archived Sales History assigned to it. You must delete all of the selected Customer's Ship-Tos before you may delete it."
         },
         {
           "key": "_xtdb_deleteShipto2",
-          "source": "The selected Shipto cannot be deleted as there has been Sales History recorded for this Shipto. You may Edit the selected Shipto and set its status to inactive.",
-          "target": ""
+          "source": "The selected Shipto cannot be deleted as there has been Sales History recorded for this Shipto. You may Edit the selected Shipto and set its status to inactive."
         },
         {
           "key": "_xtdb_deleteShipto3",
-          "source": "The selected Shipto cannot be deleted as there has been Credit Memos recorded for this Shipto. You may Edit the selected Shipto and set its status to inactive.",
-          "target": ""
+          "source": "The selected Shipto cannot be deleted as there has been Credit Memos recorded for this Shipto. You may Edit the selected Shipto and set its status to inactive."
         },
         {
           "key": "_xtdb_deleteShipto4",
-          "source": "The selected Shipto cannot be deleted as there has been Sales History recorded for this Shipto. You may Edit the selected Shipto and set its status to inactive.",
-          "target": ""
+          "source": "The selected Shipto cannot be deleted as there has been Sales History recorded for this Shipto. You may Edit the selected Shipto and set its status to inactive."
         },
         {
           "key": "_xtdb_deleteShipto5",
-          "source": "The selected Shipto cannot be deleted as there has been Quote History recorded for this Shipto. You may Edit the selected Shipto and set its status to inactive.",
-          "target": ""
+          "source": "The selected Shipto cannot be deleted as there has been Quote History recorded for this Shipto. You may Edit the selected Shipto and set its status to inactive."
         },
         {
           "key": "_xtdb_deleteShipto6",
-          "source": "The selected Shipto cannot be deleted as there has been Invoice History recorded for this Shipto. You may Edit the selected Shipto and set its status to inactive.",
-          "target": ""
+          "source": "The selected Shipto cannot be deleted as there has been Invoice History recorded for this Shipto. You may Edit the selected Shipto and set its status to inactive."
+        },
+        {
+          "key": "_xtdb_deleteSO1",
+          "source": "This Sales Order cannot be deleted because a Credit Card has been charged for it."
+        },
+        {
+          "key": "_xtdb_deleteSO10",
+          "source": "This Sales Order cannot be deleted as one or more of its Line items have associated Purchase Order Line Items which are either closed or have receipts associated with them. You may want to consider cancelling this Sales Order instead."
+        },
+        {
+          "key": "_xtdb_deleteSO101",
+          "source": "This Sales Order cannot be deleted as some of its line items have already been shipped."
+        },
+        {
+          "key": "_xtdb_deleteSO102",
+          "source": "This Sales Order cannot be deleted as some of its line items have already been issued to shipping."
+        },
+        {
+          "key": "_xtdb_deleteSO103",
+          "source": "This Sales Order cannot be deleted as some of its line items are linked to a Return Authorization. You must resolve this conflict before you may delete this Sales Order."
+        },
+        {
+          "key": "_xtdb_deleteSO104",
+          "source": "This Sales Order cannot be deleted as some of its line items are linked to an In Process Work Order. You must resolve this conflict before you may delete this Sales Order."
+        },
+        {
+          "key": "_xtdb_deleteSO105",
+          "source": "This Sales Order cannot be deleted as some of its line items have transaction history."
+        },
+        {
+          "key": "_xtdb_deleteSO2",
+          "source": "This Sales Order cannot be deleted because there is Credit Card transaction history for it."
+        },
+        {
+          "key": "_xtdb_deleteSO20",
+          "source": "The Sales Order was deleted successfully. However, the Released Purchase Orders associated with one or more line items of this Sales Order could not be deleted. You must delete these Purchase Orders seperately if desired."
+        },
+        {
+          "key": "_xtdb_deleteSOItem10",
+          "source": "This Sales Order Item cannot be deleted as it has associated Purchase Order Line Item which is either closed or has receipts associated with it. You may want to consider cancelling this Sales Order Item instead."
+        },
+        {
+          "key": "_xtdb_deleteSOItem101",
+          "source": "This Sales Order Item cannot be deleted as it has already been shipped."
+        },
+        {
+          "key": "_xtdb_deleteSOItem102",
+          "source": "This Sales Order Item cannot be deleted as it has already been issued to shipping."
+        },
+        {
+          "key": "_xtdb_deleteSOItem103",
+          "source": "This Sales Order Item cannot be deleted as it is linked to a Return Authorization. You must resolve this conflict before you may delete this Sales Order Item."
+        },
+        {
+          "key": "_xtdb_deleteSOItem104",
+          "source": "This Sales Order Item cannot be deleted as it is linked to an In Process Work Order. You must resolve this conflict before you may delete this Sales Order Item."
+        },
+        {
+          "key": "_xtdb_deleteSOItem105",
+          "source": "This Sales Order Item cannot be deleted as it has generated Inventory History. You may want to consider cancelling this Sales Order Item."
+        },
+        {
+          "key": "_xtdb_deleteSOItem20",
+          "source": "The Sales Order Item was deleted successfully. However, the Purchase Order Line Item associated with this Sales Line could not be deleted. You must delete this Purchase Line Item seperately if desired."
         },
         {
           "key": "_xtdb_deleteSubaccount1",
-          "source": "The selected Subaccount cannot be deleted as it is in use by existing Account. You must reclass these Accounts before you may delete the selected Subaccount.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteTO1",
-          "source": "This Transfer Order cannot be deleted as some of its line items have already been shipped.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_deleteTO2",
-          "source": "This Transfer Order cannot be deleted as some of its line items have already been issued to shipping. You must return this stock before you may delete this Transfer Order.",
-          "target": ""
+          "source": "The selected Subaccount cannot be deleted as it is in use by existing Account. You must reclass these Accounts before you may delete the selected Subaccount."
         },
         {
           "key": "_xtdb_deleteTax10",
-          "source": "This Tax Code cannot be deleted as there are Tax Assignments that refer to it. Change those Tax Assignments before trying to delete this Tax Code.",
-          "target": ""
+          "source": "This Tax Code cannot be deleted as there are Tax Assignments that refer to it. Change those Tax Assignments before trying to delete this Tax Code."
         },
         {
           "key": "_xtdb_deleteTaxAuthority1",
-          "source": "This Tax Authority cannot be deleted as there are Tax Selections for it. Change or delete those Tax Selections before deleting this Tax Authority.",
-          "target": ""
+          "source": "This Tax Authority cannot be deleted as there are Tax Selections for it. Change or delete those Tax Selections before deleting this Tax Authority."
         },
         {
           "key": "_xtdb_deleteTaxAuthority7",
-          "source": "This Tax Authority cannot be deleted as Checks have been written to it.",
-          "target": ""
+          "source": "This Tax Authority cannot be deleted as Checks have been written to it."
         },
         {
           "key": "_xtdb_deleteTaxClass1",
-          "source": "This Tax Class cannot be deleted as there are Tax Codes that refer to it.",
-          "target": ""
+          "source": "This Tax Class cannot be deleted as there are Tax Codes that refer to it."
         },
         {
           "key": "_xtdb_deleteTaxZone1",
-          "source": "This Tax Zone cannot be deleted as there are Tax Assignments that refer to it.",
-          "target": ""
+          "source": "This Tax Zone cannot be deleted as there are Tax Assignments that refer to it."
         },
         {
           "key": "_xtdb_deleteTaxZone2",
-          "source": "This Tax Zone cannot be deleted as there are Tax Registrations that refer to it.",
-          "target": ""
+          "source": "This Tax Zone cannot be deleted as there are Tax Registrations that refer to it."
+        },
+        {
+          "key": "_xtdb_deleteTO1",
+          "source": "This Transfer Order cannot be deleted as some of its line items have already been shipped."
         },
         {
           "key": "_xtdb_deleteTo1",
-          "source": "This Transfer Order cannot be deleted as line items for it have already been shipped.",
-          "target": ""
+          "source": "This Transfer Order cannot be deleted as line items for it have already been shipped."
+        },
+        {
+          "key": "_xtdb_deleteTO2",
+          "source": "This Transfer Order cannot be deleted as some of its line items have already been issued to shipping. You must return this stock before you may delete this Transfer Order."
         },
         {
           "key": "_xtdb_deleteTo2",
-          "source": "This Transfer Order cannot be deleted as line items for it have been issued to shipping.",
-          "target": ""
+          "source": "This Transfer Order cannot be deleted as line items for it have been issued to shipping."
         },
         {
           "key": "_xtdb_deleteTo3",
-          "source": "This Transfer Order cannot be deleted as the order number cannot be released.",
-          "target": ""
+          "source": "This Transfer Order cannot be deleted as the order number cannot be released."
         },
         {
           "key": "_xtdb_deleteVendor1",
-          "source": "The selected Vendor cannot be deleted as there have been P/Os created against it. You may deactivate this Vendor instead.",
-          "target": ""
+          "source": "The selected Vendor cannot be deleted as there have been P/Os created against it. You may deactivate this Vendor instead."
         },
         {
           "key": "_xtdb_deleteVendor2",
-          "source": "The selected Vendor cannot be deleted as there has been P/O Material Receipt History posted against it. You may deactivate this Vendor instead.",
-          "target": ""
+          "source": "The selected Vendor cannot be deleted as there has been P/O Material Receipt History posted against it. You may deactivate this Vendor instead."
         },
         {
           "key": "_xtdb_deleteVendor3",
-          "source": "The selected Vendor cannot be deleted as there has been P/O Material Return History posted against it. You may deactivate this Vendor instead.",
-          "target": ""
+          "source": "The selected Vendor cannot be deleted as there has been P/O Material Return History posted against it. You may deactivate this Vendor instead."
         },
         {
           "key": "_xtdb_deleteVendor4",
-          "source": "The selected Vendor cannot be deleted as there have been Vouchers posted against it. You may deactivate this Vendor instead.",
-          "target": ""
+          "source": "The selected Vendor cannot be deleted as there have been Vouchers posted against it. You may deactivate this Vendor instead."
         },
         {
           "key": "_xtdb_deleteVendor5",
-          "source": "The selected Vendor cannot be deleted as there have been A/P Open Items posted against it. You may deactivate this Vendor instead.",
-          "target": ""
+          "source": "The selected Vendor cannot be deleted as there have been A/P Open Items posted against it. You may deactivate this Vendor instead."
         },
         {
           "key": "_xtdb_deleteVendor6",
-          "source": "The selected Vendor cannot be deleted as there have been A/P Applications posted against it. You may deactivate this Vendor instead.",
-          "target": ""
+          "source": "The selected Vendor cannot be deleted as there have been A/P Applications posted against it. You may deactivate this Vendor instead."
         },
         {
           "key": "_xtdb_deleteVendor7",
-          "source": "The selected Vendor cannot be deleted as there have been Checks posted against it. You may deactivate this Vendor instead.",
-          "target": ""
+          "source": "The selected Vendor cannot be deleted as there have been Checks posted against it. You may deactivate this Vendor instead."
         },
         {
           "key": "_xtdb_deleteWo1",
-          "source": "The Work Order cannot be deleted because time clock entries exist for it. Please Close it instead of trying to Delete it.",
-          "target": ""
+          "source": "The Work Order cannot be deleted because time clock entries exist for it. Please Close it instead of trying to Delete it."
         },
         {
           "key": "_xtdb_deleteWo2",
-          "source": "The Work Order cannot be deleted for Job Item Types. Please close the associated Sales Order instead of trying to Delete it.",
-          "target": ""
+          "source": "The Work Order cannot be deleted for Job Item Types. Please close the associated Sales Order instead of trying to Delete it."
         },
         {
           "key": "_xtdb_deleteWo3",
-          "source": "The Work Order cannot be deleted in the current status. Please close the associated Sales Order instead of trying to Delete it.",
-          "target": ""
+          "source": "The Work Order cannot be deleted in the current status. Please close the associated Sales Order instead of trying to Delete it."
         },
         {
           "key": "_xtdb_disablePackage1",
-          "source": "This version of the PostgreSQL database server does not support package enabling or disabling. Upgrade to PostgreSQL 8.2 or later.",
-          "target": ""
+          "source": "This version of the PostgreSQL database server does not support package enabling or disabling. Upgrade to PostgreSQL 8.2 or later."
         },
         {
           "key": "_xtdb_disablePackage2",
-          "source": "Could not find a package with the internal id % to enable or disable.",
-          "target": ""
+          "source": "Could not find a package with the internal id % to enable or disable."
         },
         {
           "key": "_xtdb_distributeVoucherLine2",
-          "source": "Distribution would result in zero quantity and amount. Please distribute manually.",
-          "target": ""
+          "source": "Distribution would result in zero quantity and amount. Please distribute manually."
         },
         {
           "key": "_xtdb_distributeVoucherLine3",
-          "source": "The purchase order and voucher have different currencies. Please distribute manually.",
-          "target": ""
+          "source": "The purchase order and voucher have different currencies. Please distribute manually."
         },
         {
           "key": "_xtdb_distributeVoucherLine4",
-          "source": "Distribution would result in a negative amount. Please distribute manually.",
-          "target": ""
+          "source": "Distribution would result in a negative amount. Please distribute manually."
         },
         {
           "key": "_xtdb_distributeVoucherLine5",
-          "source": "Item has multiple cost elements. Please distribute manually.",
-          "target": ""
+          "source": "Item has multiple cost elements. Please distribute manually."
         },
         {
           "key": "_xtdb_editccnumber1",
-          "source": "You must select Master Card, Visa, American Express or Discover as the credit card type.",
-          "target": ""
+          "source": "You must select Master Card, Visa, American Express or Discover as the credit card type."
         },
         {
           "key": "_xtdb_editccnumber10",
-          "source": "The credit card number that you have provided is not valid.",
-          "target": ""
+          "source": "The credit card number that you have provided is not valid."
         },
         {
           "key": "_xtdb_editccnumber2",
-          "source": "The length of a Master Card credit card number has to be 16 digits.",
-          "target": ""
+          "source": "The length of a Master Card credit card number has to be 16 digits."
         },
         {
           "key": "_xtdb_editccnumber3",
-          "source": "The length of a Visa credit card number has to be either 13 or 16 digits.",
-          "target": ""
+          "source": "The length of a Visa credit card number has to be either 13 or 16 digits."
         },
         {
           "key": "_xtdb_editccnumber4",
-          "source": "The length of an American Express credit card number has to be 15 digits.",
-          "target": ""
+          "source": "The length of an American Express credit card number has to be 15 digits."
         },
         {
           "key": "_xtdb_editccnumber5",
-          "source": "The length of a Discover credit card number has to be 16 digits.",
-          "target": ""
+          "source": "The length of a Discover credit card number has to be 16 digits."
         },
         {
           "key": "_xtdb_editccnumber6",
-          "source": "The first two digits for a valid Master Card number must be between 51 and 55",
-          "target": ""
+          "source": "The first two digits for a valid Master Card number must be between 51 and 55"
         },
         {
           "key": "_xtdb_editccnumber7",
-          "source": "The first digit for a valid Visa number must be 4",
-          "target": ""
+          "source": "The first digit for a valid Visa number must be 4"
         },
         {
           "key": "_xtdb_editccnumber8",
-          "source": "The first two digits for a valid American Express number must be 34 or 37.",
-          "target": ""
+          "source": "The first two digits for a valid American Express number must be 34 or 37."
         },
         {
           "key": "_xtdb_editccnumber9",
-          "source": "The first four digits for a valid Discover Express number must be 6011.",
-          "target": ""
+          "source": "The first four digits for a valid Discover Express number must be 6011."
         },
         {
           "key": "_xtdb_enterReceipt1",
-          "source": "Information for this order line item could not be found. If it is a Purchase Order Item then it does not appear to exist. If it is a Transfer Order Item then either the Transfer Order does not exist or there is no Item Site for this line item.",
-          "target": ""
+          "source": "Information for this order line item could not be found. If it is a Purchase Order Item then it does not appear to exist. If it is a Transfer Order Item then either the Transfer Order does not exist or there is no Item Site for this line item."
         },
         {
           "key": "_xtdb_explodeWo1",
-          "source": "Work Order %1 cannot be Exploded as there is no valid Bill of Materials on file for the Work Order Item. You must create a valid Bill of Materials for the Work Order Item before you may explode the Work Order.",
-          "target": ""
+          "source": "Work Order %1 cannot be Exploded as there is no valid Bill of Materials on file for the Work Order Item. You must create a valid Bill of Materials for the Work Order Item before you may explode the Work Order."
         },
         {
           "key": "_xtdb_explodeWo2",
-          "source": "Work Order %1 cannot be Exploded as there are one or more Component Items on the Bill of Materials for the Work Order Item that are not valid in the Work Order Site. You must create a valid Item Site for all of the Component Items before you may explode this Work Order.",
-          "target": ""
+          "source": "Work Order %1 cannot be Exploded as there are one or more Component Items on the Bill of Materials for the Work Order Item that are not valid in the Work Order Site. You must create a valid Item Site for all of the Component Items before you may explode this Work Order."
         },
         {
           "key": "_xtdb_explodeWo3",
-          "source": "Work Order %1 cannot be Exploded as there are one or more Co-Product/By-Product Items on the Breeder Bill of Materials for the Work Order Item that do not exist in the Work Order Site. You must create a valid Item Site for all of the Co-Product/ By-Product Items before you may explode this Work Order.",
-          "target": ""
+          "source": "Work Order %1 cannot be Exploded as there are one or more Co-Product/By-Product Items on the Breeder Bill of Materials for the Work Order Item that do not exist in the Work Order Site. You must create a valid Item Site for all of the Co-Product/ By-Product Items before you may explode this Work Order."
         },
         {
           "key": "_xtdb_explodeWo4",
-          "source": "Work Order %1 cannot be Exploded because it is not Open.",
-          "target": ""
+          "source": "Work Order %1 cannot be Exploded because it is not Open."
         },
         {
           "key": "_xtdb_explodeWo9",
-          "source": "Work Order %1 cannot be Exploded because the quantity ordered is not valid.",
-          "target": ""
+          "source": "Work Order %1 cannot be Exploded because the quantity ordered is not valid."
         },
         {
           "key": "_xtdb_fkeycheck1",
-          "source": "Cannot check dependencies when the contact is one of multiple foreign key columns.",
-          "target": ""
+          "source": "Cannot check dependencies when the contact is one of multiple foreign key columns."
         },
         {
           "key": "_xtdb_freezeAccountingPeriod1",
-          "source": "Cannot freeze this Accounting Period because it is still open.",
-          "target": ""
+          "source": "Cannot freeze this Accounting Period because it is still open."
         },
         {
           "key": "_xtdb_freezeAccountingPeriod2",
-          "source": "Cannot freeze this Accounting Period because it is already frozen.",
-          "target": ""
+          "source": "Cannot freeze this Accounting Period because it is already frozen."
         },
         {
           "key": "_xtdb_insertGLTransaction3",
-          "source": "Nothing to do as the value to post to the G/L is 0.",
-          "target": ""
+          "source": "Nothing to do as the value to post to the G/L is 0."
         },
         {
           "key": "_xtdb_insertGLTransaction4",
-          "source": "Cannot post a G/L transaction to a closed period.",
-          "target": ""
+          "source": "Cannot post a G/L transaction to a closed period."
         },
         {
           "key": "_xtdb_insertIntoGLSeries1",
-          "source": "Cannot add to a G/L Series because the Account is NULL or -1.",
-          "target": ""
+          "source": "Cannot add to a G/L Series because the Account is NULL or -1."
         },
         {
           "key": "_xtdb_insertIntoGLSeries4",
-          "source": "Cannot add to a G/L Series because the Accounting Period is closed.",
-          "target": ""
+          "source": "Cannot add to a G/L Series because the Accounting Period is closed."
         },
         {
           "key": "_xtdb_issueToShipping10",
-          "source": "The Next Shipment Number has not been set in the Configure S/R window. Set that value and try issuing to shipping again.",
-          "target": ""
+          "source": "The Next Shipment Number has not been set in the Configure S/R window. Set that value and try issuing to shipping again."
         },
         {
           "key": "_xtdb_issueToShipping11",
-          "source": "Not a supported order type.",
-          "target": ""
+          "source": "Not a supported order type."
         },
         {
           "key": "_xtdb_issueToShipping12",
-          "source": "The selected Sales Order is on Credit Hold and must be taken off of Credit Hold before any inventory may be issued to it.",
-          "target": ""
+          "source": "The selected Sales Order is on Credit Hold and must be taken off of Credit Hold before any inventory may be issued to it."
         },
         {
           "key": "_xtdb_issueToShipping13",
-          "source": "The selected Sales Order is on Packing Hold and must be taken off of Packing Hold before any inventory may be issued to it.",
-          "target": ""
+          "source": "The selected Sales Order is on Packing Hold and must be taken off of Packing Hold before any inventory may be issued to it."
         },
         {
           "key": "_xtdb_issueToShipping14",
-          "source": "The selected Sales Order is on Return Hold. The Customer must return all materials for a related Return Authorization before any inven tory may be issued to this Order.",
-          "target": ""
+          "source": "The selected Sales Order is on Return Hold. The Customer must return all materials for a related Return Authorization before any inven tory may be issued to this Order."
         },
         {
           "key": "_xtdb_issueToShipping15",
-          "source": "The selected Sales Order is configured for Auto Registration. The Customer Account does not have a Primary Contact. A Primary Contact must be assigned to this Customer Account before any inven tory may be issued to this Order.",
-          "target": ""
+          "source": "The selected Sales Order is configured for Auto Registration. The Customer Account does not have a Primary Contact. A Primary Contact must be assigned to this Customer Account before any inven tory may be issued to this Order."
         },
         {
           "key": "_xtdb_issueToShipping20",
-          "source": "There is not enough Inventory to issue the amount required of one of the Average Cost items requested. Average Cost items may not have a negative quantity on hand.",
-          "target": ""
+          "source": "There is not enough Inventory to issue the amount required of one of the Average Cost items requested. Average Cost items may not have a negative quantity on hand."
         },
         {
           "key": "_xtdb_login1",
-          "source": "The specified Username does not exist in the specified Database. Contact your Systems Administrator to report this issue",
-          "target": ""
+          "source": "The specified Username does not exist in the specified Database. Contact your Systems Administrator to report this issue"
         },
         {
           "key": "_xtdb_login2",
-          "source": "The specified Username exists in the specified Database but is not Active. Contact your Systems Administrator to report this issue.",
-          "target": ""
+          "source": "The specified Username exists in the specified Database but is not Active. Contact your Systems Administrator to report this issue."
         },
         {
           "key": "_xtdb_login3",
-          "source": "The specified Database is currently in Maintenance Mode and can only be accessed by System Administators. Contact your Systems Administrator to report this issue.",
-          "target": ""
+          "source": "The specified Database is currently in Maintenance Mode and can only be accessed by System Administators. Contact your Systems Administrator to report this issue."
         },
         {
           "key": "_xtdb_massReplaceBomitem1",
-          "source": "Cannot make this BOM Item replacement because it would create a recursive BOM.",
-          "target": ""
+          "source": "Cannot make this BOM Item replacement because it would create a recursive BOM."
         },
         {
           "key": "_xtdb_openAccountingPeriod1",
-          "source": "Cannot open this Accounting Period because it is already open.",
-          "target": ""
+          "source": "Cannot open this Accounting Period because it is already open."
         },
         {
           "key": "_xtdb_openAccountingPeriod2",
-          "source": "Cannot open this Accounting Period because it is frozen.",
-          "target": ""
+          "source": "Cannot open this Accounting Period because it is frozen."
         },
         {
           "key": "_xtdb_openAccountingPeriod3",
-          "source": "Cannot open this Accounting Period because subsequent periods are closed.",
-          "target": ""
+          "source": "Cannot open this Accounting Period because subsequent periods are closed."
         },
         {
           "key": "_xtdb_openAccountingPeriod4",
-          "source": "Cannot open this Accounting Period because the fiscal year is closed.",
-          "target": ""
+          "source": "Cannot open this Accounting Period because the fiscal year is closed."
         },
         {
           "key": "_xtdb_openAccountingYearPeriod2",
-          "source": "Cannot open this Accounting Year because subsequent years are closed.",
-          "target": ""
+          "source": "Cannot open this Accounting Year because subsequent years are closed."
         },
         {
           "key": "_xtdb_openRecurringItems10",
-          "source": "Cannot count open recurring items with an invalid type.",
-          "target": ""
+          "source": "Cannot count open recurring items with an invalid type."
         },
         {
           "key": "_xtdb_openRecurringItems11",
-          "source": "Cannot count open recurring items without a valid parent item.",
-          "target": ""
+          "source": "Cannot count open recurring items without a valid parent item."
         },
         {
           "key": "_xtdb_openRecurringItems12",
-          "source": "Don't know how to count open recurring invoices.",
-          "target": ""
+          "source": "Don't know how to count open recurring invoices."
         },
         {
           "key": "_xtdb_postAPCreditMemoApplication1",
-          "source": "There are no A/P Credit Memo applications to post.",
-          "target": ""
+          "source": "There are no A/P Credit Memo applications to post."
         },
         {
           "key": "_xtdb_postAPCreditMemoApplication2",
-          "source": "There are no A/P Credit Memo applications to post.",
-          "target": ""
+          "source": "There are no A/P Credit Memo applications to post."
         },
         {
           "key": "_xtdb_postAPCreditMemoApplication3",
-          "source": "The total value of the applications that are you attempting to post is greater than the value of the A/P Credit Memo itself.",
-          "target": ""
+          "source": "The total value of the applications that are you attempting to post is greater than the value of the A/P Credit Memo itself."
         },
         {
           "key": "_xtdb_postAPCreditMemoApplication4",
-          "source": "At least one A/P Credit Memo application cannot be posted because there is no current exchange rate for its currency.",
-          "target": ""
+          "source": "At least one A/P Credit Memo application cannot be posted because there is no current exchange rate for its currency."
         },
         {
           "key": "_xtdb_postAPCreditMemoApplication5",
-          "source": "The A/P Credit Memo to apply was not found.",
-          "target": ""
+          "source": "The A/P Credit Memo to apply was not found."
         },
         {
           "key": "_xtdb_postAPCreditMemoApplication6",
-          "source": "The amount to apply for this A/P Credit Memo is NULL.",
-          "target": ""
+          "source": "The amount to apply for this A/P Credit Memo is NULL."
         },
         {
           "key": "_xtdb_postARCreditMemoApplication1",
-          "source": "There are no A/R Credit Memo applications to post.",
-          "target": ""
+          "source": "There are no A/R Credit Memo applications to post."
         },
         {
           "key": "_xtdb_postARCreditMemoApplication2",
-          "source": "Either there are no A/R Credit Memo applications to post or there is no exchange rate for one of the applications.",
-          "target": ""
+          "source": "Either there are no A/R Credit Memo applications to post or there is no exchange rate for one of the applications."
         },
         {
           "key": "_xtdb_postARCreditMemoApplication3",
-          "source": "The total value of the applications that you are attempting to post is greater than the value of the A/R Credit Memo itself. Please reduce the applications to total less than the value of the Credit Memo.",
-          "target": ""
+          "source": "The total value of the applications that you are attempting to post is greater than the value of the A/R Credit Memo itself. Please reduce the applications to total less than the value of the Credit Memo."
         },
         {
           "key": "_xtdb_postARCreditMemoApplication4",
-          "source": "At least one A/R Credit Memo application cannot be posted because there is no current exchange rate for its currency.",
-          "target": ""
+          "source": "At least one A/R Credit Memo application cannot be posted because there is no current exchange rate for its currency."
         },
         {
           "key": "_xtdb_postARCreditMemoApplication5",
-          "source": "The A/R Credit Memo to apply was not found.",
-          "target": ""
+          "source": "The A/R Credit Memo to apply was not found."
         },
         {
           "key": "_xtdb_postBankAdjustment1",
-          "source": "This Bank Adjustment could not be posted because the one or more required records do not exist.",
-          "target": ""
+          "source": "This Bank Adjustment could not be posted because the one or more required records do not exist."
         },
         {
           "key": "_xtdb_postBankAdjustment3",
-          "source": "This Bank Adjustment could not be posted because the total adjustment is 0 so there is nothing to post.",
-          "target": ""
+          "source": "This Bank Adjustment could not be posted because the total adjustment is 0 so there is nothing to post."
         },
         {
           "key": "_xtdb_postBankReconciliation1",
-          "source": "This Bank Reconciliation could not be posted because the G/L Account could not be verified.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_postCCCashReceipt11",
-          "source": "Cannot post this Cash Receipt because the record of the credit card transaction either does not exist or is not consistent.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_postCCcredit1",
-          "source": "Cannot post this Credit Card refund because the default Bank Account for this Credit Card could not be found.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_postCCcredit2",
-          "source": "Cannot post this Credit Card refund because an invalid id/reference-type pair was passed.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_postCCcredit3",
-          "source": "Cannot post this Credit Card refund because the credit card and refund records could not be found.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_postCCcredit4",
-          "source": "Cannot post this Credit Card refund because the credit card payment records is not for a refund.",
-          "target": ""
+          "source": "This Bank Reconciliation could not be posted because the G/L Account could not be verified."
         },
         {
           "key": "_xtdb_postCashReceipt1",
-          "source": "The selected Cash Receipt cannot be posted as the amount distributed is greater than the amount received. You must correct this before you may post this Cash Receipt.",
-          "target": ""
+          "source": "The selected Cash Receipt cannot be posted as the amount distributed is greater than the amount received. You must correct this before you may post this Cash Receipt."
         },
         {
           "key": "_xtdb_postCashReceipt2",
-          "source": "The selected Cash Receipt cannot be posted as the amount received must be greater than zero. You must correct this before you may post this Cash Receipt.",
-          "target": ""
+          "source": "The selected Cash Receipt cannot be posted as the amount received must be greater than zero. You must correct this before you may post this Cash Receipt."
         },
         {
           "key": "_xtdb_postCashReceipt5",
-          "source": "The selected Cash Receipt cannot be posted as the A/R Account cannot be determined. You must make an A/R Account Assignment for the Customer Type to which this Customer is assigned before you may post this Cash Receipt.",
-          "target": ""
+          "source": "The selected Cash Receipt cannot be posted as the A/R Account cannot be determined. You must make an A/R Account Assignment for the Customer Type to which this Customer is assigned before you may post this Cash Receipt."
         },
         {
           "key": "_xtdb_postCashReceipt6",
-          "source": "The selected Cash Receipt cannot be posted as the Bank Account cannot be determined. You must make a Bank Account Assignment for this Cash Receipt before you may post it.",
-          "target": ""
+          "source": "The selected Cash Receipt cannot be posted as the Bank Account cannot be determined. You must make a Bank Account Assignment for this Cash Receipt before you may post it."
         },
         {
           "key": "_xtdb_postCashReceipt7",
-          "source": "The selected Cash Receipt cannot be posted, probably because the Customer's Prepaid Account was not found.",
-          "target": ""
+          "source": "The selected Cash Receipt cannot be posted, probably because the Customer's Prepaid Account was not found."
         },
         {
           "key": "_xtdb_postCashReceipt8",
-          "source": "Cannot post this Cash Receipt because the credit card records could not be found.",
-          "target": ""
+          "source": "Cannot post this Cash Receipt because the credit card records could not be found."
+        },
+        {
+          "key": "_xtdb_postCCCashReceipt11",
+          "source": "Cannot post this Cash Receipt because the record of the credit card transaction either does not exist or is not consistent."
+        },
+        {
+          "key": "_xtdb_postCCcredit1",
+          "source": "Cannot post this Credit Card refund because the default Bank Account for this Credit Card could not be found."
+        },
+        {
+          "key": "_xtdb_postCCcredit2",
+          "source": "Cannot post this Credit Card refund because an invalid id/reference-type pair was passed."
+        },
+        {
+          "key": "_xtdb_postCCcredit3",
+          "source": "Cannot post this Credit Card refund because the credit card and refund records could not be found."
+        },
+        {
+          "key": "_xtdb_postCCcredit4",
+          "source": "Cannot post this Credit Card refund because the credit card payment records is not for a refund."
         },
         {
           "key": "_xtdb_postCheck10",
-          "source": "Cannot post this Check because it has already been posted.",
-          "target": ""
+          "source": "Cannot post this Check because it has already been posted."
         },
         {
           "key": "_xtdb_postCheck11",
-          "source": "Cannot post this Check because the recipient type is not valid.",
-          "target": ""
+          "source": "Cannot post this Check because the recipient type is not valid."
         },
         {
           "key": "_xtdb_postCheck12",
-          "source": "Cannot post this Check because the Expense Category could not be found.",
-          "target": ""
+          "source": "Cannot post this Check because the Expense Category could not be found."
         },
         {
           "key": "_xtdb_postCheck13",
-          "source": "Cannot post this Check because the G/L Account against which it is to be posted is not valid.",
-          "target": ""
+          "source": "Cannot post this Check because the G/L Account against which it is to be posted is not valid."
         },
         {
           "key": "_xtdb_postCountTag1",
-          "source": "Cannot post this Count Tag because The total Count Slip quantity is greater than the Count Tag quantity.",
-          "target": ""
+          "source": "Cannot post this Count Tag because The total Count Slip quantity is greater than the Count Tag quantity."
         },
         {
           "key": "_xtdb_postCountTag2",
-          "source": "Cannot post this Count Tag because the total Count Slip quantity is less than the Count Tag quantity for a Lot/Serial-controlled Item Site.",
-          "target": ""
+          "source": "Cannot post this Count Tag because the total Count Slip quantity is less than the Count Tag quantity for a Lot/Serial-controlled Item Site."
         },
         {
           "key": "_xtdb_postCountTag3",
-          "source": "Cannot post this Count Tag because the total Count Slip quantity is less than the Count Tag quantity and there is no default location.",
-          "target": ""
+          "source": "Cannot post this Count Tag because the total Count Slip quantity is less than the Count Tag quantity and there is no default location."
         },
         {
           "key": "_xtdb_postCountTag4",
-          "source": "Cannot post this Count Tag because the total Count Slip quantity is less than the Count Tag quantity and we don't post to default locations.",
-          "target": ""
+          "source": "Cannot post this Count Tag because the total Count Slip quantity is less than the Count Tag quantity and we don't post to default locations."
         },
         {
           "key": "_xtdb_postCreditMemo10",
-          "source": "This Credit Memo cannot be posted because it has already been posted.",
-          "target": ""
+          "source": "This Credit Memo cannot be posted because it has already been posted."
         },
         {
           "key": "_xtdb_postCreditMemo11",
-          "source": "This Credit Memo is on Hold and, thus, cannot be posted.",
-          "target": ""
+          "source": "This Credit Memo is on Hold and, thus, cannot be posted."
         },
         {
           "key": "_xtdb_postCreditMemo12",
-          "source": "The Sales Account Assignment for this Credit Memo is not configured correctly. Because of this, G/L Transactions cannot be posted for this Credit Memo. You must contact your Systems Administrator to have this corrected before you may post this Credit Memo.",
-          "target": ""
+          "source": "The Sales Account Assignment for this Credit Memo is not configured correctly. Because of this, G/L Transactions cannot be posted for this Credit Memo. You must contact your Systems Administrator to have this corrected before you may post this Credit Memo."
         },
         {
           "key": "_xtdb_postCreditMemo14",
-          "source": "The Misc. Charge Account Assignment for this Credit Memo is not configured correctly. Because of this, G/L Transactions cannot be posted for this Credit Memo. You must contact your Systems Administrator to have this corrected before you may post this Credit Memo.",
-          "target": ""
+          "source": "The Misc. Charge Account Assignment for this Credit Memo is not configured correctly. Because of this, G/L Transactions cannot be posted for this Credit Memo. You must contact your Systems Administrator to have this corrected before you may post this Credit Memo."
         },
         {
           "key": "_xtdb_postCreditMemo16",
-          "source": "The Freight Account Assignment for this Credit Memo is not configured correctly. Because of this, G/L Transactions cannot be posted for this Credit Memo. You must contact your Systems Administrator to have this corrected before you may post this Credit Memo.",
-          "target": ""
+          "source": "The Freight Account Assignment for this Credit Memo is not configured correctly. Because of this, G/L Transactions cannot be posted for this Credit Memo. You must contact your Systems Administrator to have this corrected before you may post this Credit Memo."
         },
         {
           "key": "_xtdb_postCreditMemo18",
-          "source": "The A/R Account Assignment for this Credit Memo is not configured correctly. Because of this, G/L Transactions cannot be posted for this Credit Memo. You must contact your Systems Administrator to have this corrected before you may post this Credit Memo.",
-          "target": ""
+          "source": "The A/R Account Assignment for this Credit Memo is not configured correctly. Because of this, G/L Transactions cannot be posted for this Credit Memo. You must contact your Systems Administrator to have this corrected before you may post this Credit Memo."
         },
         {
           "key": "_xtdb_postGLSeries4",
-          "source": "Could not post this G/L Series because the Accounting Period is closed.",
-          "target": ""
+          "source": "Could not post this G/L Series because the Accounting Period is closed."
         },
         {
           "key": "_xtdb_postGLSeries5",
-          "source": "Could not post this G/L Series because the G/L Series Discrepancy Account was not found.",
-          "target": ""
+          "source": "Could not post this G/L Series because the G/L Series Discrepancy Account was not found."
         },
         {
           "key": "_xtdb_postGLSeriesNoSumm1",
-          "source": "Could not post this G/L Series because the Debits and Credits are unbalanced.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_postInvTrans1",
-          "source": "Could not post an inventory transaction because the Item Site has no Control Method or the Item has an Item Type of Reference.",
-          "target": ""
-        },
-        {
-          "key": "_xtdb_postInvTrans2",
-          "source": "Could not post an inventory transaction because the transaction will cause an Average Costed Item to go negative which is not allowed.",
-          "target": ""
+          "source": "Could not post this G/L Series because the Debits and Credits are unbalanced."
         },
         {
           "key": "_xtdb_postInvoice10",
-          "source": "Unable to post this Invoice because it has already been posted.",
-          "target": ""
+          "source": "Unable to post this Invoice because it has already been posted."
         },
         {
           "key": "_xtdb_postInvoice11",
-          "source": "Unable to post this Invoice because the Sales Account was not found.",
-          "target": ""
+          "source": "Unable to post this Invoice because the Sales Account was not found."
         },
         {
           "key": "_xtdb_postInvoice12",
-          "source": "Unable to post this Invoice because there was an error processing Line Item taxes.",
-          "target": ""
+          "source": "Unable to post this Invoice because there was an error processing Line Item taxes."
         },
         {
           "key": "_xtdb_postInvoice13",
-          "source": "Unable to post this Invoice because there was an error processing Misc. Line Item taxes.",
-          "target": ""
+          "source": "Unable to post this Invoice because there was an error processing Misc. Line Item taxes."
         },
         {
           "key": "_xtdb_postInvoice14",
-          "source": "Unable to post this Invoice because the Freight Account was not found.",
-          "target": ""
+          "source": "Unable to post this Invoice because the Freight Account was not found."
         },
         {
           "key": "_xtdb_postInvoice15",
-          "source": "Unable to post this Invoice because there was an error processing Freight taxes.",
-          "target": ""
+          "source": "Unable to post this Invoice because there was an error processing Freight taxes."
         },
         {
           "key": "_xtdb_postInvoice16",
-          "source": "Unable to post this Invoice because there was an error processing Tax Adjustments.",
-          "target": ""
+          "source": "Unable to post this Invoice because there was an error processing Tax Adjustments."
         },
         {
           "key": "_xtdb_postInvoice17",
-          "source": "Unable to post this Invoice because the A/R Account was not found.",
-          "target": ""
+          "source": "Unable to post this Invoice because the A/R Account was not found."
+        },
+        {
+          "key": "_xtdb_postInvTrans1",
+          "source": "Could not post an inventory transaction because the Item Site has no Control Method or the Item has an Item Type of Reference."
+        },
+        {
+          "key": "_xtdb_postInvTrans2",
+          "source": "Could not post an inventory transaction because the transaction will cause an Average Costed Item to go negative which is not allowed."
         },
         {
           "key": "_xtdb_postProduction1",
-          "source": "Unable to post this Production because the Work Order status is not Exploded, Released, or InProcess.",
-          "target": ""
+          "source": "Unable to post this Production because the Work Order status is not Exploded, Released, or InProcess."
         },
         {
           "key": "_xtdb_postProduction2",
-          "source": "Unable to post this Production because backflushing component usage could not be completed due to missing Item Sites.",
-          "target": ""
+          "source": "Unable to post this Production because backflushing component usage could not be completed due to missing Item Sites."
         },
         {
           "key": "_xtdb_postProduction3",
-          "source": "Unable to post this Production because of missing Item Site or Cost Category.",
-          "target": ""
+          "source": "Unable to post this Production because of missing Item Site or Cost Category."
         },
         {
           "key": "_xtdb_postReceipt10",
-          "source": "This Receipt Line has already been posted.",
-          "target": ""
+          "source": "This Receipt Line has already been posted."
         },
         {
           "key": "_xtdb_postReceipt11",
-          "source": "This Receipt Line cannot be posted because it has a quantity of 0.",
-          "target": ""
+          "source": "This Receipt Line cannot be posted because it has a quantity of 0."
         },
         {
           "key": "_xtdb_postReceipt12",
-          "source": "This Purchase Order Receipt Line has no Standard Cost assigned to it.",
-          "target": ""
+          "source": "This Purchase Order Receipt Line has no Standard Cost assigned to it."
         },
         {
           "key": "_xtdb_postReceipt16",
-          "source": "Cannot not issue item to shipping. No Sales Order item found against this PO Item.",
-          "target": ""
+          "source": "Cannot not issue item to shipping. No Sales Order item found against this PO Item."
         },
         {
           "key": "_xtdb_postReceipt17",
-          "source": "Cannot not issue item to shipping. Inventory history not found.",
-          "target": ""
+          "source": "Cannot not issue item to shipping. Inventory history not found."
         },
         {
           "key": "_xtdb_postVoucher5",
-          "source": "The Cost Category for one or more Item Sites for the Purchase Order covered by this Voucher is not configured with Purchase Price Variance or P/O Liability Clearing Account Numbers or the Vendor of this Voucher is not configured with an A/P Account Number. Because of this, G/L Transactions cannot be posted for this Voucher.",
-          "target": ""
+          "source": "The Cost Category for one or more Item Sites for the Purchase Order covered by this Voucher is not configured with Purchase Price Variance or P/O Liability Clearing Account Numbers or the Vendor of this Voucher is not configured with an A/P Account Number. Because of this, G/L Transactions cannot be posted for this Voucher."
         },
         {
           "key": "_xtdb_recallShipment1",
-          "source": "This shipment cannot be recalled because it does not appear to have been shipped.",
-          "target": ""
+          "source": "This shipment cannot be recalled because it does not appear to have been shipped."
         },
         {
           "key": "_xtdb_recallShipment2",
-          "source": "This shipment cannot be recalled because it appears to have been invoiced.",
-          "target": ""
+          "source": "This shipment cannot be recalled because it appears to have been invoiced."
         },
         {
           "key": "_xtdb_recallShipment3",
-          "source": "This shipment cannot be recalled because it has already been received at its destination.",
-          "target": ""
+          "source": "This shipment cannot be recalled because it has already been received at its destination."
         },
         {
           "key": "_xtdb_recallShipment4",
-          "source": "This shipment cannot be recalled because it appears to have been invoiced and the invoice has been posted.",
-          "target": ""
+          "source": "This shipment cannot be recalled because it appears to have been invoiced and the invoice has been posted."
         },
         {
           "key": "_xtdb_recallShipment5",
-          "source": "This shipment cannot be recalled because it contains one or more Line Items with Site/ Product Category/Customer combinations that have not been properly described in Sales Account Assignments. These assignments must be made before G/L Transactions can be posted and this Sales Order is allowed to be recalled.",
-          "target": ""
+          "source": "This shipment cannot be recalled because it contains one or more Line Items with Site/ Product Category/Customer combinations that have not been properly described in Sales Account Assignments. These assignments must be made before G/L Transactions can be posted and this Sales Order is allowed to be recalled."
         },
         {
           "key": "_xtdb_recallShipment6",
-          "source": "This shipment cannot be recalled because the associated Transfer Order is closed.",
-          "target": ""
+          "source": "This shipment cannot be recalled because the associated Transfer Order is closed."
         },
         {
           "key": "_xtdb_releasePurchaseOrder1",
-          "source": "Cannot release this Purchase Order because it does not have any unreleased Purchase Order Items.",
-          "target": ""
+          "source": "Cannot release this Purchase Order because it does not have any unreleased Purchase Order Items."
         },
         {
           "key": "_xtdb_releaseTransferOrder1",
-          "source": "Cannot release this Transfer Order because it does not have any line items.",
-          "target": ""
+          "source": "Cannot release this Transfer Order because it does not have any line items."
         },
         {
           "key": "_xtdb_releaseUnusedBillingHeader1",
-          "source": "Cannot release this Billing Header because it has already been posted.",
-          "target": ""
+          "source": "Cannot release this Billing Header because it has already been posted."
         },
         {
           "key": "_xtdb_releaseUnusedBillingHeader2",
-          "source": "Cannot release this Billing Header because it has Line Items.",
-          "target": ""
+          "source": "Cannot release this Billing Header because it has Line Items."
         },
         {
           "key": "_xtdb_relocateInventory1",
-          "source": "You cannot Relocate more inventory than is available.",
-          "target": ""
+          "source": "You cannot Relocate more inventory than is available."
         },
         {
           "key": "_xtdb_replaceVoidedCheck1",
-          "source": "Cannot replace a check that is not voided or has already been posted or replaced.",
-          "target": ""
+          "source": "Cannot replace a check that is not voided or has already been posted or replaced."
         },
         {
           "key": "_xtdb_replaceVoidedCheck2",
-          "source": "Cannot replace this voided check because one of its line items has been reselected for billing and is represented on another check.",
-          "target": ""
+          "source": "Cannot replace this voided check because one of its line items has been reselected for billing and is represented on another check."
         },
         {
           "key": "_xtdb_reserveSoLineQty1",
-          "source": "Cannot reserve more quantity than remaining on order.",
-          "target": ""
+          "source": "Cannot reserve more quantity than remaining on order."
         },
         {
           "key": "_xtdb_reserveSoLineQty2",
-          "source": "Cannot reserve negative quantities.",
-          "target": ""
+          "source": "Cannot reserve negative quantities."
         },
         {
           "key": "_xtdb_reserveSoLineQty3",
-          "source": "Cannot reserve more quantity than currently on hand and already reserved.",
-          "target": ""
+          "source": "Cannot reserve more quantity than currently on hand and already reserved."
         },
         {
           "key": "_xtdb_returnCompleteShipment5",
-          "source": "Either a Cost Category for the Items you are trying to Return is not configured with a Shipping Asset Account Number or a Customer Type/Product Category/Site Sales Account assignment does not exist . Because of this, G/L Transactions cannot be posted for this Return. You must contact your Systems Administrator to have this corrected before you may Return this Shipment.",
-          "target": ""
+          "source": "Either a Cost Category for the Items you are trying to Return is not configured with a Shipping Asset Account Number or a Customer Type/Product Category/Site Sales Account assignment does not exist . Because of this, G/L Transactions cannot be posted for this Return. You must contact your Systems Administrator to have this corrected before you may Return this Shipment."
         },
         {
           "key": "_xtdb_returnItemShipments5",
-          "source": "Either a Cost Category for the Items you are trying to Return is not configured with a Shipping Asset Account Number or a Customer Type/Product Category/Site Sales Account assignment does not exist . Because of this, G/L Transactions cannot be posted for this Return. You must contact your Systems Administrator to have this corrected before you may Return this Shipment.",
-          "target": ""
+          "source": "Either a Cost Category for the Items you are trying to Return is not configured with a Shipping Asset Account Number or a Customer Type/Product Category/Site Sales Account assignment does not exist . Because of this, G/L Transactions cannot be posted for this Return. You must contact your Systems Administrator to have this corrected before you may Return this Shipment."
         },
         {
           "key": "_xtdb_returnShipmentTransaction5",
-          "source": "Either a Cost Category for the Items you are trying to Return is not configured with a Shipping Asset Account Number or a Customer Type/Product Category/Site Sales Account assignment does not exist . Because of this, G/L Transactions cannot be posted for this Return. You must contact your Systems Administrator to have this corrected before you may Return this Shipment.",
-          "target": ""
+          "source": "Either a Cost Category for the Items you are trying to Return is not configured with a Shipping Asset Account Number or a Customer Type/Product Category/Site Sales Account assignment does not exist . Because of this, G/L Transactions cannot be posted for this Return. You must contact your Systems Administrator to have this corrected before you may Return this Shipment."
         },
         {
           "key": "_xtdb_reverseCashReceipt1",
-          "source": "The selected Cash Receipt cannot be reversed as the amount distributed is greater than the amount received.",
-          "target": ""
+          "source": "The selected Cash Receipt cannot be reversed as the amount distributed is greater than the amount received."
         },
         {
           "key": "_xtdb_reverseCashReceipt2",
-          "source": "The selected Cash Receipt cannot be reversed as the amount received must be greater than zero.",
-          "target": ""
+          "source": "The selected Cash Receipt cannot be reversed as the amount received must be greater than zero."
         },
         {
           "key": "_xtdb_reverseCashReceipt5",
-          "source": "The selected Cash Receipt cannot be reversed as the A/R Account cannot be determined. You must make an A/R Account Assignment for the Customer Type to which this Customer is assigned before you may reverse this Cash Receipt.",
-          "target": ""
+          "source": "The selected Cash Receipt cannot be reversed as the A/R Account cannot be determined. You must make an A/R Account Assignment for the Customer Type to which this Customer is assigned before you may reverse this Cash Receipt."
         },
         {
           "key": "_xtdb_reverseCashReceipt6",
-          "source": "The selected Cash Receipt cannot be reversed as the Bank Account cannot be determined. You must make a Bank Account Assignment for this Cash Receipt before you may reverse it.",
-          "target": ""
+          "source": "The selected Cash Receipt cannot be reversed as the Bank Account cannot be determined. You must make a Bank Account Assignment for this Cash Receipt before you may reverse it."
         },
         {
           "key": "_xtdb_reverseCashReceipt7",
-          "source": "The selected Cash Receipt cannot be reversed, probably because the Customer's Prepaid Account was not found.",
-          "target": ""
+          "source": "The selected Cash Receipt cannot be reversed, probably because the Customer's Prepaid Account was not found."
         },
         {
           "key": "_xtdb_reverseCashReceipt8",
-          "source": "Cannot reverse this Cash Receipt because the credit card records could not be found.",
-          "target": ""
+          "source": "Cannot reverse this Cash Receipt because the credit card records could not be found."
         },
         {
           "key": "_xtdb_saveAlarm10",
-          "source": "An alarm for this item already exists.",
-          "target": ""
+          "source": "An alarm for this item already exists."
         },
         {
           "key": "_xtdb_selectForBilling1",
-          "source": "The quantity you have selected for Billing is less than the quantity shipped. You may not bill for less than the quantity shipped.",
-          "target": ""
+          "source": "The quantity you have selected for Billing is less than the quantity shipped. You may not bill for less than the quantity shipped."
         },
         {
           "key": "_xtdb_shipShipment12",
-          "source": "The selected Order is on Credit Hold and must be taken off of Credit Hold before it may be shipped.",
-          "target": ""
+          "source": "The selected Order is on Credit Hold and must be taken off of Credit Hold before it may be shipped."
         },
         {
           "key": "_xtdb_shipShipment13",
-          "source": "The selected Order is on Packing Hold and must be taken off of Packing Hold before it may be shipped.",
-          "target": ""
+          "source": "The selected Order is on Packing Hold and must be taken off of Packing Hold before it may be shipped."
         },
         {
           "key": "_xtdb_shipShipment14",
-          "source": "The selected Order is on Return Hold. The Customer  must return all materials for a related Return Authorization before this order may be shipped.",
-          "target": ""
+          "source": "The selected Order is on Return Hold. The Customer  must return all materials for a related Return Authorization before this order may be shipped."
         },
         {
           "key": "_xtdb_shipShipment15",
-          "source": "The selected Order is on Shipping Hold and must be taken off of Shipping Hold before it may be shipped.",
-          "target": ""
+          "source": "The selected Order is on Shipping Hold and must be taken off of Shipping Hold before it may be shipped."
         },
         {
           "key": "_xtdb_shipShipment5",
-          "source": "This Sales Order may not be shipped as it contains one or more Line Items that have Site/Product Category/Customer combinations that have not been properly described in Sales Account Assignments. These assignments must be made before G/L Transactions can be posted and this Sales Order is allowed to ship.",
-          "target": ""
+          "source": "This Sales Order may not be shipped as it contains one or more Line Items that have Site/Product Category/Customer combinations that have not been properly described in Sales Account Assignments. These assignments must be made before G/L Transactions can be posted and this Sales Order is allowed to ship."
         },
         {
           "key": "_xtdb_shipShipment50",
-          "source": "This Shipment cannot be shipped because it does not appear to exist.",
-          "target": ""
+          "source": "This Shipment cannot be shipped because it does not appear to exist."
         },
         {
           "key": "_xtdb_shipShipment6",
-          "source": "This Transfer Order may not be shipped because there is no Item Site for the Transit Site.",
-          "target": ""
+          "source": "This Transfer Order may not be shipped because there is no Item Site for the Transit Site."
         },
         {
           "key": "_xtdb_shipShipment8",
-          "source": "This Shipment cannot be shipped because it appears to have already shipped.",
-          "target": ""
+          "source": "This Shipment cannot be shipped because it appears to have already shipped."
         },
         {
           "key": "_xtdb_shipShipment99",
-          "source": "This Order may not be shipped because it has been marked as Ship Complete and quantities for one or more Line Items are still not completely issued. Please correct this before shipping the Order.",
-          "target": ""
+          "source": "This Order may not be shipped because it has been marked as Ship Complete and quantities for one or more Line Items are still not completely issued. Please correct this before shipping the Order."
         },
         {
           "key": "_xtdb_splitReceipt1",
-          "source": "Only Purchase Order Receipts may be split.",
-          "target": ""
+          "source": "Only Purchase Order Receipts may be split."
         },
         {
           "key": "_xtdb_splitReceipt2",
-          "source": "Only posted receipts may be split.",
-          "target": ""
+          "source": "Only posted receipts may be split."
         },
         {
           "key": "_xtdb_splitReceipt3",
-          "source": "Vouchered receitps may not be split.",
-          "target": ""
+          "source": "Vouchered receitps may not be split."
         },
         {
           "key": "_xtdb_splitReceipt4",
-          "source": "Split quantity must me less than original receipt quantity.",
-          "target": ""
+          "source": "Split quantity must me less than original receipt quantity."
         },
         {
           "key": "_xtdb_splitReceipt5",
-          "source": "Split freight may not be greater than original freight.",
-          "target": ""
+          "source": "Split freight may not be greater than original freight."
         },
         {
           "key": "_xtdb_splitReceipt6",
-          "source": "Receipt not found.",
-          "target": ""
+          "source": "Receipt not found."
         },
         {
           "key": "_xtdb_splitReceipt7",
-          "source": "The split quantity must be a positive number.",
-          "target": ""
+          "source": "The split quantity must be a positive number."
         },
         {
           "key": "_xtdb_splitRecurrence11",
-          "source": "Cannot create recurring items without a valid parent item to copy.",
-          "target": ""
+          "source": "Cannot create recurring items without a valid parent item to copy."
         },
         {
           "key": "_xtdb_sufficientInventoryToShipItem1",
-          "source": "Cannot figure out which line item to issue.",
-          "target": ""
+          "source": "Cannot figure out which line item to issue."
         },
         {
           "key": "_xtdb_sufficientInventoryToShipItem11",
-          "source": "Invalid Order Type. Only Sales Orders and Transfer Orders may be shipped from this window.",
-          "target": ""
+          "source": "Invalid Order Type. Only Sales Orders and Transfer Orders may be shipped from this window."
         },
         {
           "key": "_xtdb_sufficientInventoryToShipItem2",
-          "source": "There is not enough Inventory to issue the amount required of Item %1 in Site %2.",
-          "target": ""
+          "source": "There is not enough Inventory to issue the amount required of Item %1 in Site %2."
         },
         {
           "key": "_xtdb_sufficientInventoryToShipItem3",
-          "source": "Item Number %1 in Site %2 is a Multiple Location or Lot/Serial controlled Item which is short on Inventory. This transaction cannot be completed as is. Please make sure there is sufficient Quantity on Hand before proceeding.",
-          "target": ""
+          "source": "Item Number %1 in Site %2 is a Multiple Location or Lot/Serial controlled Item which is short on Inventory. This transaction cannot be completed as is. Please make sure there is sufficient Quantity on Hand before proceeding."
         },
         {
           "key": "_xtdb_sufficientInventoryToShipOrder1",
-          "source": "Cannot check inventory levels for an invalid item.",
-          "target": ""
+          "source": "Cannot check inventory levels for an invalid item."
         },
         {
           "key": "_xtdb_sufficientInventoryToShipOrder2",
-          "source": "There is not enough Inventory to issue the amount required of one of the items requested.",
-          "target": ""
+          "source": "There is not enough Inventory to issue the amount required of one of the items requested."
         },
         {
           "key": "_xtdb_sufficientInventoryToShipOrder3",
-          "source": "One of the requested items is a Multiple Location or Lot/Serial controlled Item which is sort on Inventory.",
-          "target": ""
+          "source": "One of the requested items is a Multiple Location or Lot/Serial controlled Item which is sort on Inventory."
         },
         {
           "key": "_xtdb_thawAccountingPeriod1",
-          "source": "Cannot thaw this Accounting Period because it is closed.",
-          "target": ""
+          "source": "Cannot thaw this Accounting Period because it is closed."
         },
         {
           "key": "_xtdb_thawAccountingPeriod2",
-          "source": "Cannot thaw this Accounting Period because it is not frozen.",
-          "target": ""
+          "source": "Cannot thaw this Accounting Period because it is not frozen."
         },
         {
           "key": "_xtdb_todoItemMove1",
-          "source": "Cannot change the Sequence of a non-existent To-Do List Item. Possible cause: no To-Do List Item was selected.",
-          "target": ""
+          "source": "Cannot change the Sequence of a non-existent To-Do List Item. Possible cause: no To-Do List Item was selected."
         },
         {
           "key": "_xtdb_updateTodoItem1",
-          "source": "The To-Do List Item cannot be updated as there is no assigned User.",
-          "target": ""
+          "source": "The To-Do List Item cannot be updated as there is no assigned User."
         },
         {
           "key": "_xtdb_updateTodoItem10",
-          "source": "The To-Do List Item cannot be updated as an invalid internal ID was supplied .",
-          "target": ""
+          "source": "The To-Do List Item cannot be updated as an invalid internal ID was supplied ."
         },
         {
           "key": "_xtdb_updateTodoItem2",
-          "source": "The To-Do List Item cannot be updated as the Task Name is blank.",
-          "target": ""
+          "source": "The To-Do List Item cannot be updated as the Task Name is blank."
         },
         {
           "key": "_xtdb_updateTodoItem3",
-          "source": "The To-Do List Item cannot be updated as there is no Due Date.",
-          "target": ""
+          "source": "The To-Do List Item cannot be updated as there is no Due Date."
         },
         {
           "key": "_xtdb_voidCheck1",
-          "source": "Cannot void this check because either it has already been voided, posted, or replaced, or it has been transmitted electronically. If this check has been posted, try Void Posted Check with the Check Register window.",
-          "target": ""
+          "source": "Cannot void this check because either it has already been voided, posted, or replaced, or it has been transmitted electronically. If this check has been posted, try Void Posted Check with the Check Register window."
         },
         {
           "key": "_xtdb_voidCreditMemo10",
-          "source": "Unable to void this Credit Memo because it has not been posted.",
-          "target": ""
+          "source": "Unable to void this Credit Memo because it has not been posted."
         },
         {
           "key": "_xtdb_voidCreditMemo11",
-          "source": "Unable to void this Credit Memo because the Sales Account was not found.",
-          "target": ""
+          "source": "Unable to void this Credit Memo because the Sales Account was not found."
         },
         {
           "key": "_xtdb_voidCreditMemo20",
-          "source": "Unable to void this Credit Memo because there A/R Applications posted against this Credit Memo.",
-          "target": ""
+          "source": "Unable to void this Credit Memo because there A/R Applications posted against this Credit Memo."
         },
         {
           "key": "_xtdb_voidInvoice10",
-          "source": "Unable to void this Invoice because it has not been posted.",
-          "target": ""
+          "source": "Unable to void this Invoice because it has not been posted."
         },
         {
           "key": "_xtdb_voidInvoice11",
-          "source": "Unable to void this Invoice because the Sales Account was not found.",
-          "target": ""
+          "source": "Unable to void this Invoice because the Sales Account was not found."
         },
         {
           "key": "_xtdb_voidInvoice20",
-          "source": "Unable to void this Invoice because there A/R Applications posted against this Invoice.",
-          "target": ""
+          "source": "Unable to void this Invoice because there A/R Applications posted against this Invoice."
         },
         {
           "key": "_xtdb_voidPostedCheck10",
-          "source": "Cannot void this check because it has already been voided.",
-          "target": ""
+          "source": "Cannot void this check because it has already been voided."
         },
         {
           "key": "_xtdb_voidPostedCheck11",
-          "source": "Cannot void this check because the recipient type is not valid.",
-          "target": ""
+          "source": "Cannot void this check because the recipient type is not valid."
         },
         {
           "key": "_xtdb_voidPostedCheck12",
-          "source": "Cannot void this check because the Expense Category could not be found.",
-          "target": ""
+          "source": "Cannot void this check because the Expense Category could not be found."
         },
         {
           "key": "_xtdb_voidPostedCheck13",
-          "source": "Cannot void this check because the G/L account to which the funds should be credited is not valid.",
-          "target": ""
+          "source": "Cannot void this check because the G/L account to which the funds should be credited is not valid."
         },
         {
           "key": "_xtdb_voidPostedCheck14",
-          "source": "Cannot void this check because the check has has been reconciled in Bank Reconciliation.",
-          "target": ""
+          "source": "Cannot void this check because the check has has been reconciled in Bank Reconciliation."
         },
         {
           "key": "_xtdb_woClockIn10",
-          "source": "Work Order %1 has at least one Item in its Bill of Materials with the Push issue method that has not yet been issued. You must issue all Push Items to this Work Order.",
-          "target": ""
+          "source": "Work Order %1 has at least one Item in its Bill of Materials with the Push issue method that has not yet been issued. You must issue all Push Items to this Work Order."
         },
         {
           "key": "_xtdb_woClockIn11",
-          "source": "Work Order %1 has at least one Item in its Bill of Materials with the Push issue method that does not have the required quantity issued. You must issue all Push Items to this Work Order.",
-          "target": ""
+          "source": "Work Order %1 has at least one Item in its Bill of Materials with the Push issue method that does not have the required quantity issued. You must issue all Push Items to this Work Order."
         },
         {
           "key": "_xtdb_woClockIn12",
-          "source": "Work Order %1 is closed.",
-          "target": ""
+          "source": "Work Order %1 is closed."
         },
         {
           "key": "_xtdb_woClockIn9",
-          "source": "Work Order %1 cannot be Exploded as it seems to have an invalid Order Quantity.",
-          "target": ""
+          "source": "Work Order %1 cannot be Exploded as it seems to have an invalid Order Quantity."
         }
       ]
     },
@@ -6841,813 +5476,651 @@
       "strings": [
         {
           "key": "_about",
-          "source": "About",
-          "target": ""
+          "source": "About"
         },
         {
           "key": "_accountParent",
-          "source": "Account Parent",
-          "target": ""
+          "source": "Account Parent"
         },
         {
           "key": "_actions",
-          "source": "Actions",
-          "target": ""
+          "source": "Actions"
         },
         {
           "key": "_addChart",
-          "source": "Add Chart",
-          "target": ""
+          "source": "Add Chart"
         },
         {
           "key": "_addressShared",
-          "source": "There are multiple records sharing this Address.",
-          "target": ""
+          "source": "There are multiple records sharing this Address."
         },
         {
           "key": "_advancedSearch",
-          "source": "Advanced Search",
-          "target": ""
+          "source": "Advanced Search"
         },
         {
           "key": "_always",
-          "source": "Always",
-          "target": ""
+          "source": "Always"
         },
         {
           "key": "_any",
-          "source": "Any",
-          "target": ""
+          "source": "Any"
         },
         {
           "key": "_apply",
-          "source": "Apply",
-          "target": ""
+          "source": "Apply"
         },
         {
           "key": "_assignedToRequiredAssigned",
-          "source": "Assigned to is required when status is 'Assigned'",
-          "target": ""
+          "source": "Assigned to is required when status is 'Assigned'"
         },
         {
           "key": "_attr",
-          "source": "Attr",
-          "target": ""
+          "source": "Attr"
         },
         {
           "key": "_attributeIsRequired",
-          "source": "{attr} is required.",
-          "target": ""
+          "source": "{attr} is required."
         },
         {
           "key": "_attributeNotInSchema",
-          "source": "'{attr}' does not exist in the schema.",
-          "target": ""
+          "source": "'{attr}' does not exist in the schema."
         },
         {
           "key": "_attributeReadOnly",
-          "source": "Can not edit read only attribute(s).",
-          "target": ""
+          "source": "Can not edit read only attribute(s)."
         },
         {
           "key": "_attributeTypeMismatch",
-          "source": "The value of '{attr}' must be type: {type}.",
-          "target": ""
+          "source": "The value of '{attr}' must be type: {type}."
         },
         {
           "key": "_back",
-          "source": "Back",
-          "target": ""
-        },
-        {
-          "key": "_canNotCreateOrderOnCreditHold",
-          "source": "You do not have permission to create orders for customers on credit hold.",
-          "target": ""
-        },
-        {
-          "key": "_canNotCreateOrderOnCreditWarn",
-          "source": "You do not have permission to create orders for customers on credit warning.",
-          "target": ""
-        },
-        {
-          "key": "_canNotUpdate",
-          "source": "Insufficient privileges to edit the record.",
-          "target": ""
+          "source": "Back"
         },
         {
           "key": "_cancel",
-          "source": "Cancel",
-          "target": ""
+          "source": "Cancel"
+        },
+        {
+          "key": "_canNotCreateOrderOnCreditHold",
+          "source": "You do not have permission to create orders for customers on credit hold."
+        },
+        {
+          "key": "_canNotCreateOrderOnCreditWarn",
+          "source": "You do not have permission to create orders for customers on credit warning."
+        },
+        {
+          "key": "_canNotUpdate",
+          "source": "Insufficient privileges to edit the record."
         },
         {
           "key": "_changeAll",
-          "source": "Change All",
-          "target": ""
+          "source": "Change All"
         },
         {
           "key": "_changeLayout",
-          "source": "Change Layout",
-          "target": ""
+          "source": "Change Layout"
         },
         {
           "key": "_changeOne",
-          "source": "Change only this one",
-          "target": ""
+          "source": "Change only this one"
         },
         {
           "key": "_changePassword",
-          "source": "Change Password",
-          "target": ""
+          "source": "Change Password"
         },
         {
           "key": "_characteristicContextRequired",
-          "source": "You must set at least one characteristic context to true.",
-          "target": ""
+          "source": "You must set at least one characteristic context to true."
         },
         {
           "key": "_characteristics",
-          "source": "Characteristics",
-          "target": ""
+          "source": "Characteristics"
         },
         {
           "key": "_child",
-          "source": "Child",
-          "target": ""
+          "source": "Child"
         },
         {
           "key": "_childOf",
-          "source": "Child of",
-          "target": ""
+          "source": "Child of"
         },
         {
           "key": "_chooseOne",
-          "source": "Choose One",
-          "target": ""
+          "source": "Choose One"
         },
         {
           "key": "_city",
-          "source": "City",
-          "target": ""
+          "source": "City"
         },
         {
           "key": "_column",
-          "source": "Column",
-          "target": ""
+          "source": "Column"
         },
         {
           "key": "_comments",
-          "source": "Comments",
-          "target": ""
+          "source": "Comments"
         },
         {
           "key": "_confirmAction",
-          "source": "Are you sure this is what you want to do?",
-          "target": ""
+          "source": "Are you sure this is what you want to do?"
         },
         {
           "key": "_confirmDelete",
-          "source": "This will permanently delete this record.",
-          "target": ""
+          "source": "This will permanently delete this record."
         },
         {
           "key": "_country",
-          "source": "Country",
-          "target": ""
+          "source": "Country"
         },
         {
           "key": "_countryInvalid",
-          "source": "Country is invalid.",
-          "target": ""
+          "source": "Country is invalid."
         },
         {
           "key": "_currencyRateNotFound",
-          "source": "No currency conversion rate was found for {currency} on {asOf}.",
-          "target": ""
+          "source": "No currency conversion rate was found for {currency} on {asOf}."
         },
         {
           "key": "_currentLayout",
-          "source": "Current Layout",
-          "target": ""
+          "source": "Current Layout"
         },
         {
           "key": "_dashboard",
-          "source": "Dashboard",
-          "target": ""
+          "source": "Dashboard"
         },
         {
           "key": "_datasourceError",
-          "source": "Data source error: {error}",
-          "target": ""
+          "source": "Data source error: {error}"
         },
         {
           "key": "_delete",
-          "source": "Delete",
-          "target": ""
+          "source": "Delete"
         },
         {
           "key": "_discard",
-          "source": "Discard",
-          "target": ""
+          "source": "Discard"
         },
         {
           "key": "_documents",
-          "source": "Documents",
-          "target": ""
+          "source": "Documents"
         },
         {
           "key": "_done",
-          "source": "Done",
-          "target": ""
+          "source": "Done"
         },
         {
           "key": "_download",
-          "source": "Download",
-          "target": ""
+          "source": "Download"
         },
         {
           "key": "_duplicate",
-          "source": "Duplicate",
-          "target": ""
+          "source": "Duplicate"
         },
         {
           "key": "_duplicateOf",
-          "source": "Duplicate of",
-          "target": ""
+          "source": "Duplicate of"
         },
         {
           "key": "_duplicateValues",
-          "source": "Duplicate values are not allowed.",
-          "target": ""
+          "source": "Duplicate values are not allowed."
         },
         {
           "key": "_edit",
-          "source": "Edit",
-          "target": ""
+          "source": "Edit"
         },
         {
           "key": "_editAddress",
-          "source": "Edit Address",
-          "target": ""
+          "source": "Edit Address"
         },
         {
           "key": "_editFilter?",
-          "source": "Do you want to edit this filter?",
-          "target": ""
+          "source": "Do you want to edit this filter?"
         },
         {
           "key": "_endPriorToStart",
-          "source": "{start} Date must be prior to {end} Date.",
-          "target": ""
+          "source": "{start} Date must be prior to {end} Date."
         },
         {
           "key": "_expand",
-          "source": "Expand",
-          "target": ""
+          "source": "Expand"
         },
         {
           "key": "_export",
-          "source": "Export",
-          "target": ""
+          "source": "Export"
         },
         {
           "key": "_field",
-          "source": "Field",
-          "target": ""
+          "source": "Field"
         },
         {
           "key": "_filter",
-          "source": "Filter",
-          "target": ""
+          "source": "Filter"
         },
         {
           "key": "_filterExists",
-          "source": "A filter exists with this name.",
-          "target": ""
+          "source": "A filter exists with this name."
         },
         {
           "key": "_filterName",
-          "source": "Filter Name",
-          "target": ""
+          "source": "Filter Name"
         },
         {
           "key": "_filterOn",
-          "source": "Filter On",
-          "target": ""
+          "source": "Filter On"
         },
         {
           "key": "_filters",
-          "source": "Filters",
-          "target": ""
+          "source": "Filters"
         },
         {
           "key": "_groupBy",
-          "source": "Group By",
-          "target": ""
+          "source": "Group By"
         },
         {
           "key": "_help",
-          "source": "Help",
-          "target": ""
+          "source": "Help"
         },
         {
           "key": "_hide",
-          "source": "Hide",
-          "target": ""
+          "source": "Hide"
         },
         {
           "key": "_history",
-          "source": "History",
-          "target": ""
+          "source": "History"
         },
         {
           "key": "_incompleteDistribution",
-          "source": "The quantity distributed must be equal to the transaction quantity.",
-          "target": ""
+          "source": "The quantity distributed must be equal to the transaction quantity."
         },
         {
           "key": "_insufficientCreatePrivileges",
-          "source": "You do not have sufficient privileges to create this record.",
-          "target": ""
+          "source": "You do not have sufficient privileges to create this record."
         },
         {
           "key": "_insufficientViewPrivileges",
-          "source": "You do not have sufficient privileges to view this record.",
-          "target": ""
+          "source": "You do not have sufficient privileges to view this record."
         },
         {
           "key": "_invalidAddress",
-          "source": "Invalid Address",
-          "target": ""
+          "source": "Invalid Address"
         },
         {
           "key": "_invalidPassword",
-          "source": "Entry does not match your old password. Please re-enter.",
-          "target": ""
+          "source": "Entry does not match your old password. Please re-enter."
         },
         {
           "key": "_invalidValue",
-          "source": "Invalid value for {attr}: {value}.",
-          "target": ""
+          "source": "Invalid value for {attr}: {value}."
         },
         {
           "key": "_isShared",
-          "source": "Shared",
-          "target": ""
+          "source": "Shared"
         },
         {
           "key": "_issueDate",
-          "source": "Issue Date",
-          "target": ""
+          "source": "Issue Date"
         },
         {
           "key": "_issueSelected",
-          "source": "Issue All Selected",
-          "target": ""
+          "source": "Issue All Selected"
         },
         {
           "key": "_issueSelectedStock",
-          "source": "Issue Quantity for Selected",
-          "target": ""
+          "source": "Issue Quantity for Selected"
         },
         {
           "key": "_itemSiteActiveItemInactive",
-          "source": "This Item Site refers to an inactive Item and must be marked as inactive.",
-          "target": ""
+          "source": "This Item Site refers to an inactive Item and must be marked as inactive."
         },
         {
           "key": "_itemSiteActiveQtyOnHand",
-          "source": "This Item Site has a quantity on hand and must be marked as active.",
-          "target": ""
+          "source": "This Item Site has a quantity on hand and must be marked as active."
         },
         {
           "key": "_layout",
-          "source": "Layout",
-          "target": ""
+          "source": "Layout"
         },
         {
           "key": "_layoutName",
-          "source": "Layout Name",
-          "target": ""
+          "source": "Layout Name"
         },
         {
           "key": "_lengthInvalid",
-          "source": "Length of {attr} must be {length}.",
-          "target": ""
+          "source": "Length of {attr} must be {length}."
         },
         {
           "key": "_less",
-          "source": "Less Options",
-          "target": ""
+          "source": "Less Options"
         },
         {
           "key": "_lineItemsRequired",
-          "source": "You must create at least one line item.",
-          "target": ""
+          "source": "You must create at least one line item."
         },
         {
           "key": "_loading",
-          "source": "Loading",
-          "target": ""
+          "source": "Loading"
         },
         {
           "key": "_loadingApplicationData",
-          "source": "Loading Application Data",
-          "target": ""
+          "source": "Loading Application Data"
         },
         {
           "key": "_loadingExtensions",
-          "source": "Loading Extensions",
-          "target": ""
+          "source": "Loading Extensions"
         },
         {
           "key": "_loadingSchema",
-          "source": "Loading Schema",
-          "target": ""
+          "source": "Loading Schema"
         },
         {
           "key": "_loadingSessionData",
-          "source": "Loading Session Data",
-          "target": ""
+          "source": "Loading Session Data"
         },
         {
           "key": "_localResourceNotAllowed",
-          "source": "Not allowed to load local resource",
-          "target": ""
+          "source": "Not allowed to load local resource"
         },
         {
           "key": "_lockInfo",
-          "source": "This record has been locked by {user} since {effective}.",
-          "target": ""
+          "source": "This record has been locked by {user} since {effective}."
         },
         {
           "key": "_logoutConfirmation",
-          "source": "Are you sure you want to log out?",
-          "target": ""
+          "source": "Are you sure you want to log out?"
         },
         {
           "key": "_manage",
-          "source": "Manage",
-          "target": ""
+          "source": "Manage"
         },
         {
           "key": "_manageFilters",
-          "source": "Manage Filters",
-          "target": ""
+          "source": "Manage Filters"
         },
         {
           "key": "_manageLayouts",
-          "source": "Manage Layouts",
-          "target": ""
+          "source": "Manage Layouts"
         },
         {
           "key": "_map",
-          "source": "Map",
-          "target": ""
+          "source": "Map"
         },
         {
           "key": "_more",
-          "source": "More Options",
-          "target": ""
+          "source": "More Options"
         },
         {
           "key": "_myAccount",
-          "source": "My Account",
-          "target": ""
+          "source": "My Account"
         },
         {
           "key": "_nameRequired",
-          "source": "A name is required.",
-          "target": ""
+          "source": "A name is required."
         },
         {
           "key": "_negativeQuantityNoAverage",
-          "source": "You can not change an Item Site to Average Costing when it has a negative quantity on hand",
-          "target": ""
+          "source": "You can not change an Item Site to Average Costing when it has a negative quantity on hand"
         },
         {
           "key": "_never",
-          "source": "Never",
-          "target": ""
+          "source": "Never"
         },
         {
           "key": "_new",
-          "source": "New",
-          "target": ""
+          "source": "New"
         },
         {
           "key": "_newPassword",
-          "source": "New Password",
-          "target": ""
+          "source": "New Password"
         },
         {
           "key": "_next",
-          "source": "Next",
-          "target": ""
+          "source": "Next"
         },
         {
           "key": "_no",
-          "source": "No",
-          "target": ""
+          "source": "No"
         },
         {
           "key": "_noDescription",
-          "source": "No Description",
-          "target": ""
+          "source": "No Description"
         },
         {
           "key": "_noDocumentFound",
-          "source": "No Document Found.",
-          "target": ""
+          "source": "No Document Found."
         },
         {
           "key": "_noEligibleActions",
-          "source": "No Eligible Actions",
-          "target": ""
-        },
-        {
-          "key": "_noOldPassword",
-          "source": "Please enter your old password",
-          "target": ""
+          "source": "No Eligible Actions"
         },
         {
           "key": "_none",
-          "source": "None",
-          "target": ""
+          "source": "None"
+        },
+        {
+          "key": "_noOldPassword",
+          "source": "Please enter your old password"
         },
         {
           "key": "_notFractional",
-          "source": "The unit of measure for this item does not allow fractional quantities.",
-          "target": ""
+          "source": "The unit of measure for this item does not allow fractional quantities."
         },
         {
           "key": "_ok",
-          "source": "Ok",
-          "target": ""
+          "source": "Ok"
         },
         {
           "key": "_oldPassword",
-          "source": "Old Password",
-          "target": ""
+          "source": "Old Password"
         },
         {
           "key": "_open",
-          "source": "Open",
-          "target": ""
+          "source": "Open"
         },
         {
           "key": "_openAdvancedWorkspace",
-          "source": "Open Advanced Workspace",
-          "target": ""
+          "source": "Open Advanced Workspace"
         },
         {
           "key": "_openNewTab",
-          "source": "New Tab",
-          "target": ""
+          "source": "New Tab"
         },
         {
           "key": "_orderWithActivityNoUnrelease",
-          "source": "The order may not be changed to Unreleased because it has transactional history.",
-          "target": ""
+          "source": "The order may not be changed to Unreleased because it has transactional history."
         },
         {
           "key": "_overview",
-          "source": "Overview",
-          "target": ""
+          "source": "Overview"
         },
         {
           "key": "_parameters",
-          "source": "Parameters",
-          "target": ""
+          "source": "Parameters"
         },
         {
           "key": "_parent",
-          "source": "Parent",
-          "target": ""
+          "source": "Parent"
         },
         {
           "key": "_parentOf",
-          "source": "Parent of",
-          "target": ""
+          "source": "Parent of"
         },
         {
           "key": "_passwordMismatch",
-          "source": "Passwords don't match",
-          "target": ""
+          "source": "Passwords don't match"
         },
         {
           "key": "_passwordsDoNotMatch",
-          "source": "Passwords do not Match",
-          "target": ""
+          "source": "Passwords do not Match"
         },
         {
           "key": "_post",
-          "source": "Post",
-          "target": ""
+          "source": "Post"
         },
         {
           "key": "_postalCode",
-          "source": "Postal Code",
-          "target": ""
+          "source": "Postal Code"
         },
         {
           "key": "_preferences",
-          "source": "Preferences",
-          "target": ""
+          "source": "Preferences"
         },
         {
           "key": "_previous",
-          "source": "Previous",
-          "target": ""
+          "source": "Previous"
         },
         {
           "key": "_print",
-          "source": "Print",
-          "target": ""
+          "source": "Print"
         },
         {
           "key": "_printList",
-          "source": "Print List",
-          "target": ""
+          "source": "Print List"
         },
         {
           "key": "_printSelect",
-          "source": "Print Selected",
-          "target": ""
+          "source": "Print Selected"
         },
         {
           "key": "_processing",
-          "source": "Processing",
-          "target": ""
+          "source": "Processing"
         },
         {
           "key": "_productCategoryRequiredOnSold",
-          "source": "A Product Category is required for sold items.",
-          "target": ""
+          "source": "A Product Category is required for sold items."
         },
         {
           "key": "_purpose",
-          "source": "Purpose",
-          "target": ""
+          "source": "Purpose"
         },
         {
           "key": "_quantityMustBePositive",
-          "source": "Quantity must be a positive value.",
-          "target": ""
+          "source": "Quantity must be a positive value."
         },
         {
           "key": "_recordNotFound",
-          "source": "Record not found.",
-          "target": ""
+          "source": "Record not found."
         },
         {
           "key": "_recordStatusNotEditable",
-          "source": "Record with status of `{status}` is not editable.",
-          "target": ""
+          "source": "Record with status of `{status}` is not editable."
         },
         {
           "key": "_recursiveParentDisallowed",
-          "source": "Record is not allowed to reference itself as the parent.",
-          "target": ""
+          "source": "Record is not allowed to reference itself as the parent."
         },
         {
           "key": "_refresh",
-          "source": "Refresh",
-          "target": ""
+          "source": "Refresh"
         },
         {
           "key": "_related",
-          "source": "Related",
-          "target": ""
+          "source": "Related"
         },
         {
           "key": "_relatedTo",
-          "source": "Related to",
-          "target": ""
+          "source": "Related to"
         },
         {
           "key": "_removeChart",
-          "source": "Remove Chart",
-          "target": ""
+          "source": "Remove Chart"
         },
         {
           "key": "_report",
-          "source": "Report",
-          "target": ""
+          "source": "Report"
         },
         {
           "key": "_reportList",
-          "source": "Report List",
-          "target": ""
+          "source": "Report List"
         },
         {
           "key": "_requireSufficientInventory",
-          "source": "Require Sufficient Inventory",
-          "target": ""
+          "source": "Require Sufficient Inventory"
         },
         {
           "key": "_returnSelected",
-          "source": "Return All Selected",
-          "target": ""
+          "source": "Return All Selected"
         },
         {
           "key": "_row",
-          "source": "Row",
-          "target": ""
+          "source": "Row"
         },
         {
           "key": "_save",
-          "source": "Save",
-          "target": ""
+          "source": "Save"
         },
         {
           "key": "_saveAndNew",
-          "source": "Save and New",
-          "target": ""
-        },
-        {
-          "key": "_saveFilter",
-          "source": "Save Filter",
-          "target": ""
-        },
-        {
-          "key": "_saveFirst",
-          "source": "You must save your changes before performing this action.",
-          "target": ""
-        },
-        {
-          "key": "_saveLayout",
-          "source": "Save Layout",
-          "target": ""
-        },
-        {
-          "key": "_saveYourWork?",
-          "source": "Do you want to save your work?",
-          "target": ""
+          "source": "Save and New"
         },
         {
           "key": "_savedFilters",
-          "source": "Saved Filters",
-          "target": ""
+          "source": "Saved Filters"
+        },
+        {
+          "key": "_saveFilter",
+          "source": "Save Filter"
+        },
+        {
+          "key": "_saveFirst",
+          "source": "You must save your changes before performing this action."
+        },
+        {
+          "key": "_saveLayout",
+          "source": "Save Layout"
+        },
+        {
+          "key": "_saveYourWork?",
+          "source": "Do you want to save your work?"
         },
         {
           "key": "_saving",
-          "source": "Saving",
-          "target": ""
+          "source": "Saving"
         },
         {
           "key": "_search",
-          "source": "Search",
-          "target": ""
+          "source": "Search"
         },
         {
           "key": "_sort",
-          "source": "Sort",
-          "target": ""
+          "source": "Sort"
         },
         {
           "key": "_sortBy",
-          "source": "Sort By...",
-          "target": ""
+          "source": "Sort By..."
         },
         {
           "key": "_state",
-          "source": "State",
-          "target": ""
+          "source": "State"
         },
         {
           "key": "_stockedMustReorder",
-          "source": "You must set a reorder level for a stocked item.",
-          "target": ""
+          "source": "You must set a reorder level for a stocked item."
         },
         {
           "key": "_street",
-          "source": "Street",
-          "target": ""
+          "source": "Street"
         },
         {
           "key": "_then",
-          "source": "Then...",
-          "target": ""
+          "source": "Then..."
         },
         {
           "key": "_totalMustBePositive",
-          "source": "The total must be a positive value.",
-          "target": ""
+          "source": "The total must be a positive value."
         },
         {
           "key": "_unsavedChanges",
-          "source": "You have unsaved changes.",
-          "target": ""
+          "source": "You have unsaved changes."
         },
         {
           "key": "_valueExists",
-          "source": "Record with {attr} of '{value}' already exists.",
-          "target": ""
+          "source": "Record with {attr} of '{value}' already exists."
         },
         {
           "key": "_yes",
-          "source": "Yes",
-          "target": ""
+          "source": "Yes"
         }
       ]
     },
@@ -7656,408 +6129,327 @@
       "strings": [
         {
           "key": "_accountsReceivable",
-          "source": "Accounts Receivable",
-          "target": ""
+          "source": "Accounts Receivable"
         },
         {
           "key": "_americanExpress",
-          "source": "American Express",
-          "target": ""
+          "source": "American Express"
         },
         {
           "key": "_application",
-          "source": "Application",
-          "target": ""
+          "source": "Application"
         },
         {
           "key": "_applicationDate",
-          "source": "Application Date",
-          "target": ""
+          "source": "Application Date"
         },
         {
           "key": "_applications",
-          "source": "Applications",
-          "target": ""
+          "source": "Applications"
         },
         {
           "key": "_applied",
-          "source": "Applied",
-          "target": ""
+          "source": "Applied"
         },
         {
           "key": "_appliedAmount",
-          "source": "Applied Amount",
-          "target": ""
+          "source": "Applied Amount"
         },
         {
           "key": "_applyARMemos",
-          "source": "Apply Receivable Memos",
-          "target": ""
+          "source": "Apply Receivable Memos"
         },
         {
           "key": "_applyBalanceAs",
-          "source": "Apply Balance As",
-          "target": ""
+          "source": "Apply Balance As"
         },
         {
           "key": "_applyBalanceToCreditMemo",
-          "source": "Credit Memo",
-          "target": ""
+          "source": "Credit Memo"
         },
         {
           "key": "_applyBalanceToCustomerDeposit",
-          "source": "Customer Deposit",
-          "target": ""
+          "source": "Customer Deposit"
         },
         {
           "key": "_asOf",
-          "source": "As Of",
-          "target": ""
+          "source": "As Of"
         },
         {
           "key": "_autoCloseARIncident",
-          "source": "Auto Close Incidents when Invoice Paid",
-          "target": ""
+          "source": "Auto Close Incidents when Invoice Paid"
         },
         {
           "key": "_autoCreditWarnLateCustomers",
-          "source": "Credit warn Customers when Late",
-          "target": ""
+          "source": "Credit warn Customers when Late"
         },
         {
           "key": "_billing",
-          "source": "Billing",
-          "target": ""
+          "source": "Billing"
         },
         {
           "key": "_billingDescription",
-          "source": "Corporate Relationship Management",
-          "target": ""
+          "source": "Corporate Relationship Management"
         },
         {
           "key": "_cashReceipt",
-          "source": "Cash Receipt",
-          "target": ""
+          "source": "Cash Receipt"
         },
         {
           "key": "_cashReceiptApplications",
-          "source": "Cash Receipt Applications",
-          "target": ""
+          "source": "Cash Receipt Applications"
         },
         {
           "key": "_cashReceiptCurrencyMismatchWarning",
-          "source": "Cash Receipt currency {cr_currency} does not match Bank Account Currency {ba_currency}",
-          "target": ""
+          "source": "Cash Receipt currency {cr_currency} does not match Bank Account Currency {ba_currency}"
         },
         {
           "key": "_cashReceipts",
-          "source": "Cash Receipts",
-          "target": ""
+          "source": "Cash Receipts"
         },
         {
           "key": "_certifiedCheck",
-          "source": "Certified Check",
-          "target": ""
+          "source": "Certified Check"
         },
         {
           "key": "_check",
-          "source": "Check",
-          "target": ""
+          "source": "Check"
         },
         {
           "key": "_configureAR",
-          "source": "Configure Billing",
-          "target": ""
+          "source": "Configure Billing"
         },
         {
           "key": "_createNewCurrency",
-          "source": "Create New Currency",
-          "target": ""
-        },
-        {
-          "key": "_creditTaxDiscount",
-          "source": "Credit Taxes for Early Payment Discounts",
-          "target": ""
+          "source": "Create New Currency"
         },
         {
           "key": "_credits",
-          "source": "Credits",
-          "target": ""
+          "source": "Credits"
+        },
+        {
+          "key": "_creditTaxDiscount",
+          "source": "Credit Taxes for Early Payment Discounts"
         },
         {
           "key": "_customerDeposit",
-          "source": "Customer Deposit",
-          "target": ""
+          "source": "Customer Deposit"
         },
         {
           "key": "_debits",
-          "source": "Debits",
-          "target": ""
+          "source": "Debits"
         },
         {
           "key": "_defaultARIncidentStatus",
-          "source": "Default Incident Category",
-          "target": ""
+          "source": "Default Incident Category"
         },
         {
           "key": "_defaultAutoCreditWarnGraceDays",
-          "source": "Default Grace Period Days",
-          "target": ""
+          "source": "Default Grace Period Days"
         },
         {
           "key": "_discover",
-          "source": "Discover",
-          "target": ""
+          "source": "Discover"
         },
         {
           "key": "_distributionDate",
-          "source": "Distribution Date",
-          "target": ""
+          "source": "Distribution Date"
         },
         {
           "key": "_editAROpenItem",
-          "source": "Edit Receivables",
-          "target": ""
+          "source": "Edit Receivables"
         },
         {
           "key": "_enableCustomerDeposits",
-          "source": "Enable Customer Deposits",
-          "target": ""
+          "source": "Enable Customer Deposits"
         },
         {
           "key": "_fundsType",
-          "source": "Type of Funds",
-          "target": ""
+          "source": "Type of Funds"
         },
         {
           "key": "_hideApplyToBalance",
-          "source": "Hide 'Apply to Balance' Action",
-          "target": ""
+          "source": "Hide 'Apply to Balance' Action"
         },
         {
           "key": "_isNotPosted",
-          "source": "Unposted",
-          "target": ""
+          "source": "Unposted"
         },
         {
           "key": "_isPosted",
-          "source": "Posted",
-          "target": ""
+          "source": "Posted"
         },
         {
           "key": "_maintainCashReceipts",
-          "source": "Maintain Cash Receipts",
-          "target": ""
+          "source": "Maintain Cash Receipts"
         },
         {
           "key": "_maintainCreditMemos",
-          "source": "Maintain Credit Memos",
-          "target": ""
+          "source": "Maintain Credit Memos"
         },
         {
           "key": "_maintainCurrencies",
-          "source": "Maintain Currencies",
-          "target": ""
+          "source": "Maintain Currencies"
         },
         {
           "key": "_maintainCustomerEmailProfiles",
-          "source": "Maintain Customer Email Profiles",
-          "target": ""
+          "source": "Maintain Customer Email Profiles"
         },
         {
           "key": "_maintainMiscInvoices",
-          "source": "Maintain Invoices",
-          "target": ""
+          "source": "Maintain Invoices"
         },
         {
           "key": "_maintainSalesCategories",
-          "source": "Maintain Sales Categories",
-          "target": ""
+          "source": "Maintain Sales Categories"
         },
         {
           "key": "_mastercard",
-          "source": "Mastercard",
-          "target": ""
+          "source": "Mastercard"
         },
         {
           "key": "_nextARMemoNumber",
-          "source": "Next Receivables Memo",
-          "target": ""
+          "source": "Next Receivables Memo"
         },
         {
           "key": "_nextCashRcptNumber",
-          "source": "Next Cash Receipt",
-          "target": ""
+          "source": "Next Cash Receipt"
         },
         {
           "key": "_orderNumber",
-          "source": "Order #",
-          "target": ""
+          "source": "Order #"
         },
         {
           "key": "_other",
-          "source": "Other",
-          "target": ""
+          "source": "Other"
         },
         {
           "key": "_otherCreditCard",
-          "source": "Other Credit Card",
-          "target": ""
+          "source": "Other Credit Card"
         },
         {
           "key": "_payment",
-          "source": "Payment",
-          "target": ""
+          "source": "Payment"
         },
         {
           "key": "_postARDocuments",
-          "source": "Post Receivable Documents",
-          "target": ""
+          "source": "Post Receivable Documents"
         },
         {
           "key": "_postCashPayment",
-          "source": "Post Cash Payment",
-          "target": ""
+          "source": "Post Cash Payment"
         },
         {
           "key": "_postCashReceipts",
-          "source": "Post Cash Receipts",
-          "target": ""
+          "source": "Post Cash Receipts"
         },
         {
           "key": "_postMiscInvoices",
-          "source": "Post Invoices",
-          "target": ""
+          "source": "Post Invoices"
         },
         {
           "key": "_printInvoices",
-          "source": "Print Invoices",
-          "target": ""
+          "source": "Print Invoices"
         },
         {
           "key": "_printOnPost",
-          "source": "Print on Post",
-          "target": ""
+          "source": "Print on Post"
         },
         {
           "key": "_receivable",
-          "source": "Receivable",
-          "target": ""
+          "source": "Receivable"
         },
         {
           "key": "_receivables",
-          "source": "Receivables",
-          "target": ""
+          "source": "Receivables"
         },
         {
           "key": "_recordReceiptAs",
-          "source": "Record Receipt As",
-          "target": ""
+          "source": "Record Receipt As"
         },
         {
           "key": "_recurringInvoiceBuffer",
-          "source": "Recurring Invoice Buffer Days",
-          "target": ""
+          "source": "Recurring Invoice Buffer Days"
         },
         {
           "key": "_salesCategories",
-          "source": "Sales Categories",
-          "target": ""
+          "source": "Sales Categories"
         },
         {
           "key": "_salesCategory",
-          "source": "Sales Category",
-          "target": ""
+          "source": "Sales Category"
         },
         {
           "key": "_salesOrderPaymentFailure",
-          "source": "We encountered a problem posting payment to this Sales Order",
-          "target": ""
+          "source": "We encountered a problem posting payment to this Sales Order"
         },
         {
           "key": "_salesOrderPaymentOverapplicationWarn",
-          "source": "The payment amount entered is larger than the Sales Order balance. Are you sure you would like to overpay this Sales Order?",
-          "target": ""
+          "source": "The payment amount entered is larger than the Sales Order balance. Are you sure you would like to overpay this Sales Order?"
         },
         {
           "key": "_salesOrderPaymentSuccess",
-          "source": "Payment Successfully posted to Sales Order",
-          "target": ""
-        },
-        {
-          "key": "_taxTotal",
-          "source": "Tax Total",
-          "target": ""
+          "source": "Payment Successfully posted to Sales Order"
         },
         {
           "key": "_taxes",
-          "source": "Taxes",
-          "target": ""
+          "source": "Taxes"
         },
         {
           "key": "_taxesMustNotBeGreater",
-          "source": "The Tax Total may not be greater than the Amount",
-          "target": ""
+          "source": "The Tax Total may not be greater than the Amount"
+        },
+        {
+          "key": "_taxTotal",
+          "source": "Tax Total"
         },
         {
           "key": "_unposted",
-          "source": "Unposted",
-          "target": ""
+          "source": "Unposted"
         },
         {
           "key": "_useCustomerDeposit",
-          "source": "Use Customer Deposit",
-          "target": ""
+          "source": "Use Customer Deposit"
         },
         {
           "key": "_viewAROpenItems",
-          "source": "View Receivables",
-          "target": ""
+          "source": "View Receivables"
         },
         {
           "key": "_viewCashReceipts",
-          "source": "View Cash Receipts",
-          "target": ""
+          "source": "View Cash Receipts"
         },
         {
           "key": "_viewCreditMemos",
-          "source": "View Credit Memos",
-          "target": ""
+          "source": "View Credit Memos"
         },
         {
           "key": "_viewMiscInvoices",
-          "source": "View Invoices",
-          "target": ""
+          "source": "View Invoices"
         },
         {
           "key": "_visa",
-          "source": "Visa",
-          "target": ""
+          "source": "Visa"
         },
         {
           "key": "_void",
-          "source": "Void",
-          "target": ""
+          "source": "Void"
         },
         {
           "key": "_voidPostedARCreditMemos",
-          "source": "Void Posted Returns",
-          "target": ""
+          "source": "Void Posted Returns"
         },
         {
           "key": "_voidPostedCashReceipts",
-          "source": "Void Posted Cash Receipts",
-          "target": ""
+          "source": "Void Posted Cash Receipts"
         },
         {
           "key": "_voidPostedInvoices",
-          "source": "Void Posted Invoices",
-          "target": ""
+          "source": "Void Posted Invoices"
         },
         {
           "key": "_wireTransfer",
-          "source": "Wire Transfer",
-          "target": ""
+          "source": "Wire Transfer"
         }
       ]
     },
@@ -8066,48 +6458,39 @@
       "strings": [
         {
           "key": "_crm",
-          "source": "CRM",
-          "target": ""
+          "source": "CRM"
         },
         {
           "key": "_crmDescription",
-          "source": "Corporate Relationship Management",
-          "target": ""
+          "source": "Corporate Relationship Management"
         },
         {
           "key": "_highPriority",
-          "source": "High Priority",
-          "target": ""
+          "source": "High Priority"
         },
         {
           "key": "_incidentDefaultPublic",
-          "source": "Comment Default Public",
-          "target": ""
+          "source": "Comment Default Public"
         },
         {
           "key": "_incidentStatusColors",
-          "source": "Incident Status Colors",
-          "target": ""
+          "source": "Incident Status Colors"
         },
         {
           "key": "_maintainEmailProfiles",
-          "source": "Maintain Email Profiles",
-          "target": ""
+          "source": "Maintain Email Profiles"
         },
         {
           "key": "_openIncidents",
-          "source": "Open Incidents",
-          "target": ""
+          "source": "Open Incidents"
         },
         {
           "key": "_staleAnalysisWarning",
-          "source": "Free trial demo analysis data will not be updated from your live changes.",
-          "target": ""
+          "source": "Free trial demo analysis data will not be updated from your live changes."
         },
         {
           "key": "_viewEmailProfiles",
-          "source": "View Email Profiles",
-          "target": ""
+          "source": "View Email Profiles"
         }
       ]
     },
@@ -8119,1299 +6502,1040 @@
       "extension": "inventory",
       "strings": [
         {
-          "key": "_LotSerialControl",
-          "source": "Trace Control",
-          "target": ""
-        },
-        {
           "key": "_a",
-          "source": "A",
-          "target": ""
+          "source": "A"
         },
         {
           "key": "_abcClass",
-          "source": "ABC Class",
-          "target": ""
+          "source": "ABC Class"
         },
         {
           "key": "_adjustment",
-          "source": "Adjustment",
-          "target": ""
+          "source": "Adjustment"
         },
         {
           "key": "_after",
-          "source": "After",
-          "target": ""
+          "source": "After"
         },
         {
           "key": "_aisle",
-          "source": "Aisle",
-          "target": ""
+          "source": "Aisle"
         },
         {
           "key": "_allocated",
-          "source": "Allocated",
-          "target": ""
-        },
-        {
-          "key": "_allowAvgCostMethod",
-          "source": "Average",
-          "target": ""
-        },
-        {
-          "key": "_allowDups",
-          "source": "Allow Dups.",
-          "target": ""
-        },
-        {
-          "key": "_allowJobCostMethod",
-          "source": "Job",
-          "target": ""
-        },
-        {
-          "key": "_allowReceiptCostOverride",
-          "source": "Allow Inventory Receipt Cost Override (Avg. costing method only)",
-          "target": ""
-        },
-        {
-          "key": "_allowStdCostMethod",
-          "source": "Standard",
-          "target": ""
+          "source": "Allocated"
         },
         {
           "key": "_allowableItems",
-          "source": "Allowable Items",
-          "target": ""
+          "source": "Allowable Items"
+        },
+        {
+          "key": "_allowAvgCostMethod",
+          "source": "Average"
+        },
+        {
+          "key": "_allowDups",
+          "source": "Allow Dups."
+        },
+        {
+          "key": "_allowJobCostMethod",
+          "source": "Job"
+        },
+        {
+          "key": "_allowReceiptCostOverride",
+          "source": "Allow Inventory Receipt Cost Override (Avg. costing method only)"
+        },
+        {
+          "key": "_allowStdCostMethod",
+          "source": "Standard"
         },
         {
           "key": "_approveForBilling",
-          "source": "Approve for Billing",
-          "target": ""
+          "source": "Approve for Billing"
         },
         {
           "key": "_atShipping",
-          "source": "At Shipping",
-          "target": ""
+          "source": "At Shipping"
         },
         {
           "key": "_audit",
-          "source": "Audit",
-          "target": ""
+          "source": "Audit"
         },
         {
           "key": "_availability",
-          "source": "Availability",
-          "target": ""
+          "source": "Availability"
         },
         {
           "key": "_available",
-          "source": "Available",
-          "target": ""
+          "source": "Available"
         },
         {
           "key": "_average",
-          "source": "Average",
-          "target": ""
+          "source": "Average"
         },
         {
           "key": "_b",
-          "source": "B",
-          "target": ""
+          "source": "B"
         },
         {
           "key": "_backlog",
-          "source": "Backlog",
-          "target": ""
+          "source": "Backlog"
         },
         {
           "key": "_barcodeScanner",
-          "source": "Barcode Scanner",
-          "target": ""
+          "source": "Barcode Scanner"
         },
         {
           "key": "_before",
-          "source": "Before",
-          "target": ""
+          "source": "Before"
         },
         {
           "key": "_billto",
-          "source": "Bill To",
-          "target": ""
+          "source": "Bill To"
         },
         {
           "key": "_bin",
-          "source": "Bin",
-          "target": ""
+          "source": "Bin"
         },
         {
           "key": "_byDates",
-          "source": "By Date Range",
-          "target": ""
+          "source": "By Date Range"
         },
         {
           "key": "_byDays",
-          "source": "By Days",
-          "target": ""
+          "source": "By Days"
         },
         {
           "key": "_byLeadTime",
-          "source": "By Lead Time",
-          "target": ""
+          "source": "By Lead Time"
         },
         {
           "key": "_c",
-          "source": "C",
-          "target": ""
+          "source": "C"
         },
         {
           "key": "_controlMethod",
-          "source": "Control Method",
-          "target": ""
+          "source": "Control Method"
         },
         {
           "key": "_cost",
-          "source": "Cost",
-          "target": ""
+          "source": "Cost"
         },
         {
           "key": "_costing",
-          "source": "Costing",
-          "target": ""
+          "source": "Costing"
         },
         {
           "key": "_countAvgCostMethod",
-          "source": "Cost to Use When Posting Count Tag for Avg. Cost Items",
-          "target": ""
+          "source": "Cost to Use When Posting Count Tag for Avg. Cost Items"
         },
         {
           "key": "_countSlipAuditing",
-          "source": "Count Slip # Auditing",
-          "target": ""
+          "source": "Count Slip # Auditing"
         },
         {
           "key": "_createAndPrintInvoice",
-          "source": "Create and Print Invoice",
-          "target": ""
+          "source": "Create and Print Invoice"
         },
         {
           "key": "_createOrder",
-          "source": "Create Order",
-          "target": ""
+          "source": "Create Order"
         },
         {
           "key": "_createPlannedOrders",
-          "source": "Create",
-          "target": ""
+          "source": "Create"
         },
         {
           "key": "_cycleCount",
-          "source": "Cycle Count",
-          "target": ""
+          "source": "Cycle Count"
         },
         {
           "key": "_cycleCountFrequency",
-          "source": "Cycle Count Frequency",
-          "target": ""
+          "source": "Cycle Count Frequency"
         },
         {
           "key": "_defaultEventFence",
-          "source": "Default Event Fence (Days)",
-          "target": ""
+          "source": "Default Event Fence (Days)"
         },
         {
           "key": "_defaultSite",
-          "source": "Default Site",
-          "target": ""
+          "source": "Default Site"
         },
         {
           "key": "_deleteChildOrder?",
-          "source": "Are you sure you want to delete the existing supply order?",
-          "target": ""
+          "source": "Are you sure you want to delete the existing supply order?"
         },
         {
           "key": "_deletePlannedOrders",
-          "source": "Delete",
-          "target": ""
+          "source": "Delete"
         },
         {
           "key": "_demand",
-          "source": "Demand",
-          "target": ""
+          "source": "Demand"
         },
         {
           "key": "_destination",
-          "source": "Destination",
-          "target": ""
+          "source": "Destination"
         },
         {
           "key": "_destinationName",
-          "source": "Destination Name",
-          "target": ""
+          "source": "Destination Name"
         },
         {
           "key": "_disableReceiptExcessQty",
-          "source": "Disallow PO Receipt of Qty greater than ordered",
-          "target": ""
+          "source": "Disallow PO Receipt of Qty greater than ordered"
         },
         {
           "key": "_distribute",
-          "source": "Distribute",
-          "target": ""
+          "source": "Distribute"
         },
         {
           "key": "_distributionDetail",
-          "source": "Distribution Detail",
-          "target": ""
+          "source": "Distribution Detail"
         },
         {
           "key": "_distributionMustNotBeGreater",
-          "source": "Distribution record must not be greater than the Qty remaining to distribute.",
-          "target": ""
+          "source": "Distribution record must not be greater than the Qty remaining to distribute."
         },
         {
           "key": "_dontPost",
-          "source": "Do Not Post",
-          "target": ""
+          "source": "Do Not Post"
         },
         {
           "key": "_enableAsOfQOH",
-          "source": "Enable As-Of QOH Reporting",
-          "target": ""
+          "source": "Enable As-Of QOH Reporting"
         },
         {
           "key": "_enableMultipleSites",
-          "source": "Enable Multiple Sites",
-          "target": ""
+          "source": "Enable Multiple Sites"
         },
         {
           "key": "_enterReceipt",
-          "source": "Enter Receipt",
-          "target": ""
+          "source": "Enter Receipt"
         },
         {
           "key": "_expiration",
-          "source": "Expiration",
-          "target": ""
+          "source": "Expiration"
         },
         {
           "key": "_expressCheckout",
-          "source": "Checkout",
-          "target": ""
+          "source": "Checkout"
         },
         {
           "key": "_extCost",
-          "source": "Ext Cost",
-          "target": ""
+          "source": "Ext Cost"
         },
         {
           "key": "_firm",
-          "source": "Firm",
-          "target": ""
+          "source": "Firm"
         },
         {
           "key": "_fulfilled",
-          "source": "Fulfilled",
-          "target": ""
+          "source": "Fulfilled"
         },
         {
           "key": "_groupLeadtimeFirst",
-          "source": "Group Leadtime First",
-          "target": ""
+          "source": "Group Leadtime First"
         },
         {
           "key": "_ignoreReorderAtZero",
-          "source": "Ignore Reorder at Zero",
-          "target": ""
+          "source": "Ignore Reorder at Zero"
         },
         {
           "key": "_inventory",
-          "source": "Inventory",
-          "target": ""
+          "source": "Inventory"
         },
         {
           "key": "_inventoryDescription",
-          "source": "Shipping and Receiving, Inventory and Cost Management",
-          "target": ""
+          "source": "Shipping and Receiving, Inventory and Cost Management"
         },
         {
           "key": "_inventoryHistory",
-          "source": "Inventory History",
-          "target": ""
-        },
-        {
-          "key": "_isAutoRegister",
-          "source": "Auto Register",
-          "target": ""
+          "source": "Inventory History"
         },
         {
           "key": "_isAutomaticAbcClassUpdates",
-          "source": "Auto ABC Updates",
-          "target": ""
+          "source": "Auto ABC Updates"
+        },
+        {
+          "key": "_isAutoRegister",
+          "source": "Auto Register"
         },
         {
           "key": "_isIssueLocationAuto",
-          "source": "Auto",
-          "target": ""
+          "source": "Auto"
         },
         {
           "key": "_isLocationControl",
-          "source": "Location Control",
-          "target": ""
+          "source": "Location Control"
         },
         {
           "key": "_isNetable",
-          "source": "Netable",
-          "target": ""
+          "source": "Netable"
         },
         {
           "key": "_isPerishable",
-          "source": "Perishable",
-          "target": ""
+          "source": "Perishable"
         },
         {
           "key": "_isPlannedTransferOrders",
-          "source": "Plan Transfers",
-          "target": ""
+          "source": "Plan Transfers"
         },
         {
           "key": "_isPurchaseWarrantyRequired",
-          "source": "Warranty Required",
-          "target": ""
+          "source": "Warranty Required"
         },
         {
           "key": "_isReceiveLocationAuto",
-          "source": "Auto Receive",
-          "target": ""
+          "source": "Auto Receive"
         },
         {
           "key": "_isRestricted",
-          "source": "Restricted",
-          "target": ""
+          "source": "Restricted"
         },
         {
           "key": "_isShipped",
-          "source": "Shipped",
-          "target": ""
-        },
-        {
-          "key": "_isStockLocationAuto",
-          "source": "Auto Issue",
-          "target": ""
+          "source": "Shipped"
         },
         {
           "key": "_isStocked",
-          "source": "Stocked",
-          "target": ""
+          "source": "Stocked"
         },
         {
-          "key": "_isUseDefaultLocation",
-          "source": "Use Default Location",
-          "target": ""
+          "key": "_isStockLocationAuto",
+          "source": "Auto Issue"
         },
         {
           "key": "_issue",
-          "source": "Issue",
-          "target": ""
+          "source": "Issue"
         },
         {
           "key": "_issueAll",
-          "source": "Issue All",
-          "target": ""
+          "source": "Issue All"
         },
         {
           "key": "_issueAll?",
-          "source": "Are you sure you want to issue stock for all these items?",
-          "target": ""
+          "source": "Are you sure you want to issue stock for all these items?"
         },
         {
           "key": "_issueBreeder",
-          "source": "Issue Breeder",
-          "target": ""
+          "source": "Issue Breeder"
         },
         {
           "key": "_issueExcess",
-          "source": "You are attempting to issue more material than is required. Are you sure you want to do this?",
-          "target": ""
+          "source": "You are attempting to issue more material than is required. Are you sure you want to do this?"
         },
         {
           "key": "_issueLine",
-          "source": "Issue Line",
-          "target": ""
+          "source": "Issue Line"
         },
         {
           "key": "_issueLocation",
-          "source": "Issue Location",
-          "target": ""
+          "source": "Issue Location"
         },
         {
           "key": "_issueMaterial",
-          "source": "Issue Material",
-          "target": ""
+          "source": "Issue Material"
         },
         {
           "key": "_issueStock",
-          "source": "Issue Stock",
-          "target": ""
+          "source": "Issue Stock"
         },
         {
           "key": "_issueToShipping",
-          "source": "Issue to Shipping",
-          "target": ""
+          "source": "Issue to Shipping"
         },
         {
           "key": "_issueUnit",
-          "source": "Unit",
-          "target": ""
+          "source": "Unit"
+        },
+        {
+          "key": "_isUseDefaultLocation",
+          "source": "Use Default Location"
         },
         {
           "key": "_itemSettings",
-          "source": "Item Settings",
-          "target": ""
+          "source": "Item Settings"
         },
         {
           "key": "_itemWorkbench",
-          "source": "Item Workbench",
-          "target": ""
+          "source": "Item Workbench"
         },
         {
           "key": "_job",
-          "source": "Job",
-          "target": ""
+          "source": "Job"
         },
         {
           "key": "_kitComponentInheritCOS",
-          "source": "Kit Components Inherit COS from Kit Parent",
-          "target": ""
+          "source": "Kit Components Inherit COS from Kit Parent"
         },
         {
           "key": "_lineItemAtShipping",
-          "source": "This line item currently has stock issued to shipping and can not be closed at this time.",
-          "target": ""
+          "source": "This line item currently has stock issued to shipping and can not be closed at this time."
         },
         {
           "key": "_lineItemHasShipmentsClose?",
-          "source": "This line item has shipments against it. Would you like to close it?",
-          "target": ""
+          "source": "This line item has shipments against it. Would you like to close it?"
         },
         {
           "key": "_location",
-          "source": "Location",
-          "target": ""
+          "source": "Location"
         },
         {
           "key": "_locationComment",
-          "source": "Comment",
-          "target": ""
+          "source": "Comment"
         },
         {
           "key": "_locationControl",
-          "source": "Location Control",
-          "target": ""
+          "source": "Location Control"
         },
         {
           "key": "_locations",
-          "source": "Locations",
-          "target": ""
+          "source": "Locations"
         },
         {
           "key": "_lookAhead",
-          "source": "Look Ahead",
-          "target": ""
+          "source": "Look Ahead"
         },
         {
           "key": "_lot",
-          "source": "Lot",
-          "target": ""
+          "source": "Lot"
+        },
+        {
+          "key": "_LotSerialControl",
+          "source": "Trace Control"
         },
         {
           "key": "_maintainSiteEmailProfiles",
-          "source": "Maintain Site Email Profiles",
-          "target": ""
+          "source": "Maintain Site Email Profiles"
         },
         {
           "key": "_maintainTransferOrders",
-          "source": "Maintain Transfer Orders",
-          "target": ""
+          "source": "Maintain Transfer Orders"
         },
         {
           "key": "_materialReceipt",
-          "source": "Material Receipt",
-          "target": ""
+          "source": "Material Receipt"
         },
         {
           "key": "_maximumOrderQuantity",
-          "source": "Order Max.",
-          "target": ""
+          "source": "Order Max."
         },
         {
           "key": "_mrp",
-          "source": "MRP",
-          "target": ""
-        },
-        {
-          "key": "_multiSite",
-          "source": "Multi-Site",
-          "target": ""
+          "source": "MRP"
         },
         {
           "key": "_multipleLocationControl",
-          "source": "Multiple Location Control",
-          "target": ""
+          "source": "Multiple Location Control"
+        },
+        {
+          "key": "_multiSite",
+          "source": "Multi-Site"
         },
         {
           "key": "_nextShipmentNumber",
-          "source": "Next Shipment Number",
-          "target": ""
+          "source": "Next Shipment Number"
         },
         {
           "key": "_noItem",
-          "source": "No Item",
-          "target": ""
+          "source": "No Item"
         },
         {
           "key": "_noItemSources",
-          "source": "One or more Item Sources will need to be created for this item before the system will be able to automatically create Purchase Orders for it.",
-          "target": ""
+          "source": "One or more Item Sources will need to be created for this item before the system will be able to automatically create Purchase Orders for it."
         },
         {
           "key": "_noLocationsForSite",
-          "source": "There are no Locations setup for this Site",
-          "target": ""
-        },
-        {
-          "key": "_noOrder",
-          "source": "No Order",
-          "target": ""
-        },
-        {
-          "key": "_noParent",
-          "source": "No Parent",
-          "target": ""
-        },
-        {
-          "key": "_noQuantity",
-          "source": "No Quantity",
-          "target": ""
-        },
-        {
-          "key": "_noShipVia",
-          "source": "No ShipVia",
-          "target": ""
-        },
-        {
-          "key": "_noSlipDups",
-          "source": "No Slip # Duplications",
-          "target": ""
-        },
-        {
-          "key": "_noSlipDupsSite",
-          "source": "No Dups. in a Site",
-          "target": ""
-        },
-        {
-          "key": "_noUnit",
-          "source": "No Unit",
-          "target": ""
-        },
-        {
-          "key": "_noUnpostedSlipDups",
-          "source": "No Unposted Dups.",
-          "target": ""
-        },
-        {
-          "key": "_noUnpostedSlipDupsSite",
-          "source": "No Unposted Dups. in a Site",
-          "target": ""
+          "source": "There are no Locations setup for this Site"
         },
         {
           "key": "_none",
-          "source": "None",
-          "target": ""
+          "source": "None"
+        },
+        {
+          "key": "_noOrder",
+          "source": "No Order"
+        },
+        {
+          "key": "_noParent",
+          "source": "No Parent"
+        },
+        {
+          "key": "_noQuantity",
+          "source": "No Quantity"
+        },
+        {
+          "key": "_noShipVia",
+          "source": "No ShipVia"
+        },
+        {
+          "key": "_noSlipDups",
+          "source": "No Slip # Duplications"
+        },
+        {
+          "key": "_noSlipDupsSite",
+          "source": "No Dups. in a Site"
+        },
+        {
+          "key": "_noUnit",
+          "source": "No Unit"
+        },
+        {
+          "key": "_noUnpostedSlipDups",
+          "source": "No Unposted Dups."
+        },
+        {
+          "key": "_noUnpostedSlipDupsSite",
+          "source": "No Unposted Dups. in a Site"
         },
         {
           "key": "_number",
-          "source": "Number",
-          "target": ""
+          "source": "Number"
         },
         {
           "key": "_onHand",
-          "source": "On Hand",
-          "target": ""
+          "source": "On Hand"
         },
         {
           "key": "_onlyShow",
-          "source": "Only Show",
-          "target": ""
+          "source": "Only Show"
         },
         {
           "key": "_orderGroup",
-          "source": "Order Grouping Days",
-          "target": ""
+          "source": "Order Grouping Days"
         },
         {
           "key": "_orderMaximum",
-          "source": "Order Maximum",
-          "target": ""
+          "source": "Order Maximum"
         },
         {
           "key": "_orderMinimum",
-          "source": "Order Minimum",
-          "target": ""
+          "source": "Order Minimum"
         },
         {
           "key": "_orderMultiple",
-          "source": "Order Multiple",
-          "target": ""
-        },
-        {
-          "key": "_orderTo",
-          "source": "Order To",
-          "target": ""
-        },
-        {
-          "key": "_orderToQuantity",
-          "source": "Order To",
-          "target": ""
+          "source": "Order Multiple"
         },
         {
           "key": "_orders",
-          "source": "Orders",
-          "target": ""
+          "source": "Orders"
+        },
+        {
+          "key": "_orderTo",
+          "source": "Order To"
+        },
+        {
+          "key": "_orderToQuantity",
+          "source": "Order To"
         },
         {
           "key": "_pack",
-          "source": "Pack",
-          "target": ""
+          "source": "Pack"
         },
         {
           "key": "_packingList",
-          "source": "Packing List",
-          "target": ""
+          "source": "Packing List"
         },
         {
           "key": "_physicalInventory",
-          "source": "Physical Inventory (Counting)",
-          "target": ""
+          "source": "Physical Inventory (Counting)"
         },
         {
           "key": "_planned",
-          "source": "Planned",
-          "target": ""
+          "source": "Planned"
         },
         {
           "key": "_plannedOrder",
-          "source": "Planned Order",
-          "target": ""
+          "source": "Planned Order"
         },
         {
           "key": "_plannedOrders",
-          "source": "Planned Orders",
-          "target": ""
+          "source": "Planned Orders"
         },
         {
           "key": "_planningSystem",
-          "source": "Planning System",
-          "target": ""
+          "source": "Planning System"
         },
         {
           "key": "_postCountTagToDefault",
-          "source": "When Count Tag Qty exceeds Slip Qty",
-          "target": ""
+          "source": "When Count Tag Qty exceeds Slip Qty"
         },
         {
           "key": "_postItemSiteChanges",
-          "source": "Post Item Site Changes",
-          "target": ""
+          "source": "Post Item Site Changes"
         },
         {
           "key": "_postReceipt",
-          "source": "Post Receipt",
-          "target": ""
+          "source": "Post Receipt"
         },
         {
           "key": "_postReceipts",
-          "source": "Post Receipts",
-          "target": ""
+          "source": "Post Receipts"
         },
         {
           "key": "_postSiteChanges",
-          "source": "Post Site Changes",
-          "target": ""
+          "source": "Post Site Changes"
         },
         {
           "key": "_postToDefaultLocation",
-          "source": "Post to Default Loc.",
-          "target": ""
+          "source": "Post to Default Loc."
         },
         {
           "key": "_prefix",
-          "source": "Prefix",
-          "target": ""
+          "source": "Prefix"
         },
         {
           "key": "_printLabel",
-          "source": "Print Label",
-          "target": ""
+          "source": "Print Label"
         },
         {
           "key": "_printLocations",
-          "source": "Print Locations",
-          "target": ""
+          "source": "Print Locations"
         },
         {
           "key": "_printPacklist",
-          "source": "Print Packlist",
-          "target": ""
+          "source": "Print Packlist"
         },
         {
           "key": "_promised",
-          "source": "Promised",
-          "target": ""
+          "source": "Promised"
         },
         {
           "key": "_purchaseCost",
-          "source": "Purchase Cost",
-          "target": ""
+          "source": "Purchase Cost"
         },
         {
           "key": "_purchaseRequest",
-          "source": "Purchase Request",
-          "target": ""
+          "source": "Purchase Request"
         },
         {
           "key": "_purchaseRequests",
-          "source": "Purchase Requests",
-          "target": ""
+          "source": "Purchase Requests"
         },
         {
           "key": "_qtyAfter",
-          "source": "Qty. After",
-          "target": ""
+          "source": "Qty. After"
         },
         {
           "key": "_qtyBefore",
-          "source": "Qty. Before",
-          "target": ""
+          "source": "Qty. Before"
         },
         {
           "key": "_rack",
-          "source": "Rack",
-          "target": ""
+          "source": "Rack"
         },
         {
           "key": "_recallShipment",
-          "source": "Recall Shipment",
-          "target": ""
+          "source": "Recall Shipment"
         },
         {
           "key": "_recallShipment?",
-          "source": "Are you sure you want to recall this shipment?",
-          "target": ""
+          "source": "Are you sure you want to recall this shipment?"
         },
         {
           "key": "_receipt",
-          "source": "Receipt",
-          "target": ""
+          "source": "Receipt"
         },
         {
           "key": "_receiptQtyTolerancePct",
-          "source": "By the Following Amount (%)",
-          "target": ""
+          "source": "By the Following Amount (%)"
         },
         {
           "key": "_receive",
-          "source": "Receive",
-          "target": ""
+          "source": "Receive"
         },
         {
           "key": "_receiveAll",
-          "source": "Receive All",
-          "target": ""
+          "source": "Receive All"
         },
         {
           "key": "_receiveAll?",
-          "source": "Are you sure you want to enter receipt for all these items?",
-          "target": ""
+          "source": "Are you sure you want to enter receipt for all these items?"
         },
         {
           "key": "_receiveBreeder",
-          "source": "Receive Breeder",
-          "target": ""
+          "source": "Receive Breeder"
         },
         {
           "key": "_receiveLine",
-          "source": "Receive Line",
-          "target": ""
+          "source": "Receive Line"
         },
         {
           "key": "_receiveLocation",
-          "source": "Receive",
-          "target": ""
+          "source": "Receive"
         },
         {
           "key": "_receiveMaterial",
-          "source": "Receive Material",
-          "target": ""
+          "source": "Receive Material"
         },
         {
           "key": "_receivePurchaseOrder",
-          "source": "Receive Purchase Order",
-          "target": ""
+          "source": "Receive Purchase Order"
         },
         {
           "key": "_receiveQtyVar",
-          "source": "The Qty entered does not match the receivable Qty for this order. Do you wish to continue anyway?",
-          "target": ""
+          "source": "The Qty entered does not match the receivable Qty for this order. Do you wish to continue anyway?"
         },
         {
           "key": "_receiveReturn",
-          "source": "Receive Return",
-          "target": ""
+          "source": "Receive Return"
         },
         {
           "key": "_recordPPVOnReceipt",
-          "source": "Record Purchase Price Variance on Receipt",
-          "target": ""
+          "source": "Record Purchase Price Variance on Receipt"
         },
         {
           "key": "_releasePlannedOrders",
-          "source": "Release",
-          "target": ""
+          "source": "Release"
         },
         {
           "key": "_relocate",
-          "source": "Relocate",
-          "target": ""
+          "source": "Relocate"
         },
         {
           "key": "_reorder",
-          "source": "Reorder",
-          "target": ""
+          "source": "Reorder"
         },
         {
           "key": "_reorderExceptions",
-          "source": "Reorder Exceptons",
-          "target": ""
+          "source": "Reorder Exceptons"
         },
         {
           "key": "_reorderLevel",
-          "source": "Reorder Level",
-          "target": ""
+          "source": "Reorder Level"
         },
         {
           "key": "_reporting",
-          "source": "Reporting",
-          "target": ""
+          "source": "Reporting"
         },
         {
           "key": "_request",
-          "source": "Request",
-          "target": ""
+          "source": "Request"
         },
         {
           "key": "_request#",
-          "source": "Request #",
-          "target": ""
+          "source": "Request #"
         },
         {
           "key": "_requests",
-          "source": "Requests",
-          "target": ""
+          "source": "Requests"
         },
         {
           "key": "_restrictedLocations",
-          "source": "Restricted Locations",
-          "target": ""
+          "source": "Restricted Locations"
         },
         {
           "key": "_restrictedLocationsAllowed",
-          "source": "Restricted Locations Allowed",
-          "target": ""
+          "source": "Restricted Locations Allowed"
         },
         {
           "key": "_returnFromShipping",
-          "source": "Return From Shipping",
-          "target": ""
+          "source": "Return From Shipping"
         },
         {
           "key": "_returnLine",
-          "source": "Return Line",
-          "target": ""
+          "source": "Return Line"
         },
         {
           "key": "_running",
-          "source": "Running",
-          "target": ""
+          "source": "Running"
         },
         {
           "key": "_safetyStock",
-          "source": "Safety Stock",
-          "target": ""
+          "source": "Safety Stock"
         },
         {
           "key": "_save",
-          "source": "Save",
-          "target": ""
+          "source": "Save"
         },
         {
           "key": "_save?",
-          "source": "Do you want to Save your work before you continue?",
-          "target": ""
+          "source": "Do you want to Save your work before you continue?"
         },
         {
           "key": "_serial",
-          "source": "Serial",
-          "target": ""
+          "source": "Serial"
         },
         {
           "key": "_serial#",
-          "source": "Serial #",
-          "target": ""
+          "source": "Serial #"
         },
         {
           "key": "_ship",
-          "source": "Ship",
-          "target": ""
+          "source": "Ship"
         },
         {
           "key": "_shipFrom",
-          "source": "Ship From",
-          "target": ""
-        },
-        {
-          "key": "_shipShipment",
-          "source": "Ship Shipment",
-          "target": ""
-        },
-        {
-          "key": "_shipTo",
-          "source": "Ship To",
-          "target": ""
+          "source": "Ship From"
         },
         {
           "key": "_shipment",
-          "source": "Shipment",
-          "target": ""
+          "source": "Shipment"
         },
         {
           "key": "_shipmentNumberPolicy",
-          "source": "Shipment Number Policy",
-          "target": ""
+          "source": "Shipment Number Policy"
         },
         {
           "key": "_shipments",
-          "source": "Shipments",
-          "target": ""
+          "source": "Shipments"
         },
         {
           "key": "_shipped",
-          "source": "Shipped",
-          "target": ""
+          "source": "Shipped"
         },
         {
           "key": "_shipping",
-          "source": "Shipping",
-          "target": ""
+          "source": "Shipping"
         },
         {
           "key": "_shippingAndReceiving",
-          "source": "Shipping and Receiving",
-          "target": ""
+          "source": "Shipping and Receiving"
+        },
+        {
+          "key": "_shipShipment",
+          "source": "Ship Shipment"
         },
         {
           "key": "_shipto",
-          "source": "Ship To",
-          "target": ""
+          "source": "Ship To"
+        },
+        {
+          "key": "_shipTo",
+          "source": "Ship To"
         },
         {
           "key": "_shortages",
-          "source": "Shortages",
-          "target": ""
+          "source": "Shortages"
         },
         {
           "key": "_showInvoiced",
-          "source": "Show Invoiced Shipments",
-          "target": ""
+          "source": "Show Invoiced Shipments"
         },
         {
           "key": "_showShipped",
-          "source": "Show Shipped",
-          "target": ""
+          "source": "Show Shipped"
         },
         {
           "key": "_siteEmailProfile",
-          "source": "Site Email Profile",
-          "target": ""
+          "source": "Site Email Profile"
         },
         {
           "key": "_siteEmailProfiles",
-          "source": "Site Email",
-          "target": ""
+          "source": "Site Email"
         },
         {
           "key": "_siteTransfer",
-          "source": "Site Transfer",
-          "target": ""
+          "source": "Site Transfer"
         },
         {
           "key": "_siteZone",
-          "source": "Site Zone",
-          "target": ""
+          "source": "Site Zone"
         },
         {
           "key": "_soften",
-          "source": "Soften",
-          "target": ""
+          "source": "Soften"
         },
         {
           "key": "_softenPlannedOrders",
-          "source": "Soften",
-          "target": ""
+          "source": "Soften"
         },
         {
           "key": "_sourceName",
-          "source": "Source Name",
-          "target": ""
+          "source": "Source Name"
         },
         {
           "key": "_standard",
-          "source": "Standard",
-          "target": ""
+          "source": "Standard"
         },
         {
           "key": "_stockLocation",
-          "source": "Stock",
-          "target": ""
+          "source": "Stock"
         },
         {
           "key": "_success",
-          "source": "Success",
-          "target": ""
+          "source": "Success"
         },
         {
           "key": "_supply",
-          "source": "Supply",
-          "target": ""
+          "source": "Supply"
         },
         {
           "key": "_supplySite",
-          "source": "Supply Site",
-          "target": ""
+          "source": "Supply Site"
         },
         {
           "key": "_toIssue",
-          "source": "To Issue",
-          "target": ""
+          "source": "To Issue"
         },
         {
           "key": "_traceOptions",
-          "source": "Trace Options",
-          "target": ""
+          "source": "Trace Options"
         },
         {
           "key": "_traceSequence",
-          "source": "Sequence",
-          "target": ""
+          "source": "Sequence"
         },
         {
           "key": "_traceSequences",
-          "source": "Trace Sequences",
-          "target": ""
+          "source": "Trace Sequences"
         },
         {
           "key": "_trackingNumber",
-          "source": "Tracking Number",
-          "target": ""
-        },
-        {
-          "key": "_transDate",
-          "source": "Trans. Date",
-          "target": ""
-        },
-        {
-          "key": "_transType",
-          "source": "Trans. Type",
-          "target": ""
+          "source": "Tracking Number"
         },
         {
           "key": "_transaction",
-          "source": "Transaction",
-          "target": ""
+          "source": "Transaction"
+        },
+        {
+          "key": "_transDate",
+          "source": "Trans. Date"
         },
         {
           "key": "_transferOrder",
-          "source": "Transfer Order",
-          "target": ""
+          "source": "Transfer Order"
         },
         {
           "key": "_transferOrderLine",
-          "source": "Transfer Order Line",
-          "target": ""
-        },
-        {
-          "key": "_transferOrderWorkflow",
-          "source": "Transfer Workflow",
-          "target": ""
+          "source": "Transfer Order Line"
         },
         {
           "key": "_transferOrders",
-          "source": "Transfer Orders",
-          "target": ""
+          "source": "Transfer Orders"
+        },
+        {
+          "key": "_transferOrderWorkflow",
+          "source": "Transfer Workflow"
         },
         {
           "key": "_transferSitesMustDiffer",
-          "source": "The ship-from and ship-to sites must be different.",
-          "target": ""
+          "source": "The ship-from and ship-to sites must be different."
         },
         {
           "key": "_transitSite",
-          "source": "Transit Site",
-          "target": ""
+          "source": "Transit Site"
         },
         {
-          "key": "_unReleased",
-          "source": "Unreleased",
-          "target": ""
+          "key": "_transType",
+          "source": "Trans. Type"
         },
         {
           "key": "_unalloc.",
-          "source": "Unalloc.",
-          "target": ""
+          "source": "Unalloc."
         },
         {
           "key": "_unallocated",
-          "source": "Unallocated",
-          "target": ""
+          "source": "Unallocated"
         },
         {
           "key": "_undistributed",
-          "source": "Undistributed",
-          "target": ""
+          "source": "Undistributed"
+        },
+        {
+          "key": "_unReleased",
+          "source": "Unreleased"
         },
         {
           "key": "_updateChildDueDate?",
-          "source": "Do you want to update the due date on the child order to match the line item?",
-          "target": ""
+          "source": "Do you want to update the due date on the child order to match the line item?"
         },
         {
           "key": "_updateChildQuantity?",
-          "source": "Do you want to update the quantity on the child order to match the line item?",
-          "target": ""
+          "source": "Do you want to update the quantity on the child order to match the line item?"
         },
         {
           "key": "_updateInventory",
-          "source": "Update Inventory",
-          "target": ""
+          "source": "Update Inventory"
         },
         {
           "key": "_useAverageCost",
-          "source": "Average Costs",
-          "target": ""
+          "source": "Average Costs"
         },
         {
           "key": "_useDefaultLocation",
-          "source": "Use Default",
-          "target": ""
+          "source": "Use Default"
         },
         {
           "key": "_useExistingPurchaseOrder?",
-          "source": "An Unreleased Purchase Order exists for {vendor}. Would you like to use this Purchase Order?",
-          "target": ""
+          "source": "An Unreleased Purchase Order exists for {vendor}. Would you like to use this Purchase Order?"
         },
         {
           "key": "_useExistingTransferOrder?",
-          "source": "An Unreleased Transfer Order exists for {site}. Would you like to use this Transfer Order?",
-          "target": ""
+          "source": "An Unreleased Transfer Order exists for {site}. Would you like to use this Transfer Order?"
         },
         {
           "key": "_useParameters",
-          "source": "Use Parameters",
-          "target": ""
+          "source": "Use Parameters"
         },
         {
           "key": "_useParametersManual",
-          "source": "Enforce on Manual Orders",
-          "target": ""
-        },
-        {
-          "key": "_useStandardCost",
-          "source": "Standard Costs",
-          "target": ""
+          "source": "Enforce on Manual Orders"
         },
         {
           "key": "_userDefinedLocation",
-          "source": "Location Name",
-          "target": ""
+          "source": "Location Name"
+        },
+        {
+          "key": "_useStandardCost",
+          "source": "Standard Costs"
         },
         {
           "key": "_valueAfter",
-          "source": "Value After",
-          "target": ""
+          "source": "Value After"
         },
         {
           "key": "_valueBefore",
-          "source": "Value Before",
-          "target": ""
+          "source": "Value Before"
         },
         {
           "key": "_vendor",
-          "source": "Vendor",
-          "target": ""
-        },
-        {
-          "key": "_vendorType",
-          "source": "Vendor Type",
-          "target": ""
+          "source": "Vendor"
         },
         {
           "key": "_vendors",
-          "source": "Vendors",
-          "target": ""
+          "source": "Vendors"
+        },
+        {
+          "key": "_vendorType",
+          "source": "Vendor Type"
         },
         {
           "key": "_viewInventoryAvailability",
-          "source": "View Inventory Availability",
-          "target": ""
+          "source": "View Inventory Availability"
         },
         {
           "key": "_viewItemAvailabilityWorkbench",
-          "source": "View Item Workbench",
-          "target": ""
+          "source": "View Item Workbench"
         },
         {
           "key": "_viewPlannedOrders",
-          "source": "View",
-          "target": ""
+          "source": "View"
         },
         {
           "key": "_viewTransferOrders",
-          "source": "View Transfer Orders",
-          "target": ""
+          "source": "View Transfer Orders"
         },
         {
           "key": "_warnIfReceiptQtyDiffers",
-          "source": "Warn if PO Receipt Qty differs from receivable Qty",
-          "target": ""
+          "source": "Warn if PO Receipt Qty differs from receivable Qty"
         },
         {
           "key": "_warrantyDate",
-          "source": "Warranty Date",
-          "target": ""
-        },
-        {
-          "key": "_workOrder",
-          "source": "Work Order",
-          "target": ""
+          "source": "Warranty Date"
         },
         {
           "key": "_workbench",
-          "source": "Workbench",
-          "target": ""
+          "source": "Workbench"
+        },
+        {
+          "key": "_workOrder",
+          "source": "Work Order"
         },
         {
           "key": "_workspaceNotSupported",
-          "source": "The workspace for this order type is not yet supported.",
-          "target": ""
+          "source": "The workspace for this order type is not yet supported."
         }
       ]
     },
@@ -9420,673 +7544,539 @@
       "strings": [
         {
           "key": "_assembly",
-          "source": "Assembly",
-          "target": ""
+          "source": "Assembly"
         },
         {
           "key": "_autoExplodeWO",
-          "source": "Automatic",
-          "target": ""
+          "source": "Automatic"
         },
         {
           "key": "_autoIssue",
-          "source": "Auto Issue",
-          "target": ""
+          "source": "Auto Issue"
         },
         {
           "key": "_backflush",
-          "source": "Backflush",
-          "target": ""
+          "source": "Backflush"
         },
         {
           "key": "_changeWorkOrderQty",
-          "source": "Change Quantity",
-          "target": ""
+          "source": "Change Quantity"
         },
         {
           "key": "_closeOnPost",
-          "source": "Close on Post",
-          "target": ""
+          "source": "Close on Post"
         },
         {
           "key": "_closeWorkOrder",
-          "source": "Are you sure you want to Close this Work Order?",
-          "target": ""
+          "source": "Are you sure you want to Close this Work Order?"
         },
         {
           "key": "_closeWorkOrders",
-          "source": "Close",
-          "target": ""
+          "source": "Close"
         },
         {
           "key": "_condition",
-          "source": "Condition",
-          "target": ""
+          "source": "Condition"
         },
         {
           "key": "_consumed",
-          "source": "Consumed",
-          "target": ""
+          "source": "Consumed"
         },
         {
           "key": "_createSupplyForWorkOrders",
-          "source": "Auto Create for Work Orders",
-          "target": ""
+          "source": "Auto Create for Work Orders"
         },
         {
           "key": "_deleteWorkOrders",
-          "source": "Delete",
-          "target": ""
+          "source": "Delete"
         },
         {
           "key": "_disassembly",
-          "source": "Disassembly",
-          "target": ""
+          "source": "Disassembly"
         },
         {
           "key": "_executionDay",
-          "source": "Execution Day",
-          "target": ""
+          "source": "Execution Day"
         },
         {
           "key": "_explode",
-          "source": "Explode",
-          "target": ""
-        },
-        {
-          "key": "_explodeWorkOrderEffective",
-          "source": "Effective as of",
-          "target": ""
-        },
-        {
-          "key": "_explodeWorkOrders",
-          "source": "Explode",
-          "target": ""
+          "source": "Explode"
         },
         {
           "key": "_exploded",
-          "source": "Exploded",
-          "target": ""
+          "source": "Exploded"
+        },
+        {
+          "key": "_explodeWorkOrderEffective",
+          "source": "Effective as of"
+        },
+        {
+          "key": "_explodeWorkOrders",
+          "source": "Explode"
         },
         {
           "key": "_explorer",
-          "source": "Explorer",
-          "target": ""
+          "source": "Explorer"
         },
         {
           "key": "_explosion",
-          "source": "Explosion",
-          "target": ""
+          "source": "Explosion"
         },
         {
           "key": "_implode",
-          "source": "Implode",
-          "target": ""
+          "source": "Implode"
         },
         {
           "key": "_implodeWorkOrders",
-          "source": "Implode WorkOrders",
-          "target": ""
+          "source": "Implode WorkOrders"
         },
         {
           "key": "_in-process",
-          "source": "In-Process",
-          "target": ""
+          "source": "In-Process"
         },
         {
           "key": "_instructions",
-          "source": "Instructions",
-          "target": ""
+          "source": "Instructions"
         },
         {
           "key": "_isAutoIssueComponents",
-          "source": "Auto Issue",
-          "target": ""
+          "source": "Auto Issue"
         },
         {
           "key": "_isBackflushMaterials",
-          "source": "Backflush Materials",
-          "target": ""
+          "source": "Backflush Materials"
         },
         {
           "key": "_isConfigured",
-          "source": "Configured",
-          "target": ""
+          "source": "Configured"
         },
         {
           "key": "_isReceiveInventory",
-          "source": "Receive Inventory",
-          "target": ""
+          "source": "Receive Inventory"
         },
         {
           "key": "_isScheduleAtOperation",
-          "source": "Schedule At",
-          "target": ""
-        },
-        {
-          "key": "_issueMethod",
-          "source": "Issue Method",
-          "target": ""
-        },
-        {
-          "key": "_issueWoMaterials",
-          "source": "Issue Materials",
-          "target": ""
+          "source": "Schedule At"
         },
         {
           "key": "_issued",
-          "source": "Issued",
-          "target": ""
+          "source": "Issued"
+        },
+        {
+          "key": "_issueMethod",
+          "source": "Issue Method"
+        },
+        {
+          "key": "_issueWoMaterials",
+          "source": "Issue Materials"
         },
         {
           "key": "_itemSiteNotManufactured",
-          "source": "{item} can not be manufactured at {site}.",
-          "target": ""
+          "source": "{item} can not be manufactured at {site}."
         },
         {
           "key": "_itemSiteNotValid",
-          "source": "Item Site is not valid",
-          "target": ""
+          "source": "Item Site is not valid"
         },
         {
           "key": "_jobItemCosDefault",
-          "source": "Job Cost Recognition Default",
-          "target": ""
+          "source": "Job Cost Recognition Default"
         },
         {
           "key": "_lateStart",
-          "source": "Late Start",
-          "target": ""
+          "source": "Late Start"
         },
         {
           "key": "_maintainWorkOrderEmailProfiles",
-          "source": "Maintain Email Profiles",
-          "target": ""
+          "source": "Maintain Email Profiles"
         },
         {
           "key": "_maintainWorkOrders",
-          "source": "Maintain",
-          "target": ""
+          "source": "Maintain"
         },
         {
           "key": "_manufacture",
-          "source": "Work Orders",
-          "target": ""
-        },
-        {
-          "key": "_manufactureWo",
-          "source": "Manufacture",
-          "target": ""
+          "source": "Work Orders"
         },
         {
           "key": "_manufactured",
-          "source": "Manufactured",
-          "target": ""
+          "source": "Manufactured"
+        },
+        {
+          "key": "_manufactureWo",
+          "source": "Manufacture"
         },
         {
           "key": "_manufacturing",
-          "source": "Manufacturing",
-          "target": ""
+          "source": "Manufacturing"
         },
         {
           "key": "_manufacturingDescription",
-          "source": "Manufacturing",
-          "target": ""
+          "source": "Manufacturing"
         },
         {
           "key": "_material",
-          "source": "Material",
-          "target": ""
-        },
-        {
-          "key": "_materialUnit",
-          "source": "Material Unit",
-          "target": ""
+          "source": "Material"
         },
         {
           "key": "_materials",
-          "source": "Materials",
-          "target": ""
+          "source": "Materials"
+        },
+        {
+          "key": "_materialUnit",
+          "source": "Material Unit"
         },
         {
           "key": "_min",
-          "source": "min.",
-          "target": ""
+          "source": "min."
         },
         {
           "key": "_minPer",
-          "source": "(min.) per",
-          "target": ""
+          "source": "(min.) per"
         },
         {
           "key": "_mixed",
-          "source": "Mixed",
-          "target": ""
+          "source": "Mixed"
         },
         {
           "key": "_mode",
-          "source": "Mode",
-          "target": ""
+          "source": "Mode"
         },
         {
           "key": "_multipleLevel",
-          "source": "Multiple Level",
-          "target": ""
+          "source": "Multiple Level"
         },
         {
           "key": "_nextWorkingDate?",
-          "source": "The selected date is not a working day for the Site selected. Do you want to automatically select the next working day?",
-          "target": ""
+          "source": "The selected date is not a working day for the Site selected. Do you want to automatically select the next working day?"
         },
         {
           "key": "_noDeleteMaterials",
-          "source": "Materials can not be deleted as some quantity has already been issued.",
-          "target": ""
+          "source": "Materials can not be deleted as some quantity has already been issued."
         },
         {
           "key": "_noDeleteOperations",
-          "source": "Operations can not be deleted as postings have already been created against it.",
-          "target": ""
+          "source": "Operations can not be deleted as postings have already been created against it."
         },
         {
           "key": "_noDeleteWorkOrder",
-          "source": "Unable to delete Work Order because it or one of its children is in use by {username}.",
-          "target": ""
+          "source": "Unable to delete Work Order because it or one of its children is in use by {username}."
         },
         {
           "key": "_noProductionUnit",
-          "source": "No Production Unit",
-          "target": ""
+          "source": "No Production Unit"
         },
         {
           "key": "_noStandardOperation",
-          "source": "No Standard Operation",
-          "target": ""
+          "source": "No Standard Operation"
         },
         {
           "key": "_notApplicable",
-          "source": "Not Applicable",
-          "target": ""
+          "source": "Not Applicable"
         },
         {
           "key": "_notStarted",
-          "source": "Not Started",
-          "target": ""
+          "source": "Not Started"
         },
         {
           "key": "_onTime",
-          "source": "On Time",
-          "target": ""
+          "source": "On Time"
         },
         {
           "key": "_operation",
-          "source": "Operation",
-          "target": ""
+          "source": "Operation"
         },
         {
           "key": "_operationUnit",
-          "source": "Operation Unit",
-          "target": ""
+          "source": "Operation Unit"
         },
         {
           "key": "_orderQuantity",
-          "source": "Order Quantity",
-          "target": ""
+          "source": "Order Quantity"
         },
         {
           "key": "_orderUnit",
-          "source": "Order Unit",
-          "target": ""
+          "source": "Order Unit"
         },
         {
           "key": "_overdue",
-          "source": "Overdue",
-          "target": ""
+          "source": "Overdue"
         },
         {
           "key": "_parentOrderRequired",
-          "source": "A parent order is required for Work Orders with Job Cost item sites",
-          "target": ""
+          "source": "A parent order is required for Work Orders with Job Cost item sites"
         },
         {
           "key": "_per",
-          "source": "Per",
-          "target": ""
+          "source": "Per"
         },
         {
           "key": "_perMinute",
-          "source": "per Minute",
-          "target": ""
-        },
-        {
-          "key": "_postMaterialVariances",
-          "source": "Post Material Variances",
-          "target": ""
-        },
-        {
-          "key": "_postProduction",
-          "source": "Post Production",
-          "target": ""
+          "source": "per Minute"
         },
         {
           "key": "_posted",
-          "source": "Posted",
-          "target": ""
+          "source": "Posted"
         },
         {
           "key": "_postedValue",
-          "source": "Posted Value",
-          "target": ""
+          "source": "Posted Value"
+        },
+        {
+          "key": "_postMaterialVariances",
+          "source": "Post Material Variances"
+        },
+        {
+          "key": "_postProduction",
+          "source": "Post Production"
         },
         {
           "key": "_production",
-          "source": "Production",
-          "target": ""
+          "source": "Production"
         },
         {
           "key": "_proportional",
-          "source": "Proportional",
-          "target": ""
+          "source": "Proportional"
         },
         {
           "key": "_pull",
-          "source": "Pull",
-          "target": ""
+          "source": "Pull"
         },
         {
           "key": "_push",
-          "source": "Push",
-          "target": ""
+          "source": "Push"
         },
         {
           "key": "_quantityPer",
-          "source": "Qty. Per",
-          "target": ""
+          "source": "Qty. Per"
         },
         {
           "key": "_recall",
-          "source": "Recall",
-          "target": ""
+          "source": "Recall"
         },
         {
           "key": "_recallWorkOrders",
-          "source": "Recall",
-          "target": ""
+          "source": "Recall"
         },
         {
           "key": "_received",
-          "source": "Received",
-          "target": ""
+          "source": "Received"
         },
         {
           "key": "_recognitionMethod",
-          "source": "Recognition Method",
-          "target": ""
-        },
-        {
-          "key": "_releaseWorkOrders",
-          "source": "Release",
-          "target": ""
+          "source": "Recognition Method"
         },
         {
           "key": "_released",
-          "source": "Released",
-          "target": ""
+          "source": "Released"
+        },
+        {
+          "key": "_releaseWorkOrders",
+          "source": "Release"
         },
         {
           "key": "_remaining",
-          "source": "Remaining",
-          "target": ""
+          "source": "Remaining"
         },
         {
           "key": "_remainingToDistribute",
-          "source": "Remaining to Distribute",
-          "target": ""
+          "source": "Remaining to Distribute"
         },
         {
           "key": "_reprioritizeWorkOrders",
-          "source": "Reprioritize",
-          "target": ""
+          "source": "Reprioritize"
         },
         {
           "key": "_required",
-          "source": "Required",
-          "target": ""
+          "source": "Required"
         },
         {
           "key": "_rescheduleWorkOrders",
-          "source": "Reschedule",
-          "target": ""
+          "source": "Reschedule"
         },
         {
           "key": "_returnAll",
-          "source": "Return All",
-          "target": ""
+          "source": "Return All"
         },
         {
           "key": "_returnMaterial",
-          "source": "Return Material",
-          "target": ""
+          "source": "Return Material"
         },
         {
           "key": "_returnWoMaterials",
-          "source": "Return Materials",
-          "target": ""
+          "source": "Return Materials"
         },
         {
           "key": "_routing",
-          "source": "Routing",
-          "target": ""
+          "source": "Routing"
         },
         {
           "key": "_routings",
-          "source": "Routings",
-          "target": ""
+          "source": "Routings"
         },
         {
           "key": "_run",
-          "source": "Run",
-          "target": ""
+          "source": "Run"
         },
         {
           "key": "_runComplete",
-          "source": "Run Complete",
-          "target": ""
+          "source": "Run Complete"
         },
         {
           "key": "_runStarted",
-          "source": "Run Started",
-          "target": ""
+          "source": "Run Started"
         },
         {
           "key": "_runTime",
-          "source": "Run Time",
-          "target": ""
+          "source": "Run Time"
         },
         {
           "key": "_scheduling",
-          "source": "Scheduling",
-          "target": ""
+          "source": "Scheduling"
         },
         {
           "key": "_scrap",
-          "source": "Scrap",
-          "target": ""
+          "source": "Scrap"
         },
         {
           "key": "_scrapOnPost",
-          "source": "Scrap on Post",
-          "target": ""
+          "source": "Scrap on Post"
         },
         {
           "key": "_seq#",
-          "source": "Seq #",
-          "target": ""
+          "source": "Seq #"
         },
         {
           "key": "_setupComplete",
-          "source": "Setup Complete",
-          "target": ""
+          "source": "Setup Complete"
         },
         {
           "key": "_setupStarted",
-          "source": "Setup Started",
-          "target": ""
+          "source": "Setup Started"
         },
         {
           "key": "_setupTime",
-          "source": "Setup Time",
-          "target": ""
+          "source": "Setup Time"
         },
         {
           "key": "_singleLevel",
-          "source": "Single Level",
-          "target": ""
+          "source": "Single Level"
         },
         {
           "key": "_siteCalendar",
-          "source": "Site Calendar",
-          "target": ""
+          "source": "Site Calendar"
         },
         {
           "key": "_standardOperation",
-          "source": "Std. Operation",
-          "target": ""
+          "source": "Std. Operation"
         },
         {
           "key": "_started",
-          "source": "Started",
-          "target": ""
+          "source": "Started"
         },
         {
           "key": "_test",
-          "source": "Test",
-          "target": ""
+          "source": "Test"
         },
         {
           "key": "_throughput",
-          "source": "Throughput",
-          "target": ""
+          "source": "Throughput"
         },
         {
           "key": "_timeClockHistory",
-          "source": "Time Clock History",
-          "target": ""
-        },
-        {
-          "key": "_toPost",
-          "source": "To Post",
-          "target": ""
-        },
-        {
-          "key": "_toReturn",
-          "source": "To Return",
-          "target": ""
+          "source": "Time Clock History"
         },
         {
           "key": "_toolingReference",
-          "source": "Tooling Ref.",
-          "target": ""
+          "source": "Tooling Ref."
+        },
+        {
+          "key": "_toPost",
+          "source": "To Post"
+        },
+        {
+          "key": "_toReturn",
+          "source": "To Return"
         },
         {
           "key": "_totalQuantity",
-          "source": "Total Quantity",
-          "target": ""
+          "source": "Total Quantity"
         },
         {
           "key": "_undistributed",
-          "source": "Remaining to Distibute",
-          "target": ""
+          "source": "Remaining to Distibute"
         },
         {
           "key": "_updateAllDates?",
-          "source": "Updating dates on this Work Order will reschedule all related routings, materials and child orders. Are you sure you want to do this?",
-          "target": ""
+          "source": "Updating dates on this Work Order will reschedule all related routings, materials and child orders. Are you sure you want to do this?"
         },
         {
           "key": "_updateAllQuantities?",
-          "source": "A quantity change from {oldQuantity} to {newQuantity} will update all requirements. Are you sure you want to change the quantity?",
-          "target": ""
+          "source": "A quantity change from {oldQuantity} to {newQuantity} will update all requirements. Are you sure you want to change the quantity?"
         },
         {
           "key": "_updateChildPriorities?",
-          "source": "Updating this priority on Work Order will update all its children. Are you sure youru want to do this?",
-          "target": ""
+          "source": "Updating this priority on Work Order will update all its children. Are you sure youru want to do this?"
         },
         {
           "key": "_updateQuantity?",
-          "source": "The quantity is invalid for the order parameters on this Item Site. Would you like the quantity changed to the suggested value of {quantity}?",
-          "target": ""
+          "source": "The quantity is invalid for the order parameters on this Item Site. Would you like the quantity changed to the suggested value of {quantity}?"
         },
         {
           "key": "_useFixedWidthFont",
-          "source": "Use Fixed-Width Font",
-          "target": ""
+          "source": "Use Fixed-Width Font"
         },
         {
           "key": "_viewWorkOrders",
-          "source": "View",
-          "target": ""
+          "source": "View"
         },
         {
           "key": "_warrantyDate",
-          "source": "Purchase Warranty Date",
-          "target": ""
+          "source": "Purchase Warranty Date"
         },
         {
           "key": "_wip",
-          "source": "WIP",
-          "target": ""
+          "source": "WIP"
         },
         {
           "key": "_wipLocation",
-          "source": "WIP Location",
-          "target": ""
+          "source": "WIP Location"
         },
         {
           "key": "_wipValue",
-          "source": "WIP Value",
-          "target": ""
+          "source": "WIP Value"
         },
         {
           "key": "_woExplosionLevel",
-          "source": "Default Level",
-          "target": ""
+          "source": "Default Level"
         },
         {
           "key": "_workCenter",
-          "source": "Work Center",
-          "target": ""
+          "source": "Work Center"
         },
         {
           "key": "_workOrder",
-          "source": "Work Order",
-          "target": ""
+          "source": "Work Order"
         },
         {
           "key": "_workOrderChangeLog",
-          "source": "Post Changes to Change Log",
-          "target": ""
+          "source": "Post Changes to Change Log"
         },
         {
           "key": "_workOrderEmailProfile",
-          "source": "Email Profile",
-          "target": ""
+          "source": "Email Profile"
         },
         {
           "key": "_workOrderEmailProfiles",
-          "source": "Work Order Email",
-          "target": ""
-        },
-        {
-          "key": "_workOrderWorkflow",
-          "source": "Work Order Workflow",
-          "target": ""
+          "source": "Work Order Email"
         },
         {
           "key": "_workOrders",
-          "source": "Work Orders",
-          "target": ""
+          "source": "Work Orders"
+        },
+        {
+          "key": "_workOrderWorkflow",
+          "source": "Work Order Workflow"
         }
       ]
     },
@@ -10095,128 +8085,103 @@
       "strings": [
         {
           "key": "_authURI",
-          "source": "Auth URI",
-          "target": ""
+          "source": "Auth URI"
         },
         {
           "key": "_clientEmail",
-          "source": "Client Email",
-          "target": ""
+          "source": "Client Email"
         },
         {
           "key": "_clientName",
-          "source": "Client Name",
-          "target": ""
+          "source": "Client Name"
         },
         {
           "key": "_clientType",
-          "source": "Client Type",
-          "target": ""
+          "source": "Client Type"
         },
         {
           "key": "_delegatedAccess",
-          "source": "Delegated Access",
-          "target": ""
+          "source": "Delegated Access"
         },
         {
           "key": "_details",
-          "source": "Details",
-          "target": ""
+          "source": "Details"
         },
         {
           "key": "_fullListUrl",
-          "source": "Full List URL",
-          "target": ""
+          "source": "Full List URL"
         },
         {
           "key": "_generatingPrivateKey",
-          "source": "A new keypair will be generated for this OAUTH2 client. The public key will be saved in the database with this client. The private key is available as a one-time download. The password for the key store file will be \"notasecret\". Click \"ok\" to open a new tab for downloading the private key",
-          "target": ""
+          "source": "A new keypair will be generated for this OAUTH2 client. The public key will be saved in the database with this client. The private key is available as a one-time download. The password for the key store file will be \"notasecret\". Click \"ok\" to open a new tab for downloading the private key"
         },
         {
           "key": "_id",
-          "source": "ID",
-          "target": ""
+          "source": "ID"
         },
         {
           "key": "_issued",
-          "source": "Issued",
-          "target": ""
+          "source": "Issued"
         },
         {
           "key": "_logoURL",
-          "source": "Logo URL",
-          "target": ""
+          "source": "Logo URL"
         },
         {
           "key": "_maintainOauth2clients",
-          "source": "Maintain OAUTH2 Clients",
-          "target": ""
+          "source": "Maintain OAUTH2 Clients"
         },
         {
           "key": "_oauth2",
-          "source": "OAUTH2",
-          "target": ""
+          "source": "OAUTH2"
         },
         {
           "key": "_oauth2Client",
-          "source": "OAUTH2 Client",
-          "target": ""
+          "source": "OAUTH2 Client"
         },
         {
           "key": "_oauth2Clients",
-          "source": "OAUTH2 Clients",
-          "target": ""
-        },
-        {
-          "key": "_redirectURI",
-          "source": "Redirect URI",
-          "target": ""
+          "source": "OAUTH2 Clients"
         },
         {
           "key": "_redirects",
-          "source": "Redirects",
-          "target": ""
+          "source": "Redirects"
+        },
+        {
+          "key": "_redirectURI",
+          "source": "Redirect URI"
         },
         {
           "key": "_secret",
-          "source": "Secret",
-          "target": ""
+          "source": "Secret"
         },
         {
           "key": "_serviceAccount",
-          "source": "Service Account",
-          "target": ""
+          "source": "Service Account"
         },
         {
           "key": "_singleResourceUrl",
-          "source": "Single Resource URL",
-          "target": ""
+          "source": "Single Resource URL"
         },
         {
           "key": "_tokenRevocationURI",
-          "source": "Token Revocation URI",
-          "target": ""
+          "source": "Token Revocation URI"
         },
         {
           "key": "_tokenURI",
-          "source": "Token URI",
-          "target": ""
+          "source": "Token URI"
         },
         {
           "key": "_webServer",
-          "source": "Web Server",
-          "target": ""
+          "source": "Web Server"
         },
         {
           "key": "_website",
-          "source": "Website",
-          "target": ""
+          "source": "Website"
         },
         {
           "key": "_x509PubCert",
-          "source": "X.509 Public Key Certificate",
-          "target": ""
+          "source": "X.509 Public Key Certificate"
         }
       ]
     },
@@ -10225,198 +8190,159 @@
       "strings": [
         {
           "key": "_actual$",
-          "source": "Actual $",
-          "target": ""
+          "source": "Actual $"
         },
         {
           "key": "_actualHrs",
-          "source": "Actual Hrs.",
-          "target": ""
+          "source": "Actual Hrs."
         },
         {
           "key": "_approved",
-          "source": "Approved",
-          "target": ""
+          "source": "Approved"
         },
         {
           "key": "_budgeted$",
-          "source": "Budgeted $",
-          "target": ""
+          "source": "Budgeted $"
         },
         {
           "key": "_budgetedHrs",
-          "source": "Budgeted Hrs.",
-          "target": ""
+          "source": "Budgeted Hrs."
         },
         {
           "key": "_due",
-          "source": "Due",
-          "target": ""
+          "source": "Due"
         },
         {
           "key": "_dueOffset",
-          "source": "Offset Days",
-          "target": ""
+          "source": "Offset Days"
         },
         {
           "key": "_dueSet",
-          "source": "Calculate",
-          "target": ""
+          "source": "Calculate"
         },
         {
           "key": "_maintainProjectEmailProfiles",
-          "source": "Maintain Project Email Profiles",
-          "target": ""
+          "source": "Maintain Project Email Profiles"
         },
         {
           "key": "_maintainProjectTypes",
-          "source": "Maintain Project Types",
-          "target": ""
+          "source": "Maintain Project Types"
         },
         {
           "key": "_nextProjectStatus",
-          "source": "Next Project Status",
-          "target": ""
+          "source": "Next Project Status"
         },
         {
           "key": "_noChange",
-          "source": "No Change",
-          "target": ""
+          "source": "No Change"
         },
         {
           "key": "_percentComplete",
-          "source": "Complete",
-          "target": ""
+          "source": "Complete"
         },
         {
           "key": "_project",
-          "source": "Project",
-          "target": ""
+          "source": "Project"
         },
         {
           "key": "_projectAssignedTo",
-          "source": "Project Assigned To",
-          "target": ""
+          "source": "Project Assigned To"
         },
         {
           "key": "_projectEmailProfile",
-          "source": "Project Email Profile",
-          "target": ""
+          "source": "Project Email Profile"
         },
         {
           "key": "_projectEmailProfiles",
-          "source": "Project Email",
-          "target": ""
+          "source": "Project Email"
         },
         {
           "key": "_projectManagement",
-          "source": "Project Management",
-          "target": ""
+          "source": "Project Management"
         },
         {
           "key": "_projectOwner",
-          "source": "Project Owner",
-          "target": ""
+          "source": "Project Owner"
         },
         {
           "key": "_projectRelations",
-          "source": "Projects",
-          "target": ""
-        },
-        {
-          "key": "_projectStatus",
-          "source": "Project Status",
-          "target": ""
-        },
-        {
-          "key": "_projectTask",
-          "source": "Project Task",
-          "target": ""
-        },
-        {
-          "key": "_projectTaskStatus",
-          "source": "Project Task Status",
-          "target": ""
-        },
-        {
-          "key": "_projectTasks",
-          "source": "Project Tasks",
-          "target": ""
-        },
-        {
-          "key": "_projectType",
-          "source": "Project Type",
-          "target": ""
-        },
-        {
-          "key": "_projectTypes",
-          "source": "Project Types",
-          "target": ""
-        },
-        {
-          "key": "_projectUpdated",
-          "source": "The following project has been UPDATED",
-          "target": ""
-        },
-        {
-          "key": "_projectWorkflow",
-          "source": "Project Workflow",
-          "target": ""
+          "source": "Projects"
         },
         {
           "key": "_projects",
-          "source": "Projects",
-          "target": ""
+          "source": "Projects"
+        },
+        {
+          "key": "_projectStatus",
+          "source": "Project Status"
+        },
+        {
+          "key": "_projectTask",
+          "source": "Project Task"
+        },
+        {
+          "key": "_projectTasks",
+          "source": "Project Tasks"
+        },
+        {
+          "key": "_projectTaskStatus",
+          "source": "Project Task Status"
+        },
+        {
+          "key": "_projectType",
+          "source": "Project Type"
+        },
+        {
+          "key": "_projectTypes",
+          "source": "Project Types"
+        },
+        {
+          "key": "_projectUpdated",
+          "source": "The following project has been UPDATED"
+        },
+        {
+          "key": "_projectWorkflow",
+          "source": "Project Workflow"
         },
         {
           "key": "_rejected",
-          "source": "Rejected",
-          "target": ""
+          "source": "Rejected"
         },
         {
           "key": "_requireProjectAssignment",
-          "source": "Require Project Assignment",
-          "target": ""
+          "source": "Require Project Assignment"
         },
         {
           "key": "_resource",
-          "source": "Resource",
-          "target": ""
+          "source": "Resource"
         },
         {
           "key": "_resources",
-          "source": "Resources",
-          "target": ""
+          "source": "Resources"
         },
         {
           "key": "_review",
-          "source": "Review",
-          "target": ""
+          "source": "Review"
         },
         {
           "key": "_revision",
-          "source": "Revision",
-          "target": ""
+          "source": "Revision"
         },
         {
           "key": "_start",
-          "source": "Start",
-          "target": ""
+          "source": "Start"
         },
         {
           "key": "_startOffset",
-          "source": "Offset Days",
-          "target": ""
+          "source": "Offset Days"
         },
         {
           "key": "_startSet",
-          "source": "Calculate",
-          "target": ""
+          "source": "Calculate"
         },
         {
           "key": "_useProjects",
-          "source": "Use Projects",
-          "target": ""
+          "source": "Use Projects"
         }
       ]
     },
@@ -10424,274 +8350,220 @@
       "extension": "purchasing",
       "strings": [
         {
-          "key": "_CopyPRtoPOItem",
-          "source": "Copy to Order",
-          "target": ""
-        },
-        {
-          "key": "_DefaultPrintPOOnSave",
-          "source": "Print on Save",
-          "target": ""
-        },
-        {
-          "key": "_RequirePOTax",
-          "source": "Require Tax",
-          "target": ""
-        },
-        {
-          "key": "_RequireStdCostForPOItem",
-          "source": "Require Standard Cost",
-          "target": ""
-        },
-        {
-          "key": "_UseEarliestAvailDateOnPOItem",
-          "source": "Use Earliest Date",
-          "target": ""
-        },
-        {
           "key": "_activityType",
-          "source": "Activity Type",
-          "target": ""
+          "source": "Activity Type"
+        },
+        {
+          "key": "_CopyPRtoPOItem",
+          "source": "Copy to Order"
         },
         {
           "key": "_correctToEarliestDate?",
-          "source": "The due date does not fall within the lead time for this Item Source. Would you like it corrected?",
-          "target": ""
+          "source": "The due date does not fall within the lead time for this Item Source. Would you like it corrected?"
         },
         {
           "key": "_correctToMinimumQuantity?",
-          "source": "The quantity is below the minimum order quantity for this Item Source. Would you like it corrected?",
-          "target": ""
+          "source": "The quantity is below the minimum order quantity for this Item Source. Would you like it corrected?"
         },
         {
           "key": "_correctToMultipleQuantity?",
-          "source": "The quantity does not fall within the order multiple quantity for this Item Source. Would you like it corrected?",
-          "target": ""
+          "source": "The quantity does not fall within the order multiple quantity for this Item Source. Would you like it corrected?"
         },
         {
           "key": "_createSupplyForSalesOrders",
-          "source": "Auto Create for Sales Orders",
-          "target": ""
+          "source": "Auto Create for Sales Orders"
+        },
+        {
+          "key": "_DefaultPrintPOOnSave",
+          "source": "Print on Save"
         },
         {
           "key": "_defaultShipVia",
-          "source": "Default Ship Via",
-          "target": ""
+          "source": "Default Ship Via"
         },
         {
           "key": "_earliestDate",
-          "source": "Earliest Date",
-          "target": ""
+          "source": "Earliest Date"
         },
         {
           "key": "_errorStandardCostRequired",
-          "source": "The Item {number} can not be used because has no standard cost.",
-          "target": ""
+          "source": "The Item {number} can not be used because has no standard cost."
         },
         {
           "key": "_freightSubtotal",
-          "source": "Freight Subtotal",
-          "target": ""
+          "source": "Freight Subtotal"
         },
         {
           "key": "_isDropShip",
-          "source": "Drop Ship",
-          "target": ""
+          "source": "Drop Ship"
         },
         {
           "key": "_isMisc",
-          "source": "Miscellaneous",
-          "target": ""
+          "source": "Miscellaneous"
         },
         {
           "key": "_isPurchased",
-          "source": "Purchased",
-          "target": ""
+          "source": "Purchased"
         },
         {
           "key": "_itemSource",
-          "source": "Item Source",
-          "target": ""
+          "source": "Item Source"
         },
         {
           "key": "_itemSourceItemInactive",
-          "source": "Item Source can not be active when Item is inactive",
-          "target": ""
+          "source": "Item Source can not be active when Item is inactive"
         },
         {
           "key": "_itemSources",
-          "source": "Item Sources",
-          "target": ""
+          "source": "Item Sources"
         },
         {
           "key": "_maintainPurchaseEmailProfiles",
-          "source": "Maintain Purchase Email Profiles",
-          "target": ""
+          "source": "Maintain Purchase Email Profiles"
         },
         {
           "key": "_maintainPurchaseOrders",
-          "source": "Maintain Purchase Orders",
-          "target": ""
+          "source": "Maintain Purchase Orders"
         },
         {
           "key": "_maintainPurchaseTypes",
-          "source": "Maintain Purchase Types",
-          "target": ""
+          "source": "Maintain Purchase Types"
         },
         {
           "key": "_manufacturer",
-          "source": "Manufacturer",
-          "target": ""
+          "source": "Manufacturer"
         },
         {
           "key": "_manufacturerItem",
-          "source": "Mfg. Item",
-          "target": ""
+          "source": "Mfg. Item"
         },
         {
           "key": "_maximumDesiredCost",
-          "source": "Maximum Cost",
-          "target": ""
+          "source": "Maximum Cost"
         },
         {
           "key": "_na",
-          "source": "N/A",
-          "target": ""
+          "source": "N/A"
         },
         {
           "key": "_noManufacturerNumber",
-          "source": "No Manufacturer Item",
-          "target": ""
+          "source": "No Manufacturer Item"
         },
         {
           "key": "_noVendorNumber",
-          "source": "No Vendor Item",
-          "target": ""
+          "source": "No Vendor Item"
         },
         {
           "key": "_priceType",
-          "source": "Price Type",
-          "target": ""
+          "source": "Price Type"
         },
         {
           "key": "_purchase",
-          "source": "Purchase",
-          "target": ""
+          "source": "Purchase"
         },
         {
           "key": "_purchaseEmailProfile",
-          "source": "Email Profile",
-          "target": ""
+          "source": "Email Profile"
         },
         {
           "key": "_purchaseEmailProfiles",
-          "source": "Purchase Email",
-          "target": ""
+          "source": "Purchase Email"
         },
         {
           "key": "_purchaseOrder",
-          "source": "Purchase Order",
-          "target": ""
+          "source": "Purchase Order"
         },
         {
           "key": "_purchaseOrderLine",
-          "source": "Purchase Order Line",
-          "target": ""
-        },
-        {
-          "key": "_purchaseOrderWorkflow",
-          "source": "Purchase Workflow",
-          "target": ""
+          "source": "Purchase Order Line"
         },
         {
           "key": "_purchaseOrders",
-          "source": "Purchase Orders",
-          "target": ""
+          "source": "Purchase Orders"
+        },
+        {
+          "key": "_purchaseOrderWorkflow",
+          "source": "Purchase Workflow"
         },
         {
           "key": "_purchaseRequest",
-          "source": "Purchase Request",
-          "target": ""
+          "source": "Purchase Request"
         },
         {
           "key": "_purchaseRequests",
-          "source": "Purchase Requests",
-          "target": ""
+          "source": "Purchase Requests"
         },
         {
           "key": "_purchaseType",
-          "source": "Purchase Type",
-          "target": ""
+          "source": "Purchase Type"
         },
         {
           "key": "_purchaseTypes",
-          "source": "Purchase Types",
-          "target": ""
+          "source": "Purchase Types"
         },
         {
           "key": "_purchasing",
-          "source": "Purchasing",
-          "target": ""
+          "source": "Purchasing"
         },
         {
           "key": "_quantityBreak",
-          "source": "Quantity Break",
-          "target": ""
+          "source": "Quantity Break"
         },
         {
           "key": "_ranking",
-          "source": "Ranking",
-          "target": ""
+          "source": "Ranking"
         },
         {
           "key": "_releaseDate",
-          "source": "Release Date",
-          "target": ""
+          "source": "Release Date"
+        },
+        {
+          "key": "_RequirePOTax",
+          "source": "Require Tax"
+        },
+        {
+          "key": "_RequireStdCostForPOItem",
+          "source": "Require Standard Cost"
         },
         {
           "key": "_supply",
-          "source": "Supply",
-          "target": ""
+          "source": "Supply"
         },
         {
           "key": "_transactedPoNotUnreleased",
-          "source": "This Purchase Order has transactions and can not be Unreleased.",
-          "target": ""
+          "source": "This Purchase Order has transactions and can not be Unreleased."
         },
         {
           "key": "_unitRatio",
-          "source": "Unit Ratio",
-          "target": ""
+          "source": "Unit Ratio"
+        },
+        {
+          "key": "_UseEarliestAvailDateOnPOItem",
+          "source": "Use Earliest Date"
         },
         {
           "key": "_vendorItem",
-          "source": "Vendor Item",
-          "target": ""
+          "source": "Vendor Item"
         },
         {
           "key": "_vendorItemNumber",
-          "source": "VendorItemNumber",
-          "target": ""
+          "source": "VendorItemNumber"
         },
         {
           "key": "_vendorUnit",
-          "source": "Vendor Unit",
-          "target": ""
+          "source": "Vendor Unit"
         },
         {
           "key": "_viewPurchaseOrders",
-          "source": "View Purchase Orders",
-          "target": ""
+          "source": "View Purchase Orders"
         },
         {
           "key": "_vouchered",
-          "source": "Vouchered",
-          "target": ""
+          "source": "Vouchered"
         },
         {
           "key": "_warnMaxCostExceeded",
-          "source": "The price is above the maximum desired cost of {maximumDesiredCost} for this Item.",
-          "target": ""
+          "source": "The price is above the maximum desired cost of {maximumDesiredCost} for this Item."
         }
       ]
     },
@@ -10700,343 +8572,275 @@
       "strings": [
         {
           "key": "_acceptsBackOrders",
-          "source": "Accepts Back Orders",
-          "target": ""
+          "source": "Accepts Back Orders"
         },
         {
           "key": "_acceptsPartialShipments",
-          "source": "Accepts Partial Shipments",
-          "target": ""
+          "source": "Accepts Partial Shipments"
         },
         {
           "key": "_allowASAPShipSchedules",
-          "source": "Allow ASAP Schedule Dates",
-          "target": ""
+          "source": "Allow ASAP Schedule Dates"
         },
         {
           "key": "_allowDiscounts",
-          "source": "Allow Price Discounts",
-          "target": ""
+          "source": "Allow Price Discounts"
         },
         {
           "key": "_allowFreeFormShiptos",
-          "source": "Allow Free Form Ship-Tos",
-          "target": ""
+          "source": "Allow Free Form Ship-Tos"
         },
         {
           "key": "_authorizedCredit",
-          "source": "Authorized Credit",
-          "target": ""
+          "source": "Authorized Credit"
         },
         {
           "key": "_autoAllocateCreditMemos",
-          "source": "Allocate Credit Memos to New Sales Order on Save",
-          "target": ""
+          "source": "Allocate Credit Memos to New Sales Order on Save"
         },
         {
           "key": "_autoSelectForBilling",
-          "source": "Check 'Select for Billing' option on Ship Order",
-          "target": ""
+          "source": "Check 'Select for Billing' option on Ship Order"
         },
         {
           "key": "_bookings",
-          "source": "Bookings",
-          "target": ""
+          "source": "Bookings"
         },
         {
           "key": "_convert",
-          "source": "Convert",
-          "target": ""
+          "source": "Convert"
         },
         {
           "key": "_creditControl",
-          "source": "Credit Control",
-          "target": ""
+          "source": "Credit Control"
         },
         {
           "key": "_creditMemo",
-          "source": "Credit Memo",
-          "target": ""
+          "source": "Credit Memo"
         },
         {
           "key": "_current",
-          "source": "Current",
-          "target": ""
+          "source": "Current"
         },
         {
           "key": "_currentDate",
-          "source": "Current Date",
-          "target": ""
+          "source": "Current Date"
         },
         {
           "key": "_customerAddress",
-          "source": "Customer Address",
-          "target": ""
+          "source": "Customer Address"
         },
         {
           "key": "_customerDefaults",
-          "source": "Customer Defaults",
-          "target": ""
+          "source": "Customer Defaults"
         },
         {
           "key": "_customerTypes",
-          "source": "Customer Types",
-          "target": ""
+          "source": "Customer Types"
         },
         {
           "key": "_cutOffDay",
-          "source": "Cutoff Day",
-          "target": ""
+          "source": "Cutoff Day"
         },
         {
           "key": "_dateControl",
-          "source": "Date Control",
-          "target": ""
+          "source": "Date Control"
         },
         {
           "key": "_disableSalesOrderPriceOverride",
-          "source": "Disallow Override of Sale Price on Sales Order",
-          "target": ""
+          "source": "Disallow Override of Sale Price on Sales Order"
         },
         {
           "key": "_doNotUpdate",
-          "source": "Do Not Update",
-          "target": ""
+          "source": "Do Not Update"
         },
         {
           "key": "_enableSOShipping",
-          "source": "Enable Shipping Interface from Sales Order screen",
-          "target": ""
+          "source": "Enable Shipping Interface from Sales Order screen"
         },
         {
           "key": "_firmSalesOrdersWhenAddedToPackingList",
-          "source": "Firm Sales Orders when added to Packing List Batch",
-          "target": ""
+          "source": "Firm Sales Orders when added to Packing List Batch"
         },
         {
           "key": "_fiveYears",
-          "source": "Five Years",
-          "target": ""
+          "source": "Five Years"
         },
         {
           "key": "_freightPricing",
-          "source": "Freight Pricing",
-          "target": ""
+          "source": "Freight Pricing"
         },
         {
           "key": "_hideSOMiscCharge",
-          "source": "Hide Misc. Charge on Sales Order screen",
-          "target": ""
+          "source": "Hide Misc. Charge on Sales Order screen"
         },
         {
           "key": "_ignoreIfDiscounted",
-          "source": "Ignore if Discounted",
-          "target": ""
+          "source": "Ignore if Discounted"
         },
         {
           "key": "_includePackageWeight",
-          "source": "Include Package Weight in Freight Calculation",
-          "target": ""
+          "source": "Include Package Weight in Freight Calculation"
         },
         {
           "key": "_invoice",
-          "source": "Invoice",
-          "target": ""
+          "source": "Invoice"
         },
         {
           "key": "_invoiceDateSource",
-          "source": "Invoice Date Source",
-          "target": ""
+          "source": "Invoice Date Source"
         },
         {
           "key": "_maintainCustomerEmailProfiles",
-          "source": "Maintain Customer Email Profiles",
-          "target": ""
+          "source": "Maintain Customer Email Profiles"
         },
         {
           "key": "_maintainSalesEmailProfiles",
-          "source": "Maintain Sales Email Profiles",
-          "target": ""
+          "source": "Maintain Sales Email Profiles"
         },
         {
           "key": "_postCustomerChanges",
-          "source": "Post Customer Changes",
-          "target": ""
+          "source": "Post Customer Changes"
         },
         {
           "key": "_postSalesOrderChanges",
-          "source": "Post Sales Order Changes",
-          "target": ""
+          "source": "Post Sales Order Changes"
         },
         {
           "key": "_priceControl",
-          "source": "Price Control",
-          "target": ""
+          "source": "Price Control"
         },
         {
           "key": "_priceEffectiveDate",
-          "source": "Price Effective Date",
-          "target": ""
+          "source": "Price Effective Date"
         },
         {
           "key": "_pricing",
-          "source": "Pricing",
-          "target": ""
+          "source": "Pricing"
         },
         {
           "key": "_pricingOnLineItemEdits",
-          "source": "Pricing on Line Item edits",
-          "target": ""
+          "source": "Pricing on Line Item edits"
         },
         {
           "key": "_printCreditMemos",
-          "source": "Print Credit Memos",
-          "target": ""
+          "source": "Print Credit Memos"
         },
         {
           "key": "_printSalesOrder",
-          "source": "Print Sales Order",
-          "target": ""
+          "source": "Print Sales Order"
         },
         {
           "key": "_process",
-          "source": "Process",
-          "target": ""
+          "source": "Process"
         },
         {
           "key": "_processCreditCards",
-          "source": "Process Credit Cards",
-          "target": ""
+          "source": "Process Credit Cards"
         },
         {
           "key": "_prompt",
-          "source": "Prompt",
-          "target": ""
+          "source": "Prompt"
         },
         {
           "key": "_restrictCreditMemos",
-          "source": "Restrict Credit Memos to Items on their Apply-to Document",
-          "target": ""
+          "source": "Restrict Credit Memos to Items on their Apply-to Document"
         },
         {
           "key": "_sales",
-          "source": "Sales",
-          "target": ""
+          "source": "Sales"
         },
         {
           "key": "_salesDescription",
-          "source": "Customer and Sales Order Management",
-          "target": ""
+          "source": "Customer and Sales Order Management"
         },
         {
           "key": "_salesHistory",
-          "source": "Sales History",
-          "target": ""
+          "source": "Sales History"
         },
         {
           "key": "_salesOrder",
-          "source": "Sales Order",
-          "target": ""
+          "source": "Sales Order"
         },
         {
           "key": "_salesOrderAck",
-          "source": "Sales Order Acknowledgement",
-          "target": ""
+          "source": "Sales Order Acknowledgement"
         },
         {
           "key": "_scheduled",
-          "source": "Scheduled",
-          "target": ""
+          "source": "Scheduled"
         },
         {
           "key": "_scheduledDate",
-          "source": "Scheduled Date",
-          "target": ""
+          "source": "Scheduled Date"
         },
         {
           "key": "_shipControl",
-          "source": "Ship Control",
-          "target": ""
+          "source": "Ship Control"
         },
         {
           "key": "_shipDate",
-          "source": "Ship Date",
-          "target": ""
+          "source": "Ship Date"
         },
         {
           "key": "_shipTo",
-          "source": "Ship To",
-          "target": ""
+          "source": "Ship To"
         },
         {
           "key": "_showQuotesAfterConverted",
-          "source": "Show Quotes after Conversion to SO",
-          "target": ""
+          "source": "Show Quotes after Conversion to SO"
         },
         {
           "key": "_showSaveAndAddbutton",
-          "source": "Show 'Save and Add to Packing List' Button on Sales Order",
-          "target": ""
+          "source": "Show 'Save and Add to Packing List' Button on Sales Order"
         },
         {
           "key": "_staleAnalysisWarning",
-          "source": "Free trial demo analysis data will not be updated from your live changes.",
-          "target": ""
+          "source": "Free trial demo analysis data will not be updated from your live changes."
         },
         {
           "key": "_termsType",
-          "source": "Terms Type",
-          "target": ""
+          "source": "Terms Type"
         },
         {
           "key": "_thisMonth",
-          "source": "This Month",
-          "target": ""
+          "source": "This Month"
         },
         {
           "key": "_thisWeek",
-          "source": "This Week",
-          "target": ""
+          "source": "This Week"
         },
         {
           "key": "_thisYear",
-          "source": "This Year",
-          "target": ""
+          "source": "This Year"
         },
         {
           "key": "_timeFrame",
-          "source": "Time Frame",
-          "target": ""
+          "source": "Time Frame"
         },
         {
           "key": "_today",
-          "source": "Today",
-          "target": ""
+          "source": "Today"
         },
         {
           "key": "_twoYears",
-          "source": "Two Years",
-          "target": ""
+          "source": "Two Years"
         },
         {
           "key": "_update",
-          "source": "Update",
-          "target": ""
+          "source": "Update"
         },
         {
           "key": "_useCalculatedFreightPricing",
-          "source": "Use calculated Freight values by default",
-          "target": ""
+          "source": "Use calculated Freight values by default"
         },
         {
           "key": "_usePromiseDates",
-          "source": "Enable Promise Dates",
-          "target": ""
+          "source": "Enable Promise Dates"
         },
         {
           "key": "_viewSalesHistory",
-          "source": "View Sales History",
-          "target": ""
+          "source": "View Sales History"
         }
       ]
     }
