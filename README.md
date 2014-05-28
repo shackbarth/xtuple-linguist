@@ -38,7 +38,7 @@ can add the file manually.
 
 ```
 cd /path/to/xtuple
-./scripts/import_dictionary -d dev -f ../xtuple-linguist/translations/es_MX_dictionary.js
+./scripts/import_dictionary.js -d dev -f ../xtuple-linguist/translations/es_MX_dictionary.js
 ```
 
 Then, from the `UserAccount` workspace of the mobile client, set your locale to `Spanish` (in
