@@ -6503,7 +6503,8 @@
       "strings": [
         {
           "key": "_a",
-          "source": "A"
+          "source": "A",
+          "target": "一"
         },
         {
           "key": "_abcClass",
