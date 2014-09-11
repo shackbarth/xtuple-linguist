@@ -230,11 +230,6 @@
           "target": "Menge"
         },
         {
-          "key": "_analysis",
-          "source": "Analysis",
-          "target": "Analyse"
-        },
-        {
           "key": "_and",
           "source": "and",
           "target": "und"
@@ -578,6 +573,11 @@
           "key": "_code",
           "source": "Code",
           "target": "Code"
+        },
+        {
+          "key": "_commandCenter",
+          "source": "Command Center",
+          "target": "Command Center"
         },
         {
           "key": "_commentsEditable",
@@ -1495,6 +1495,11 @@
           "target": "Gesamtpreis-Skala"
         },
         {
+          "key": "_extensionName",
+          "source": "Extension Name",
+          "target": "Name der Erweiterung"
+        },
+        {
           "key": "_extensions",
           "source": "Extensions",
           "target": "Erweiterungen"
@@ -1823,6 +1828,16 @@
           "key": "_inProcess",
           "source": "In Process",
           "target": "In Process"
+        },
+        {
+          "key": "_installExtension",
+          "source": "Install Extension",
+          "target": "Erweiterung installieren"
+        },
+        {
+          "key": "_installExtensionWarning",
+          "source": "Extensions are very powerful and potentially have full access to your data. You should only install an extension from a source you trust. ",
+          "target": "Erweiterungen sind sehr leistungsfähig und möglicherweise haben vollen Zugriff auf Ihre Daten. Sie sollten nur eine Verlängerung von einer verbürgten Quelle installieren."
         },
         {
           "key": "_insufficientPrivileges",
@@ -4030,6 +4045,11 @@
           "target": "Zwischensumme"
         },
         {
+          "key": "_success!",
+          "source": "Success!",
+          "target": "Erfolg!"
+        },
+        {
           "key": "_successors",
           "source": "Successors",
           "target": "Nachfolger"
@@ -4248,6 +4268,11 @@
           "key": "_transactionDate",
           "source": "Transaction Date",
           "target": "Transaktionsdatum"
+        },
+        {
+          "key": "_transactionKey",
+          "source": "Transaction Key",
+          "target": "Transaktion Key"
         },
         {
           "key": "_transactionSuccessful",
@@ -6260,6 +6285,11 @@
           "target": "Diese Geldeingang kann nicht posten, weil die Kreditkartensätzen konnte nicht gefunden werden."
         },
         {
+          "key": "_xtdb_postCCCashReceipt1",
+          "source": "Cannot post this Cash Receipt because annot find the default Bank Account for this Credit Card.",
+          "target": "Kann nicht erlaubt, diese Geldeingang, da annot finden die Standard-Bankkonto für diese Kreditkarte."
+        },
+        {
           "key": "_xtdb_postCCCashReceipt11",
           "source": "Cannot post this Cash Receipt because the record of the credit card transaction either does not exist or is not consistent.",
           "target": "Diese Geldeingang kann nicht posten, weil die Bilanz der Kreditkartentransaktion ist entweder nicht vorhanden oder ist nicht konsistent."
@@ -8065,6 +8095,11 @@
       "extension": "crm",
       "strings": [
         {
+          "key": "_assignedIncidents",
+          "source": "Assigned Incidents",
+          "target": "Zugeordnet Vorfälle"
+        },
+        {
           "key": "_crm",
           "source": "CRM",
           "target": "CRM"
@@ -8095,14 +8130,9 @@
           "target": "Pflegen Sie E-Mail-Profile"
         },
         {
-          "key": "_openIncidents",
-          "source": "Open Incidents",
-          "target": "Offene Incidents"
-        },
-        {
-          "key": "_staleAnalysisWarning",
-          "source": "Free trial demo analysis data will not be updated from your live changes.",
-          "target": "Kostenlose Testversion Demo-Analyse-Daten werden nicht von Ihrem Live-Änderungen aktualisiert werden."
+          "key": "_opportunitiesNext30Days",
+          "source": "Opportunities Next 30 Days",
+          "target": "Chancen nächsten 30 Tage"
         },
         {
           "key": "_viewEmailProfiles",
@@ -8113,7 +8143,18 @@
     },
     {
       "extension": "distribution",
-      "strings": []
+      "strings": [
+        {
+          "key": "_expressCheckout",
+          "source": "Checkout",
+          "target": "Kasse"
+        },
+        {
+          "key": "_printInvoice",
+          "source": "Print Invoice",
+          "target": "Rechnung drucken"
+        }
+      ]
     },
     {
       "extension": "inventory",
@@ -8319,6 +8360,11 @@
           "target": "Standard-Site"
         },
         {
+          "key": "_defaultTransitSite",
+          "source": "Default Transit Site",
+          "target": "Standard Transit-Site"
+        },
+        {
           "key": "_deleteChildOrder?",
           "source": "Are you sure you want to delete the existing supply order?",
           "target": "Sind Sie sicher, dass Sie das bestehende Angebot um wirklich löschen?"
@@ -8389,11 +8435,6 @@
           "target": "Ablauf"
         },
         {
-          "key": "_expressCheckout",
-          "source": "Checkout",
-          "target": "Kasse"
-        },
-        {
           "key": "_extCost",
           "source": "Ext Cost",
           "target": "Ext Kosten"
@@ -8432,6 +8473,16 @@
           "key": "_inventoryHistory",
           "source": "Inventory History",
           "target": "Bestandsgeschichte"
+        },
+        {
+          "key": "_inventorySiteSettings",
+          "source": "Inventory Site Settings",
+          "target": "Bestands Site-Einstellungen"
+        },
+        {
+          "key": "_invoiced",
+          "source": "Invoiced",
+          "target": "In Rechnung gestellt"
         },
         {
           "key": "_isAutomaticAbcClassUpdates",
@@ -8487,6 +8538,11 @@
           "key": "_isShipped",
           "source": "Shipped",
           "target": "Versand"
+        },
+        {
+          "key": "_isShippingSite",
+          "source": "Shipping Site",
+          "target": "Versandkosten Site"
         },
         {
           "key": "_isStocked",
@@ -8554,9 +8610,24 @@
           "target": "Einheit"
         },
         {
+          "key": "_isTransitSite",
+          "source": "Transit Site",
+          "target": "Transit-Site"
+        },
+        {
           "key": "_isUseDefaultLocation",
           "source": "Use Default Location",
           "target": "Verwenden Sie Standard-Speicherort"
+        },
+        {
+          "key": "_isUseSlips",
+          "source": "Force Use Count Slips",
+          "target": "Gewalt anzuwenden, Graf Slips"
+        },
+        {
+          "key": "_isUseZones",
+          "source": "Force Use Zones",
+          "target": "Kraft Nutzungszonen"
         },
         {
           "key": "_itemSettings",
@@ -8654,6 +8725,11 @@
           "target": "Mehrere Standort Steuer"
         },
         {
+          "key": "_multipleSites",
+          "source": "Multiple Sites",
+          "target": "Mehrere Seiten"
+        },
+        {
           "key": "_multiSite",
           "source": "Multi-Site",
           "target": "Multi-Site"
@@ -8662,6 +8738,11 @@
           "key": "_nextShipmentNumber",
           "source": "Next Shipment Number",
           "target": "Nächste Sendung Anzahl"
+        },
+        {
+          "key": "_nextTransferOrderNumber",
+          "source": "Next Transfer Order Number",
+          "target": "Weiter Transportauftragsnummer"
         },
         {
           "key": "_noItem",
@@ -8844,6 +8925,11 @@
           "target": "Sende Loc Standard."
         },
         {
+          "key": "_postTransferOrderChanges",
+          "source": "Post Tranfer Order Changes",
+          "target": "Post Tranfer Auftragsänderungen"
+        },
+        {
           "key": "_prefix",
           "source": "Prefix",
           "target": "Präfix"
@@ -8990,7 +9076,7 @@
         },
         {
           "key": "_reorderExceptions",
-          "source": "Reorder Exceptons",
+          "source": "Reorder Exceptions",
           "target": "Reorder Exceptons"
         },
         {
@@ -9059,6 +9145,11 @@
           "target": "Wollen Sie Ihre Arbeit speichern, bevor Sie fortfahren?"
         },
         {
+          "key": "_schedulingSequence",
+          "source": "Scheduling Sequence",
+          "target": "Scheduling Sequence"
+        },
+        {
           "key": "_serial",
           "source": "Serial",
           "target": "Serien-"
@@ -9109,6 +9200,11 @@
           "target": "Versand und Empfang"
         },
         {
+          "key": "_shippingCommission",
+          "source": "Shipping Commission",
+          "target": "Versand Kommission"
+        },
+        {
           "key": "_shipShipment",
           "source": "Ship Shipment",
           "target": "Schiff Versand"
@@ -9137,6 +9233,16 @@
           "key": "_showShipped",
           "source": "Show Shipped",
           "target": "Versand anzeigen"
+        },
+        {
+          "key": "_signature",
+          "source": "Signature",
+          "target": "Unterschrift"
+        },
+        {
+          "key": "_signHere",
+          "source": "Sign Here",
+          "target": "Registrieren Hier"
         },
         {
           "key": "_siteEmailProfile",
@@ -9244,6 +9350,11 @@
           "target": "Übertragen Order Line"
         },
         {
+          "key": "_transferOrderNumberPolicy",
+          "source": "Transfer Order Number Policy",
+          "target": "Transportauftragsnummer Politik"
+        },
+        {
           "key": "_transferOrders",
           "source": "Transfer Orders",
           "target": "Transportaufträge"
@@ -9262,6 +9373,11 @@
           "key": "_transitSite",
           "source": "Transit Site",
           "target": "Transit-Site"
+        },
+        {
+          "key": "_transitSiteSettings",
+          "source": "Transit Site Settings",
+          "target": "Transit Site-Einstellungen"
         },
         {
           "key": "_transType",
@@ -9412,6 +9528,11 @@
           "key": "_workspaceNotSupported",
           "source": "The workspace for this order type is not yet supported.",
           "target": "Der Arbeitsbereich für diese Auftragsart wird noch nicht unterstützt."
+        },
+        {
+          "key": "isDefaultTransitSite",
+          "source": "Default Transit Site",
+          "target": "Standard Transit-Site"
         }
       ]
     },
@@ -10130,7 +10251,7 @@
         },
         {
           "key": "_generatingPrivateKey",
-          "source": "A new keypair will be generated for this OAUTH2 client. The public key will be saved in the database with this client. The private key is available as a one-time download. The password for the key store file will be \"notasecret\". Click \"ok\" to open a new tab for downloading the private key",
+          "source": "A new keypair will be generated for this OAUTH2 client. The public key will be saved in the database with this client. The private key is available as a one-time download. The password for the key store file will be \"notasecret\". Click \"ok\" to downloading the private key.",
           "target": "Ein neues Schlüsselpaar für diesen OAUTH2 Client generiert werden. Der öffentliche Schlüssel wird in der Datenbank mit diesem Client gespeichert werden. Der private Schlüssel ist so eine einmalige Download verfügbar. Das Kennwort für den Schlüsselspeicher-Datei wird &quot;notasecret&quot; zu sein. Klicken Sie auf &quot;OK&quot;, um eine neue Registerkarte für das Herunterladen der privaten Schlüssel öffnen"
         },
         {
@@ -10674,6 +10795,11 @@
           "target": "VendorItemNumber"
         },
         {
+          "key": "_vendors",
+          "source": "Vendors",
+          "target": "Anbieter"
+        },
+        {
           "key": "_vendorUnit",
           "source": "Vendor Unit",
           "target": "Hersteller Einheit"
@@ -10742,6 +10868,11 @@
           "key": "_bookings",
           "source": "Bookings",
           "target": "Buchungen"
+        },
+        {
+          "key": "_bookingsNext30Days",
+          "source": "Bookings Next 30 Days",
+          "target": "Buchungen nächsten 30 Tage"
         },
         {
           "key": "_convert",
@@ -10934,6 +11065,11 @@
           "target": "Vertrieb Geschichte"
         },
         {
+          "key": "_salesHistoryLast30Days",
+          "source": "Sales History Last 30 Days",
+          "target": "Vertrieb Geschichte der letzten 30 Tage"
+        },
+        {
           "key": "_salesOrder",
           "source": "Sales Order",
           "target": "Sales Order"
@@ -10977,11 +11113,6 @@
           "key": "_showSaveAndAddbutton",
           "source": "Show 'Save and Add to Packing List' Button on Sales Order",
           "target": "Zeigen Sie auf &quot;Speichern und In den Packliste &#39;Button auf Kundenauftrag"
-        },
-        {
-          "key": "_staleAnalysisWarning",
-          "source": "Free trial demo analysis data will not be updated from your live changes.",
-          "target": "Kostenlose Testversion Demo-Analyse-Daten werden nicht von Ihrem Live-Änderungen aktualisiert werden."
         },
         {
           "key": "_termsType",

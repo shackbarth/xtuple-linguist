@@ -230,11 +230,6 @@
           "target": "量"
         },
         {
-          "key": "_analysis",
-          "source": "Analysis",
-          "target": "分析"
-        },
-        {
           "key": "_and",
           "source": "and",
           "target": "和"
@@ -578,6 +573,11 @@
           "key": "_code",
           "source": "Code",
           "target": "码"
+        },
+        {
+          "key": "_commandCenter",
+          "source": "Command Center",
+          "target": "指挥中心"
         },
         {
           "key": "_commentsEditable",
@@ -1495,6 +1495,11 @@
           "target": "延期价格量表"
         },
         {
+          "key": "_extensionName",
+          "source": "Extension Name",
+          "target": "扩展名"
+        },
+        {
           "key": "_extensions",
           "source": "Extensions",
           "target": "扩展"
@@ -1823,6 +1828,16 @@
           "key": "_inProcess",
           "source": "In Process",
           "target": "在过程"
+        },
+        {
+          "key": "_installExtension",
+          "source": "Install Extension",
+          "target": "安装扩展"
+        },
+        {
+          "key": "_installExtensionWarning",
+          "source": "Extensions are very powerful and potentially have full access to your data. You should only install an extension from a source you trust. ",
+          "target": "扩展是非常强大的，可能有完全访问您的数据。您应该只安装来自您信任的来源的延伸。"
         },
         {
           "key": "_insufficientPrivileges",
@@ -4030,6 +4045,11 @@
           "target": "小计"
         },
         {
+          "key": "_success!",
+          "source": "Success!",
+          "target": "成功！"
+        },
+        {
           "key": "_successors",
           "source": "Successors",
           "target": "接班人"
@@ -4248,6 +4268,11 @@
           "key": "_transactionDate",
           "source": "Transaction Date",
           "target": "交易日期"
+        },
+        {
+          "key": "_transactionKey",
+          "source": "Transaction Key",
+          "target": "主要交易"
         },
         {
           "key": "_transactionSuccessful",
@@ -6260,6 +6285,11 @@
           "target": "不能发布此现金收据，因为刷卡记录找不到。"
         },
         {
+          "key": "_xtdb_postCCCashReceipt1",
+          "source": "Cannot post this Cash Receipt because annot find the default Bank Account for this Credit Card.",
+          "target": "不能发布此现金收据，因为ANNOT查找默认的银行帐户这张信用卡。"
+        },
+        {
           "key": "_xtdb_postCCCashReceipt11",
           "source": "Cannot post this Cash Receipt because the record of the credit card transaction either does not exist or is not consistent.",
           "target": "不能发布此现金收据，因为信用卡交易的记录不存在或者是不相符的。"
@@ -8065,6 +8095,11 @@
       "extension": "crm",
       "strings": [
         {
+          "key": "_assignedIncidents",
+          "source": "Assigned Incidents",
+          "target": "分配事件"
+        },
+        {
           "key": "_crm",
           "source": "CRM",
           "target": "客户关系管理"
@@ -8095,14 +8130,9 @@
           "target": "保持电子邮件配置文件"
         },
         {
-          "key": "_openIncidents",
-          "source": "Open Incidents",
-          "target": "打开事件"
-        },
-        {
-          "key": "_staleAnalysisWarning",
-          "source": "Free trial demo analysis data will not be updated from your live changes.",
-          "target": "免费试用演示分析的数据将不会从你的生活的变化进行更新。"
+          "key": "_opportunitiesNext30Days",
+          "source": "Opportunities Next 30 Days",
+          "target": "机会，接下来的30天"
         },
         {
           "key": "_viewEmailProfiles",
@@ -8113,7 +8143,18 @@
     },
     {
       "extension": "distribution",
-      "strings": []
+      "strings": [
+        {
+          "key": "_expressCheckout",
+          "source": "Checkout",
+          "target": "结帐"
+        },
+        {
+          "key": "_printInvoice",
+          "source": "Print Invoice",
+          "target": "打印发票"
+        }
+      ]
     },
     {
       "extension": "inventory",
@@ -8319,6 +8360,11 @@
           "target": "默认站点"
         },
         {
+          "key": "_defaultTransitSite",
+          "source": "Default Transit Site",
+          "target": "默认公交站点"
+        },
+        {
           "key": "_deleteChildOrder?",
           "source": "Are you sure you want to delete the existing supply order?",
           "target": "您确定要删除现有的供应订单？"
@@ -8389,11 +8435,6 @@
           "target": "呼气"
         },
         {
-          "key": "_expressCheckout",
-          "source": "Checkout",
-          "target": "结帐"
-        },
-        {
           "key": "_extCost",
           "source": "Ext Cost",
           "target": "外部成本"
@@ -8432,6 +8473,16 @@
           "key": "_inventoryHistory",
           "source": "Inventory History",
           "target": "库存历史"
+        },
+        {
+          "key": "_inventorySiteSettings",
+          "source": "Inventory Site Settings",
+          "target": "存货站点设置"
+        },
+        {
+          "key": "_invoiced",
+          "source": "Invoiced",
+          "target": "开具发票"
         },
         {
           "key": "_isAutomaticAbcClassUpdates",
@@ -8487,6 +8538,11 @@
           "key": "_isShipped",
           "source": "Shipped",
           "target": "运"
+        },
+        {
+          "key": "_isShippingSite",
+          "source": "Shipping Site",
+          "target": "送货地点"
         },
         {
           "key": "_isStocked",
@@ -8554,9 +8610,24 @@
           "target": "单位"
         },
         {
+          "key": "_isTransitSite",
+          "source": "Transit Site",
+          "target": "公交站点"
+        },
+        {
           "key": "_isUseDefaultLocation",
           "source": "Use Default Location",
           "target": "使用默认位置"
+        },
+        {
+          "key": "_isUseSlips",
+          "source": "Force Use Count Slips",
+          "target": "强制使用计数简"
+        },
+        {
+          "key": "_isUseZones",
+          "source": "Force Use Zones",
+          "target": "强制使用区域"
         },
         {
           "key": "_itemSettings",
@@ -8654,6 +8725,11 @@
           "target": "多地点控制"
         },
         {
+          "key": "_multipleSites",
+          "source": "Multiple Sites",
+          "target": "多个站点"
+        },
+        {
           "key": "_multiSite",
           "source": "Multi-Site",
           "target": "多站点"
@@ -8662,6 +8738,11 @@
           "key": "_nextShipmentNumber",
           "source": "Next Shipment Number",
           "target": "下一步提单号码"
+        },
+        {
+          "key": "_nextTransferOrderNumber",
+          "source": "Next Transfer Order Number",
+          "target": "接着转移订单号"
         },
         {
           "key": "_noItem",
@@ -8844,6 +8925,11 @@
           "target": "发布到默认禄。"
         },
         {
+          "key": "_postTransferOrderChanges",
+          "source": "Post Tranfer Order Changes",
+          "target": "发表转院订单变更"
+        },
+        {
           "key": "_prefix",
           "source": "Prefix",
           "target": "字首"
@@ -8990,7 +9076,7 @@
         },
         {
           "key": "_reorderExceptions",
-          "source": "Reorder Exceptons",
+          "source": "Reorder Exceptions",
           "target": "重新排序Exceptons"
         },
         {
@@ -9059,6 +9145,11 @@
           "target": "你想保存你的工作，然后再继续？"
         },
         {
+          "key": "_schedulingSequence",
+          "source": "Scheduling Sequence",
+          "target": "调度序列"
+        },
+        {
           "key": "_serial",
           "source": "Serial",
           "target": "串行"
@@ -9109,6 +9200,11 @@
           "target": "发货和收货"
         },
         {
+          "key": "_shippingCommission",
+          "source": "Shipping Commission",
+          "target": "运输委员会"
+        },
+        {
           "key": "_shipShipment",
           "source": "Ship Shipment",
           "target": "运输货物"
@@ -9137,6 +9233,16 @@
           "key": "_showShipped",
           "source": "Show Shipped",
           "target": "显示发货"
+        },
+        {
+          "key": "_signature",
+          "source": "Signature",
+          "target": "签名"
+        },
+        {
+          "key": "_signHere",
+          "source": "Sign Here",
+          "target": "在这里签名"
         },
         {
           "key": "_siteEmailProfile",
@@ -9244,6 +9350,11 @@
           "target": "调令线"
         },
         {
+          "key": "_transferOrderNumberPolicy",
+          "source": "Transfer Order Number Policy",
+          "target": "调令若干政策"
+        },
+        {
           "key": "_transferOrders",
           "source": "Transfer Orders",
           "target": "转移订单"
@@ -9262,6 +9373,11 @@
           "key": "_transitSite",
           "source": "Transit Site",
           "target": "公交站点"
+        },
+        {
+          "key": "_transitSiteSettings",
+          "source": "Transit Site Settings",
+          "target": "公交站点设置"
         },
         {
           "key": "_transType",
@@ -9412,6 +9528,11 @@
           "key": "_workspaceNotSupported",
           "source": "The workspace for this order type is not yet supported.",
           "target": "目前还不支持在工作区该订单类型。"
+        },
+        {
+          "key": "isDefaultTransitSite",
+          "source": "Default Transit Site",
+          "target": "默认公交站点"
         }
       ]
     },
@@ -10130,7 +10251,7 @@
         },
         {
           "key": "_generatingPrivateKey",
-          "source": "A new keypair will be generated for this OAUTH2 client. The public key will be saved in the database with this client. The private key is available as a one-time download. The password for the key store file will be \"notasecret\". Click \"ok\" to open a new tab for downloading the private key",
+          "source": "A new keypair will be generated for this OAUTH2 client. The public key will be saved in the database with this client. The private key is available as a one-time download. The password for the key store file will be \"notasecret\". Click \"ok\" to downloading the private key.",
           "target": "一种新的密钥对将这个OAUTH2客户端生成的。公共密钥将被保存在数据库中与此客户端。私钥可作为一次性下载。密钥存储区文件中的密码将是“notasecret”。单击“确定”，打开一个新的标签页下载私钥"
         },
         {
@@ -10674,6 +10795,11 @@
           "target": "VendorItemNumber"
         },
         {
+          "key": "_vendors",
+          "source": "Vendors",
+          "target": "供应商"
+        },
+        {
           "key": "_vendorUnit",
           "source": "Vendor Unit",
           "target": "卖方单位"
@@ -10742,6 +10868,11 @@
           "key": "_bookings",
           "source": "Bookings",
           "target": "预订"
+        },
+        {
+          "key": "_bookingsNext30Days",
+          "source": "Bookings Next 30 Days",
+          "target": "预订未来30天内"
         },
         {
           "key": "_convert",
@@ -10934,6 +11065,11 @@
           "target": "销售历史"
         },
         {
+          "key": "_salesHistoryLast30Days",
+          "source": "Sales History Last 30 Days",
+          "target": "销售历史最后30天"
+        },
+        {
           "key": "_salesOrder",
           "source": "Sales Order",
           "target": "销售订单"
@@ -10977,11 +11113,6 @@
           "key": "_showSaveAndAddbutton",
           "source": "Show 'Save and Add to Packing List' Button on Sales Order",
           "target": "显示“保存并添加到装箱单”按钮上的销售订单"
-        },
-        {
-          "key": "_staleAnalysisWarning",
-          "source": "Free trial demo analysis data will not be updated from your live changes.",
-          "target": "免费试用演示分析的数据将不会从你的生活的变化进行更新。"
         },
         {
           "key": "_termsType",
