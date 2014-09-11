@@ -230,11 +230,6 @@
           "target": "మొత్తం"
         },
         {
-          "key": "_analysis",
-          "source": "Analysis",
-          "target": "విశ్లేషణ"
-        },
-        {
           "key": "_and",
           "source": "and",
           "target": "మరియు"
@@ -578,6 +573,11 @@
           "key": "_code",
           "source": "Code",
           "target": "కోడ్"
+        },
+        {
+          "key": "_commandCenter",
+          "source": "Command Center",
+          "target": "కమాండ్ సెంటర్"
         },
         {
           "key": "_commentsEditable",
@@ -1495,6 +1495,11 @@
           "target": "విస్తరించిన ధర స్కేల్"
         },
         {
+          "key": "_extensionName",
+          "source": "Extension Name",
+          "target": "పొడిగింపు పేరు"
+        },
+        {
           "key": "_extensions",
           "source": "Extensions",
           "target": "పొడిగింపులు"
@@ -1823,6 +1828,16 @@
           "key": "_inProcess",
           "source": "In Process",
           "target": "ప్రక్రియలో"
+        },
+        {
+          "key": "_installExtension",
+          "source": "Install Extension",
+          "target": "పొడిగింపు ఇన్స్టాల్"
+        },
+        {
+          "key": "_installExtensionWarning",
+          "source": "Extensions are very powerful and potentially have full access to your data. You should only install an extension from a source you trust. ",
+          "target": "పొడిగింపులు చాలా శక్తివంతమైన మరియు సమర్థవంతమైన మీ డేటాకు పూర్తి ప్రాప్తిని కలిగి ఉంటాయి. మీరు విశ్వసించే ఒక మూల నుండి పొడిగింపును ఇన్స్టాల్ చేయాలి."
         },
         {
           "key": "_insufficientPrivileges",
@@ -4030,6 +4045,11 @@
           "target": "పూర్తికాని"
         },
         {
+          "key": "_success!",
+          "source": "Success!",
+          "target": "సక్సెస్!"
+        },
+        {
           "key": "_successors",
           "source": "Successors",
           "target": "వారసులు"
@@ -4248,6 +4268,11 @@
           "key": "_transactionDate",
           "source": "Transaction Date",
           "target": "లావాదేవీ తేదీ"
+        },
+        {
+          "key": "_transactionKey",
+          "source": "Transaction Key",
+          "target": "లావాదేవీ కీ"
         },
         {
           "key": "_transactionSuccessful",
@@ -6260,6 +6285,11 @@
           "target": "క్రెడిట్ కార్డు రికార్డులు కనుగొనబడలేదు ఈ డబ్బు అందిన పోస్ట్ చేయలేము."
         },
         {
+          "key": "_xtdb_postCCCashReceipt1",
+          "source": "Cannot post this Cash Receipt because annot find the default Bank Account for this Credit Card.",
+          "target": "ANNOT ఈ క్రెడిట్ కార్డ్ కోసం డిఫాల్ట్ బ్యాంక్ ఖాతా కనుగొనేందుకు ఎందుకంటే ఈ నగదు స్వీకరణపై పోస్ట్ చేయలేము."
+        },
+        {
           "key": "_xtdb_postCCCashReceipt11",
           "source": "Cannot post this Cash Receipt because the record of the credit card transaction either does not exist or is not consistent.",
           "target": "క్రెడిట్ కార్డు లావాదేవీల రికార్డ్ ఉనికిలో లేదా స్థిరమైన కాదు కలుస్తున్నారు ఈ డబ్బు అందిన పోస్ట్ చేయలేము."
@@ -8065,6 +8095,11 @@
       "extension": "crm",
       "strings": [
         {
+          "key": "_assignedIncidents",
+          "source": "Assigned Incidents",
+          "target": "అసైన్డ్ ఇన్సిడెంట్స్"
+        },
+        {
           "key": "_crm",
           "source": "CRM",
           "target": "CRM"
@@ -8095,14 +8130,9 @@
           "target": "ఇమెయిల్ ప్రొఫైల్స్ నిర్వహించడానికి"
         },
         {
-          "key": "_openIncidents",
-          "source": "Open Incidents",
-          "target": "ఓపెన్ సంఘటనలు"
-        },
-        {
-          "key": "_staleAnalysisWarning",
-          "source": "Free trial demo analysis data will not be updated from your live changes.",
-          "target": "ఉచిత ట్రయల్ డెమో విశ్లేషణ డేటాను మీ ప్రత్యక్ష మార్పుల చేయబడుతుంది."
+          "key": "_opportunitiesNext30Days",
+          "source": "Opportunities Next 30 Days",
+          "target": "అవకాశాలు వచ్చే 30 డేస్"
         },
         {
           "key": "_viewEmailProfiles",
@@ -8113,7 +8143,18 @@
     },
     {
       "extension": "distribution",
-      "strings": []
+      "strings": [
+        {
+          "key": "_expressCheckout",
+          "source": "Checkout",
+          "target": "చెక్అవుట్"
+        },
+        {
+          "key": "_printInvoice",
+          "source": "Print Invoice",
+          "target": "ప్రింట్ వాయిస్"
+        }
+      ]
     },
     {
       "extension": "inventory",
@@ -8319,6 +8360,11 @@
           "target": "డిఫాల్ట్ సైట్"
         },
         {
+          "key": "_defaultTransitSite",
+          "source": "Default Transit Site",
+          "target": "డిఫాల్ట్ ట్రాన్సిట్ సైట్"
+        },
+        {
           "key": "_deleteChildOrder?",
           "source": "Are you sure you want to delete the existing supply order?",
           "target": "మీరు ఇప్పటికే ఉన్న సరఫరా క్రమంలో తొలగించడానికి నిశ్చయించుకున్నారా?"
@@ -8389,11 +8435,6 @@
           "target": "శ్వాసము విడవడము"
         },
         {
-          "key": "_expressCheckout",
-          "source": "Checkout",
-          "target": "హోటల్ నుంచి బయటకు వెళ్లడం"
-        },
-        {
           "key": "_extCost",
           "source": "Ext Cost",
           "target": "Ext ఖర్చు"
@@ -8432,6 +8473,16 @@
           "key": "_inventoryHistory",
           "source": "Inventory History",
           "target": "ఇన్వెంటరీ చరిత్ర"
+        },
+        {
+          "key": "_inventorySiteSettings",
+          "source": "Inventory Site Settings",
+          "target": "ఇన్వెంటరీ సైట్ సెట్టింగులు"
+        },
+        {
+          "key": "_invoiced",
+          "source": "Invoiced",
+          "target": "ఇన్వాయిస్"
         },
         {
           "key": "_isAutomaticAbcClassUpdates",
@@ -8487,6 +8538,11 @@
           "key": "_isShipped",
           "source": "Shipped",
           "target": "రవాణా"
+        },
+        {
+          "key": "_isShippingSite",
+          "source": "Shipping Site",
+          "target": "షిప్పింగ్ సైట్"
         },
         {
           "key": "_isStocked",
@@ -8554,9 +8610,24 @@
           "target": "యూనిట్"
         },
         {
+          "key": "_isTransitSite",
+          "source": "Transit Site",
+          "target": "ట్రాన్సిట్ సైట్"
+        },
+        {
           "key": "_isUseDefaultLocation",
           "source": "Use Default Location",
           "target": "స్వయంసిద్ద స్థానం ఉపయోగించండి"
+        },
+        {
+          "key": "_isUseSlips",
+          "source": "Force Use Count Slips",
+          "target": "ఫోర్స్ ఉపయోగించండి స్లిప్స్ కౌంట్"
+        },
+        {
+          "key": "_isUseZones",
+          "source": "Force Use Zones",
+          "target": "ఫోర్స్ ఉపయోగించండి మండలాలు"
         },
         {
           "key": "_itemSettings",
@@ -8654,6 +8725,11 @@
           "target": "బహుళ స్థాన కంట్రోల్"
         },
         {
+          "key": "_multipleSites",
+          "source": "Multiple Sites",
+          "target": "బహుళ సైట్ల"
+        },
+        {
           "key": "_multiSite",
           "source": "Multi-Site",
           "target": "మల్టీ సైట్"
@@ -8662,6 +8738,11 @@
           "key": "_nextShipmentNumber",
           "source": "Next Shipment Number",
           "target": "తదుపరి ఎగుమతి సంఖ్య"
+        },
+        {
+          "key": "_nextTransferOrderNumber",
+          "source": "Next Transfer Order Number",
+          "target": "తదుపరి ట్రాన్స్ఫర్ ఆర్డర్ సంఖ్య"
         },
         {
           "key": "_noItem",
@@ -8844,6 +8925,11 @@
           "target": "Loc Default పోస్ట్."
         },
         {
+          "key": "_postTransferOrderChanges",
+          "source": "Post Tranfer Order Changes",
+          "target": "పోస్ట్ బదిలీ చేయాలా ఆర్డర్ మార్పులు"
+        },
+        {
           "key": "_prefix",
           "source": "Prefix",
           "target": "ప్రత్యయము"
@@ -8990,7 +9076,7 @@
         },
         {
           "key": "_reorderExceptions",
-          "source": "Reorder Exceptons",
+          "source": "Reorder Exceptions",
           "target": "క్రమాన్ని మార్చు Exceptons"
         },
         {
@@ -9059,6 +9145,11 @@
           "target": "కొనసాగించే ముందు మీరు మీ పనిని సేవ్ అనుకుంటున్నారా?"
         },
         {
+          "key": "_schedulingSequence",
+          "source": "Scheduling Sequence",
+          "target": "షెడ్యూలింగ్ సీక్వెన్స్"
+        },
+        {
           "key": "_serial",
           "source": "Serial",
           "target": "ధారావాహిక"
@@ -9109,6 +9200,11 @@
           "target": "షిప్పింగ్ స్వీకరించుటకు"
         },
         {
+          "key": "_shippingCommission",
+          "source": "Shipping Commission",
+          "target": "షిప్పింగ్ కమిషన్"
+        },
+        {
           "key": "_shipShipment",
           "source": "Ship Shipment",
           "target": "షిప్ రవాణా"
@@ -9137,6 +9233,16 @@
           "key": "_showShipped",
           "source": "Show Shipped",
           "target": "షో రవాణా"
+        },
+        {
+          "key": "_signature",
+          "source": "Signature",
+          "target": "సంతకం"
+        },
+        {
+          "key": "_signHere",
+          "source": "Sign Here",
+          "target": "ఇక్కడ సైన్"
         },
         {
           "key": "_siteEmailProfile",
@@ -9244,6 +9350,11 @@
           "target": "ఆర్డర్ లైన్ బదిలీ"
         },
         {
+          "key": "_transferOrderNumberPolicy",
+          "source": "Transfer Order Number Policy",
+          "target": "ఆర్డర్ సంఖ్య విధానం బదిలీ"
+        },
+        {
           "key": "_transferOrders",
           "source": "Transfer Orders",
           "target": "బదిలీ ఉత్తర్వులు"
@@ -9262,6 +9373,11 @@
           "key": "_transitSite",
           "source": "Transit Site",
           "target": "ట్రాన్సిట్ సైట్"
+        },
+        {
+          "key": "_transitSiteSettings",
+          "source": "Transit Site Settings",
+          "target": "ట్రాన్సిట్ సైట్ సెట్టింగులు"
         },
         {
           "key": "_transType",
@@ -9412,6 +9528,11 @@
           "key": "_workspaceNotSupported",
           "source": "The workspace for this order type is not yet supported.",
           "target": "ఈ క్రమంలో రకం కోసం కార్యస్థలం ఇంకా మద్దతు లేదు."
+        },
+        {
+          "key": "isDefaultTransitSite",
+          "source": "Default Transit Site",
+          "target": "డిఫాల్ట్ ట్రాన్సిట్ సైట్"
         }
       ]
     },
@@ -10130,7 +10251,7 @@
         },
         {
           "key": "_generatingPrivateKey",
-          "source": "A new keypair will be generated for this OAUTH2 client. The public key will be saved in the database with this client. The private key is available as a one-time download. The password for the key store file will be \"notasecret\". Click \"ok\" to open a new tab for downloading the private key",
+          "source": "A new keypair will be generated for this OAUTH2 client. The public key will be saved in the database with this client. The private key is available as a one-time download. The password for the key store file will be \"notasecret\". Click \"ok\" to downloading the private key.",
           "target": "ఒక కొత్త keypair ఈ OAuth2 క్లయింట్ కోసం ఉత్పత్తి అవుతుంది. పబ్లిక్ కీ ఈ క్లయింట్ తో డేటాబేస్ లో భద్రపరచబడుతుంది. ప్రైవేట్ కీ ఒక సమయం దిగుమతి అందుబాటులో ఉంది. కీ స్టోర్ ఫైలు కోసం పాస్వర్డ్ను &quot;notasecret&quot; ఉంటుంది. ప్రైవేట్ కీ డౌన్లోడ్ కోసం తెరవండి &quot;OK&quot; అని క్లిక్ చెయ్యండి"
         },
         {
@@ -10674,6 +10795,11 @@
           "target": "VendorItemNumber"
         },
         {
+          "key": "_vendors",
+          "source": "Vendors",
+          "target": "విక్రేతల"
+        },
+        {
           "key": "_vendorUnit",
           "source": "Vendor Unit",
           "target": "Vendor యూనిట్"
@@ -10742,6 +10868,11 @@
           "key": "_bookings",
           "source": "Bookings",
           "target": "బుకింగ్స్"
+        },
+        {
+          "key": "_bookingsNext30Days",
+          "source": "Bookings Next 30 Days",
+          "target": "బుకింగులు తదుపరి 30 డేస్"
         },
         {
           "key": "_convert",
@@ -10934,6 +11065,11 @@
           "target": "సేల్స్ చరిత్ర"
         },
         {
+          "key": "_salesHistoryLast30Days",
+          "source": "Sales History Last 30 Days",
+          "target": "సేల్స్ చరిత్ర చివరి 30 డేస్"
+        },
+        {
           "key": "_salesOrder",
           "source": "Sales Order",
           "target": "అమ్మకాల ఆర్డర్"
@@ -10977,11 +11113,6 @@
           "key": "_showSaveAndAddbutton",
           "source": "Show 'Save and Add to Packing List' Button on Sales Order",
           "target": "చూపించు &#39;సేవ్ మరియు జాబితా ప్యాకింగ్ చేర్చు&#39; సేల్స్ ఆర్డర్ న బటన్"
-        },
-        {
-          "key": "_staleAnalysisWarning",
-          "source": "Free trial demo analysis data will not be updated from your live changes.",
-          "target": "ఉచిత ట్రయల్ డెమో విశ్లేషణ డేటాను మీ ప్రత్యక్ష మార్పుల చేయబడుతుంది."
         },
         {
           "key": "_termsType",
