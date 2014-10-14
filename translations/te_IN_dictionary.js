@@ -427,7 +427,7 @@
         {
           "key": "_blanketPurchaseOrders",
           "source": "Uses Blanket Purchase Orders",
-          "target": "వస్తువు నిల్వ లేకున్నాకొనుగోలు ఉత్తర్వులు అనుమతించును"
+          "target": "బ్లాంకెట్  Purchase Orders ఉపయోగించు "
         },
         {
           "key": "_body",
