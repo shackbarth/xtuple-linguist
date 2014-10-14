@@ -1700,7 +1700,8 @@
           "target": "హోమ్"
         },
         {
-          "key": "_honorific",
+          "key": "_ho
+rific",
           "source": "Honorific",
           "target": "బిరుదు"
         },
@@ -7377,7 +7378,7 @@
         {
           "key": "_no",
           "source": "No",
-          "target": "సంఖ్య"
+          "target": "కాదు "
         },
         {
           "key": "_noDescription",
