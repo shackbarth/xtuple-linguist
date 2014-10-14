@@ -7,17 +7,17 @@
         {
           "key": "_abbreviation",
           "source": "Abbreviation",
-          "target": "సంక్షిప్త"
+          "target": "సంక్షిప్త రూపం"
         },
         {
           "key": "_abbreviationLong",
           "source": "Abbreviation Long",
-          "target": "సంక్షిప్త లాంగ్"
+          "target": "సంక్షిప్త రూపం"
         },
         {
           "key": "_abbreviationShort",
           "source": "Abbreviation Short",
-          "target": "సంక్షిప్త చిన్న"
+          "target": "సంక్షిప్త రూపం"
         },
         {
           "key": "_above",
@@ -32,7 +32,7 @@
         {
           "key": "_accountExists",
           "source": "This number is currently assigned to an Account.",
-          "target": "ఈ సంఖ్య ప్రస్తుతం ఖాతా కేటాయించిన."
+          "target": "ఈ సంఖ్య ప్రస్తుతం వేరొక ఖాతా కి కేటాయించబడినది."
         },
         {
           "key": "_accounting",
@@ -92,7 +92,7 @@
         {
           "key": "_actualExpensesTotal",
           "source": "Total Expenses Actual",
-          "target": "మొత్తం ఖర్చులు అసలు"
+          "target": "మొత్తం అసలు ఖర్చులు"
         },
         {
           "key": "_actualHours",
@@ -102,7 +102,7 @@
         {
           "key": "_actualHoursTotal",
           "source": "Total Hours Actual",
-          "target": "మొత్తం గంటలు అసలు"
+          "target": "మొత్తం అసలు గంటలు"
         },
         {
           "key": "_additional",
@@ -117,17 +117,17 @@
         {
           "key": "_address1",
           "source": "Address1",
-          "target": "Address1"
+          "target": "చిరునామా1"
         },
         {
           "key": "_address2",
           "source": "Address2",
-          "target": "Address2"
+          "target": "చిరునామా2"
         },
         {
           "key": "_address3",
           "source": "Address3",
-          "target": "Address3"
+          "target": "చిరునామా3"
         },
         {
           "key": "_addressCharacteristic",
@@ -152,17 +152,17 @@
         {
           "key": "_agent",
           "source": "Agent",
-          "target": "ఏజెంట్"
+          "target": "ప్రతినిధి  "
         },
         {
           "key": "_alarms",
           "source": "Alarms",
-          "target": "అలారమ్స్"
+          "target": "తెలియపరుచు సంఘటనలు"
         },
         {
           "key": "_alias",
           "source": "Alias",
-          "target": "ఉరఫ్"
+          "target": "మరొక పేరు"
         },
         {
           "key": "_aliases",
@@ -187,22 +187,22 @@
         {
           "key": "_allocatedCredit",
           "source": "Allocated Credit",
-          "target": "కేటాయించిన క్రెడిట్"
+          "target": "కేటాయించిన డబ్బు"
         },
         {
           "key": "_allowableItems",
           "source": "Allowable Items",
-          "target": "అనుమతించదగిన అంశాలు"
+          "target": "అనుమతించదగిన వస్తువులు"
         },
         {
           "key": "_altEmphasisColor",
           "source": "Alt Emphasis Color",
-          "target": "Alt నొక్కి చెప్పడం రంగు"
+          "target": "Alt ఏమ్ఫసిస్ రంగు"
         },
         {
           "key": "_alternate",
           "source": "Alternate",
-          "target": "వైకల్పిక"
+          "target": "ప్రత్యామ్నాయ"
         },
         {
           "key": "_alternateAddresses",
@@ -216,8 +216,8 @@
         },
         {
           "key": "_alterTransactionDates",
-          "source": "Alter Transartion Dates",
-          "target": "Transartion తేదీలు మార్పు"
+          "source": "Alter Transaction Dates",
+          "target": "Transaction తేదీలు మార్పు"
         },
         {
           "key": "_amEx",
@@ -228,11 +228,6 @@
           "key": "_amount",
           "source": "Amount",
           "target": "మొత్తం"
-        },
-        {
-          "key": "_analysis",
-          "source": "Analysis",
-          "target": "విశ్లేషణ"
         },
         {
           "key": "_and",
@@ -262,12 +257,12 @@
         {
           "key": "_assignDate",
           "source": "Assign Date",
-          "target": "తేదీ అప్పగించుము"
+          "target": "అప్పగించుమ తేదీ"
         },
         {
           "key": "_assigned",
           "source": "Assigned",
-          "target": "అసైన్డ్"
+          "target": "కేటాయించబడినది"
         },
         {
           "key": "_assignedTo",
@@ -282,7 +277,7 @@
         {
           "key": "_attach",
           "source": "Attach",
-          "target": "పంపండి"
+          "target": "జతపరచు"
         },
         {
           "key": "_attention",
@@ -292,7 +287,7 @@
         {
           "key": "_authorize",
           "source": "Authorize",
-          "target": "అధికారంనిచ్చు"
+          "target": "ఆమోదించు"
         },
         {
           "key": "_automatic",
@@ -302,7 +297,7 @@
         {
           "key": "_automaticFreight",
           "source": "Manually clearing the freight will enable automatic Freight recalculations.",
-          "target": "మానవీయంగా సరుకు క్లియర్ ఆటోమేటిక్ ఫ్రైట్ recalculations అనుమతిస్తుంది."
+          "target": "ఫ్రైట్ తొలగించుట, మరల లెక్కించుటని ప్రారంభించును."
         },
         {
           "key": "_automaticOverride",
@@ -322,32 +317,32 @@
         {
           "key": "_balance",
           "source": "Balance",
-          "target": "సంతులనం"
+          "target": "మిగిలిన"
         },
         {
           "key": "_balanceExpenses",
           "source": "Balance Expenses",
-          "target": "సంతులనం ఖర్చులు"
+          "target": "మిగిలిన ఖర్చులు"
         },
         {
           "key": "_balanceExpensesTotal",
           "source": "Balance Expenses Total",
-          "target": "సంతులనం ఖర్చులు మొత్తం"
+          "target": "మిగిలిన ఖర్చులు మొత్తం"
         },
         {
           "key": "_balanceForward",
           "source": "Balance Forward",
-          "target": "సంతులనం ఫార్వర్డ్"
+          "target": "మిగిలిన మొత్తం కొనసాగించు"
         },
         {
           "key": "_balanceHours",
           "source": "Balance Hours",
-          "target": "సంతులనం గంటలు"
+          "target": "మిగిలిన గంటలు"
         },
         {
           "key": "_balanceHoursTotal",
           "source": "Balance Hours Total",
-          "target": "సంతులనం గంటలు మొత్తం"
+          "target": "మొత్తం మిగిలిన గంటలు"
         },
         {
           "key": "_balanceMethod",
@@ -407,7 +402,7 @@
         {
           "key": "_billingRate",
           "source": "Billing Rate",
-          "target": "బిల్లింగ్ రేట్"
+          "target": "బిల్లింగ్ రేటు"
         },
         {
           "key": "_billTo",
@@ -417,7 +412,7 @@
         {
           "key": "_billtoAddress1",
           "source": "Bill To Address",
-          "target": "పరిష్కరించడానికి బిల్"
+          "target": "బిల్ చిరునామా"
         },
         {
           "key": "_billtoName",
@@ -427,17 +422,17 @@
         {
           "key": "_biWeekly",
           "source": "Bi-Weekly",
-          "target": "వారానికి"
+          "target": "రెండు వారములకు ఒకసారి"
         },
         {
           "key": "_blanketPurchaseOrders",
           "source": "Uses Blanket Purchase Orders",
-          "target": "బ్లాంకెట్ కొనుగోలు ఉత్తర్వులు ఉపయోగాలు"
+          "target": "వస్తువు నిల్వ లేకున్నాకొనుగోలు ఉత్తర్వులు అనుమతించును"
         },
         {
           "key": "_body",
           "source": "Body",
-          "target": "శరీరం"
+          "target": "వస్తువు"
         },
         {
           "key": "_boolean",
@@ -477,7 +472,7 @@
         {
           "key": "_byProduct",
           "source": "By Product",
-          "target": "ఉత్పత్తి ద్వారా"
+          "target": "ఉప ఉత్పత్తి"
         },
         {
           "key": "_cancelled",
@@ -512,17 +507,17 @@
         {
           "key": "_changeAll?",
           "source": "Would you like to update the address across them all?",
-          "target": "మీరు వాటిని అంతటా చిరునామా నవీకరించదలిచారా?"
+          "target": "మీరు చిరునామా అన్ని చోట్ల సరిచెయదలిచరా?"
         },
         {
           "key": "_changeLog",
           "source": "Change Log",
-          "target": "లోనికి మార్చండి"
+          "target": "మార్పుల సమాచారం"
         },
         {
           "key": "_characteristic",
           "source": "Characteristic",
-          "target": "స్వాభావికమైన"
+          "target": "లక్షణం"
         },
         {
           "key": "_characteristicOption",
@@ -550,14 +545,14 @@
           "target": "క్లాస్ కోడ్"
         },
         {
-          "key": "_classCodes",
+          "key": "_classCo	des",
           "source": "Class Codes",
           "target": "క్లాస్ కోడ్స్"
         },
         {
           "key": "_close",
           "source": "Close",
-          "target": "దగ్గరగా"
+          "target": "మూసివేయి"
         },
         {
           "key": "_closed",
@@ -567,17 +562,22 @@
         {
           "key": "_closeDate",
           "source": "Close Date",
-          "target": "Close తేదీ"
+          "target": "మూసివేయు తేదీ"
         },
         {
           "key": "_closeLine?",
           "source": "Are you sure you want to close this line?",
-          "target": "మీరు ఈ మూసేయాలని చేయాలనుకుంటున్నారా?"
+          "target": "మీరు ఈ లైన్ ని మూసివేయ్యాలి అనుకుంటున్నారా ?"
         },
         {
           "key": "_code",
           "source": "Code",
           "target": "కోడ్"
+        },
+        {
+          "key": "_commandCenter",
+          "source": "Command Center",
+          "target": "కమాండ్ సెంటర్"
         },
         {
           "key": "_commentsEditable",
@@ -612,12 +612,12 @@
         {
           "key": "_completed",
           "source": "Completed",
-          "target": "పూర్తి"
+          "target": "పూర్తయింది"
         },
         {
           "key": "_completeDate",
           "source": "Complete Date",
-          "target": "పూర్తి తేదీ"
+          "target": "పూర్తిఅగు తేది"
         },
         {
           "key": "_completionActions",
@@ -667,52 +667,52 @@
         {
           "key": "_contact",
           "source": "Contact",
-          "target": "సంప్రదించండి"
+          "target": "సంప్రదించు వ్యక్తి"
         },
         {
           "key": "_contactRelations",
           "source": "Contacts",
-          "target": "కాంటాక్ట్స్"
+          "target": "సంప్రదించు వ్యక్తులు"
         },
         {
           "key": "_contacts",
           "source": "Contacts",
-          "target": "కాంటాక్ట్స్"
+          "target": "సంప్రదించు వ్యక్తులు"
         },
         {
           "key": "_continue?",
           "source": " Do you want to continue?",
-          "target": "మీరు కొనసాగించాలని మీరు అనుకుంటున్నారా?"
+          "target": "మీరు కొనసాగించాలని అనుకుంటున్నారా?"
         },
         {
           "key": "_convertAccount",
           "source": "Convert this Account to a Customer?",
-          "target": "ఒక కస్టమర్ ఈ ఖాతా ఎన్ని?"
+          "target": "ఈ ఖాతా ని కస్టమర్ లా మార్చాలని అనుకుంటున్నారా?"
         },
         {
           "key": "_convertAccountEmployee",
           "source": "Convert this Account to an Employee?",
-          "target": "ఉద్యోగాలు ఈ ఖాతా ఎన్ని?"
+          "target": "ఈ ఖాతా ని ఉద్యోగి లా మార్చాలని అనుకుంటున్నారా?"
         },
         {
           "key": "_convertAccountProspect",
           "source": "Convert this Account to a Prospect?",
-          "target": "ఒక ప్రాస్పెక్ట్ ఈ ఖాతా ఎన్ని?"
+          "target": "ఈ ఖాతా ని ప్రాస్పెక్ట్ లా మార్చాలని అనుకుంటున్నారా?"
         },
         {
           "key": "_convertAccountSalesRep",
           "source": "Convert this Account to a SalesRep?",
-          "target": "ఒక SalesRep ఈ ఖాతా ఎన్ని?"
+          "target": "ఈ ఖాతా ని SalesRep లా మార్చాలని అనుకుంటున్నారా?"
         },
         {
           "key": "_convertAccountTaxAuthority",
           "source": "Convert this Account to a Tax Authority?",
-          "target": "ఒక పన్ను అథారిటీ ఈ ఖాతా ఎన్ని?"
+          "target": "ఈ ఖాతా ని పన్ను అథారిటీ లా మార్చాలని అనుకుంటున్నారా?"
         },
         {
           "key": "_convertProspect",
           "source": "Convert this Prospect to a Customer?",
-          "target": "ఒక కస్టమర్ ఈ ప్రాస్పెక్ట్ ఎన్ని?"
+          "target": "ఈ ప్రాస్పెక్ట్ ని కస్టమర్ లా మార్చాలని అనుకుంటున్నారా?"
         },
         {
           "key": "_coProduct",
@@ -722,22 +722,22 @@
         {
           "key": "_copyCharacteristics?",
           "source": "Would you like to over-write the existing characteristics with the profile for this selection?",
-          "target": "మీరు ఈ ఎంపిక కోసం ప్రొఫైల్తో ఉన్న లక్షణాలు ఎక్కువ వ్రాయండి చేయాలనుకుంటున్నారు?"
+          "target": "మీరు ఈ ఎంపిక కోసం ప్రొఫైల్తో ఉన్న లక్షణాలు తొలగించి రాయాలి అని అనుకుంటున్నారా?"
         },
         {
           "key": "_copyToShipTo",
           "source": "Ship To",
-          "target": "ఓడ"
+          "target": "రవాణా చిరునామా"
         },
         {
           "key": "_copyWorkflow?",
           "source": "Would you like to over-write the existing workflow with the profile for this selection?",
-          "target": "మీరు ఈ ఎంపిక కోసం ప్రొఫైల్తో ఉన్న వర్క్ఫ్లో ఎక్కువ వ్రాయండి చేయాలనుకుంటున్నారు?"
+          "target": "మీరు ఈ ఎంపిక కోసం ప్రొఫైల్తో ఉన్న వర్క్ఫ్లో తొలగించి రాయాలి అని అనుకుంటున్నారా?"
         },
         {
           "key": "_correspondenceContact",
           "source": "Correspondence Contact",
-          "target": "కరస్పాండెన్స్ సంప్రదించండి"
+          "target": "సంప్రదించవలసిన  వ్యక్తి"
         },
         {
           "key": "_costCategories",
@@ -772,12 +772,12 @@
         {
           "key": "_county",
           "source": "County",
-          "target": "కౌంటీ"
+          "target": "దేశం"
         },
         {
           "key": "_createAdjustmentTrans",
           "source": "Create Adjustment Transactions",
-          "target": "అడ్జస్ట్మెంట్ లావాదేవీలు సృష్టించు"
+          "target": "సవరణ లావాదేవీలు సృష్టించు"
         },
         {
           "key": "_createBaseCurr",
@@ -792,7 +792,7 @@
         {
           "key": "_createdBy",
           "source": "Created By",
-          "target": "సృష్టించినవి"
+          "target": "రూపొందించినవారు"
         },
         {
           "key": "_createExpenseTrans",
@@ -817,12 +817,12 @@
         {
           "key": "_createSOForHoldCustomer",
           "source": "Create for Customers on Hold",
-          "target": "ఆన్ హోల్డ్ వినియోగదారులు కోసం సృష్టించు"
+          "target": "ఆన్ హోల్డ్ వినియోగదారులు కోసం అమ్మకానికి ఉత్తర్వులు సృష్టించు"
         },
         {
           "key": "_createSOForWarnCustomer",
           "source": "Create for Customers on Warn",
-          "target": "హెచ్చరించు వినియోగదారులు కోసం సృష్టించు"
+          "target": "రుణ హెచ్చరిక లో ఉన్న వినియోగదారులు కోసం అమ్మకానికి ఉత్తర్వులు సృష్టించు"
         },
         {
           "key": "_credit",
@@ -847,17 +847,17 @@
         {
           "key": "_credited",
           "source": "Credited",
-          "target": "ఘనత"
+          "target": "చెల్లించబడింది"
         },
         {
           "key": "_creditHold",
           "source": "This customer is on credit hold.",
-          "target": "ఈ కస్టమర్ క్రెడిట్ పట్టు ఉంది."
+          "target": "ఈ కస్టమర్ క్రెడిట్ హోల్డ్ లో ఉన్నాడు."
         },
         {
           "key": "_creditHolding",
           "source": "On Credit Holding",
-          "target": "క్రెడిట్ పట్టుకుని"
+          "target": "క్రెడిట్ హోల్డ్"
         },
         {
           "key": "_creditLimit",
@@ -947,7 +947,7 @@
         {
           "key": "_customerExists",
           "source": "A customer with this number already exists.",
-          "target": "ఈ సంఖ్యలో ఒక కస్టమర్ ఇప్పటికే ఉంది."
+          "target": "ఈ సంఖ్యతో ఒక కస్టమర్ ఇప్పటికే ఉంది."
         },
         {
           "key": "_customerGroup",
@@ -962,7 +962,7 @@
         {
           "key": "_customerOrProspect",
           "source": "Would you like to create a new Customer or a new Prospect?",
-          "target": "మీరు ఒక కొత్త కస్టమర్ లేదా ఒక కొత్త ప్రాస్పెక్ట్ సృష్టించదలిచారా?"
+          "target": "మీరు ఒక కొత్త కస్టమర్ లేదా కొత్త ప్రాస్పెక్ట్ సృష్టించదలిచారా?"
         },
         {
           "key": "_customerPartNumber",
@@ -1017,7 +1017,7 @@
         {
           "key": "_data",
           "source": "Data",
-          "target": "డేటా"
+          "target": "సమాచారం"
         },
         {
           "key": "_database",
@@ -1032,7 +1032,7 @@
         {
           "key": "_dataState",
           "source": "Data State",
-          "target": "డేటా రాష్ట్రం"
+          "target": "డేటా స్థితి"
         },
         {
           "key": "_date",
@@ -1047,12 +1047,12 @@
         {
           "key": "_days",
           "source": "Days",
-          "target": "డేస్"
+          "target": "రోజులు"
         },
         {
           "key": "_deactivate",
           "source": "Deactivate",
-          "target": "సోమరిగాచేయు"
+          "target": "Deactivate"
         },
         {
           "key": "_debitMemo",
@@ -1072,12 +1072,12 @@
         {
           "key": "_defaults",
           "source": "Defaults",
-          "target": "లను"
+          "target": "డిఫాల్ట్"
         },
         {
           "key": "_defaultTaxZone",
           "source": "Default Tax Zone",
-          "target": "పన్ను జోన్ డిఫాల్ట్"
+          "target": "డిఫాల్ట్ పన్ను జోన్"
         },
         {
           "key": "_deferred",
@@ -1102,12 +1102,12 @@
         {
           "key": "_deleteItemMasters",
           "source": "Delete Item Masters",
-          "target": "అంశం మాస్టర్స్ తొలగించు"
+          "target": "వస్తువులు తొలగించు"
         },
         {
           "key": "_deleteItemSites",
           "source": "Delete Item Sites",
-          "target": "అంశం సైట్లు తొలగించు"
+          "target": "వస్తువులు సైట్లు తొలగించు"
         },
         {
           "key": "_deleteLine?",
@@ -1117,12 +1117,12 @@
         {
           "key": "_delivery",
           "source": "Delivery",
-          "target": "డెలివరీ"
+          "target": "చేరవేయు"
         },
         {
           "key": "_department",
           "source": "Department",
-          "target": "శాఖ"
+          "target": "విభాగం"
         },
         {
           "key": "_departments",
@@ -1137,27 +1137,27 @@
         {
           "key": "_descending",
           "source": "Descending",
-          "target": "దిగు"
+          "target": "అవరోహణ"
         },
         {
           "key": "_description",
           "source": "Description",
-          "target": "వర్ణన"
+          "target": "వివరణ"
         },
         {
           "key": "_description1",
           "source": "Description1",
-          "target": "Description1"
+          "target": "వివరణ1"
         },
         {
           "key": "_description2",
           "source": "Description2",
-          "target": "Description2"
+          "target": "వివరణ2"
         },
         {
           "key": "_detach",
           "source": "Detach",
-          "target": "నిష్పాక్షికమైన"
+          "target": "వేరుచేయు"
         },
         {
           "key": "_detail",
@@ -1172,22 +1172,22 @@
         {
           "key": "_discount",
           "source": "Discount",
-          "target": "డిస్కౌంట్"
+          "target": "రాయితీ"
         },
         {
           "key": "_discountDate",
           "source": "Discount Date",
-          "target": "డిస్కౌంట్ తేదీ"
+          "target": "రాయితీ తేదీ"
         },
         {
           "key": "_discountDay",
           "source": "Discount Day",
-          "target": "డిస్కౌంట్ డే"
+          "target": "రాయితీ రోజు"
         },
         {
           "key": "_discountDays",
           "source": "Discount Days",
-          "target": "డిస్కౌంట్ డేస్"
+          "target": "రాయితీ రోజులు"
         },
         {
           "key": "_discover",
@@ -1242,7 +1242,7 @@
         {
           "key": "_due",
           "source": "Due",
-          "target": "వలన"
+          "target": "పూర్తి చెయ్యవలసిన"
         },
         {
           "key": "_dueDate",
@@ -1252,22 +1252,22 @@
         {
           "key": "_dueDay",
           "source": "Due Day",
-          "target": "కారణంగా డే"
+          "target": "గడువు రోజు"
         },
         {
           "key": "_dueDays",
           "source": "Due Days",
-          "target": "డేస్ కారణంగా"
+          "target": "గడువు సమయం"
         },
         {
           "key": "_editOthersComments",
           "source": "Edit Others Comments",
-          "target": "ఇతరత్రా వ్యాఖ్యలు సవరించడానికి"
+          "target": "ఇతరుల వ్యాఖ్యలు సవరించును"
         },
         {
           "key": "_editOwnComments",
           "source": "Edit Own Comments",
-          "target": "స్వంత వ్యాఖ్యలు సవరించడానికి"
+          "target": "స్వంత వ్యాఖ్యలు సవరించును"
         },
         {
           "key": "_editOwner",
@@ -1277,12 +1277,12 @@
         {
           "key": "_effective",
           "source": "Effective",
-          "target": "ఎఫెక్టివ్"
+          "target": "అమలు లోకి వచ్చు"
         },
         {
           "key": "_effectiveDate",
           "source": "Effective Date",
-          "target": "ఎఫెక్టివ్ తేదీ"
+          "target": "అమలు లోకి వచ్చు తేదీ"
         },
         {
           "key": "_email",
@@ -1302,7 +1302,7 @@
         {
           "key": "_emphasisColor",
           "source": "Emphasis Color",
-          "target": "దృష్టి రంగు"
+          "target": "Emphasis Color"
         },
         {
           "key": "_employee",
@@ -1312,12 +1312,12 @@
         {
           "key": "_employeeGroup",
           "source": "Employee Group",
-          "target": "Employee గ్రూప్"
+          "target": "ఉద్యోగుల సమూహం "
         },
         {
           "key": "_employeeGroups",
           "source": "Employee Groups",
-          "target": "Employee గుంపులు"
+          "target": "ఉద్యోగుల సమూహాలు"
         },
         {
           "key": "_employees",
@@ -1332,7 +1332,7 @@
         {
           "key": "_endBalance",
           "source": "End Balance",
-          "target": "ఎండ్ సంతులనం"
+          "target": "ముగింపు మొత్తం"
         },
         {
           "key": "_endDate",
@@ -1352,22 +1352,22 @@
         {
           "key": "_enterCountSlips",
           "source": "Enter Count Slips",
-          "target": "కౌంట్ స్లిప్స్ ను ఎంటర్"
+          "target": "కౌంట్ స్లిప్స్ ను సృష్టించు"
         },
         {
           "key": "_enterCountTags",
           "source": "Enter Count Tags",
-          "target": "కౌంట్ టాగ్లు ఎంటర్"
+          "target": "కౌంట్ టాగ్లు సృష్టించు"
         },
         {
           "key": "_enterMiscCounts",
           "source": "Enter Miscellaneous Counts",
-          "target": "ఇతరాలు కౌంట్స్ ఎంటర్"
+          "target": "ఇతరాలు కౌంట్స్ సృష్టించు"
         },
         {
           "key": "_enterNew",
           "source": "Enter New",
-          "target": "న్యూ ఎంటర్"
+          "target": "కొత్తది సృష్టించు"
         },
         {
           "key": "_enterReceipts",
@@ -1377,12 +1377,12 @@
         {
           "key": "_enterReturns",
           "source": "Enter Returns",
-          "target": "రిటర్న్స్ ను ఎంటర్"
+          "target": "రిటర్న్స్ ను సృష్టించు"
         },
         {
           "key": "_enterShippingInformation",
           "source": "Enter Shipping Information",
-          "target": "షిప్పింగ్ ఇన్ఫర్మేషన్ ఎంటర్"
+          "target": "రవాణా సమాచారం నమోదుచేయు"
         },
         {
           "key": "_equals",
@@ -1402,7 +1402,7 @@
         {
           "key": "_errorColor",
           "source": "Error Color",
-          "target": "లోపం రంగు"
+          "target": "లోపం సూచించు రంగు"
         },
         {
           "key": "_eventRecipient",
@@ -1412,7 +1412,7 @@
         {
           "key": "_excludeProspects",
           "source": "Exclude Prospects",
-          "target": "ప్రాస్పెక్టస్ మినహాయించాలని"
+          "target": "ప్రాస్పెక్టస్ మినహాయించు"
         },
         {
           "key": "_exitPageWarning",
@@ -1442,17 +1442,17 @@
         {
           "key": "_expirationDate",
           "source": "Expiration Date",
-          "target": "ముగింపు తేదీ"
+          "target": "గడువు ముగింపు తేదీ"
         },
         {
           "key": "_expired",
           "source": "Expired",
-          "target": "గడువు"
+          "target": "గడువు ముగిసింది"
         },
         {
           "key": "_expireDate",
           "source": "Expire Date",
-          "target": "తేదీ గడువు"
+          "target": "గడువు తేదీ"
         },
         {
           "key": "_expiredColor",
@@ -1467,7 +1467,7 @@
         {
           "key": "_exportContact",
           "source": "Export Contact",
-          "target": "ఎగుమతి సంప్రదించండి"
+          "target": "సంప్రదింపు సమాచారం ఎగుమతి చేయు"
         },
         {
           "key": "_exportVcf",
@@ -1482,17 +1482,22 @@
         {
           "key": "_extendedDescription",
           "source": "Extended Description",
-          "target": "విస్తరించిన వివరణ"
+          "target": "పోడిగించబడిన  వివరణ"
         },
         {
           "key": "_extendedPrice",
           "source": "Extended Price",
-          "target": "విస్తరించిన ధర"
+          "target": "మొత్తం ధర"
         },
         {
           "key": "_extendedPriceScale",
           "source": "Extended Price Scale",
           "target": "విస్తరించిన ధర స్కేల్"
+        },
+        {
+          "key": "_extensionName",
+          "source": "Extension Name",
+          "target": "పొడిగింపు పేరు"
         },
         {
           "key": "_extensions",
@@ -1522,7 +1527,7 @@
         {
           "key": "_file",
           "source": "File",
-          "target": "దస్త్రం"
+          "target": "ఫైలు"
         },
         {
           "key": "_files",
@@ -1567,7 +1572,7 @@
         {
           "key": "_flag",
           "source": "Flag",
-          "target": "జెండా"
+          "target": "Flag"
         },
         {
           "key": "_fob",
@@ -1582,22 +1587,22 @@
         {
           "key": "_fractional",
           "source": "Fractional",
-          "target": "సూక్ష్మమైన"
+          "target": "పాక్షిక"
         },
         {
           "key": "_freeFormBill",
           "source": "Allow Free-Form Bill-To",
-          "target": "ఉచిత-ఫారం బిల్ అనుమతించు"
+          "target": "Bill-to enter చెయ్యడం అనుమతించు"
         },
         {
           "key": "_freeFormShip",
           "source": "Allow Free-Form Ship-Tos",
-          "target": "ఉచిత-ఫారం షిప్-Tos అనుమతించు"
+          "target": "Ship-Tos enter చెయ్యడం అనుమతించు"
         },
         {
           "key": "_freezeInventory",
           "source": "Freeze Inventory",
-          "target": "ఇన్వెంటరీ ఫ్రీజ్"
+          "target": "Inventory స్తంభింపచేయీ "
         },
         {
           "key": "_freight",
@@ -1637,7 +1642,7 @@
         {
           "key": "_futureColor",
           "source": "Future Color",
-          "target": "ఫ్యూచర్ రంగు"
+          "target": "భవిష్యత్తు రంగు"
         },
         {
           "key": "_gateway",
@@ -1652,7 +1657,7 @@
         {
           "key": "_graceDays",
           "source": "Grace Days",
-          "target": "గ్రేస్ డేస్"
+          "target": "అదనపు రోజులు"
         },
         {
           "key": "_grantedPrivileges",
@@ -1667,7 +1672,7 @@
         {
           "key": "_groups",
           "source": "Groups",
-          "target": "గుంపులు"
+          "target": "సమూహాలు"
         },
         {
           "key": "_groupSequence",
@@ -1687,7 +1692,7 @@
         {
           "key": "_holdType",
           "source": "Hold Type",
-          "target": "రకం ఉంచండి"
+          "target": "నిలుపుదల రకం"
         },
         {
           "key": "_home",
@@ -1707,7 +1712,7 @@
         {
           "key": "_hourly",
           "source": "Hourly",
-          "target": "గంట"
+          "target": "గంటకు"
         },
         {
           "key": "_hours",
@@ -1722,7 +1727,7 @@
         {
           "key": "_image",
           "source": "Image",
-          "target": "ప్రతిమ"
+          "target": "చిత్రం"
         },
         {
           "key": "_images",
@@ -1777,7 +1782,7 @@
         {
           "key": "_incidentResolutions",
           "source": "Incident Resolutions",
-          "target": "సంఘటన తీర్మానాలు"
+          "target": "సంఘటన పరిష్కారం"
         },
         {
           "key": "_incidents",
@@ -1787,7 +1792,7 @@
         {
           "key": "_incidentSeverities",
           "source": "Incident Severities",
-          "target": "సంఘటన తీవ్రమైనచేసిన"
+          "target": "సంఘటన తీవ్రత"
         },
         {
           "key": "_incidentSeverity",
@@ -1797,7 +1802,7 @@
         {
           "key": "_incidentStatus",
           "source": "Status",
-          "target": "హోదా"
+          "target": "స్థితి"
         },
         {
           "key": "_incoterms",
@@ -1825,9 +1830,19 @@
           "target": "ప్రక్రియలో"
         },
         {
+          "key": "_installExtension",
+          "source": "Install Extension",
+          "target": "Install Extension"
+        },
+        {
+          "key": "_installExtensionWarning",
+          "source": "Extensions are very powerful and potentially have full access to your data. You should only install an extension from a source you trust. ",
+          "target": "పొడిగింపులు చాలా శక్తివంతమైనవి మరియు మీ డేటా ఫై పూర్తి అనుమతులు కలిగి ఉంటాయి. మీరు విశ్వసించే వనరునుండి పొడిగింపును ఇన్స్టాల్ చేయాలి."
+        },
+        {
           "key": "_insufficientPrivileges",
           "source": "You have insufficient privileges to perform this action.",
-          "target": "మీరీ పని చేయడానికి మీరు తక్కువ అధికారాలను కలిగి."
+          "target": "మీరీ పని చేయడానికి తక్కువ అధికారాలను కలిగి ఉన్నారు."
         },
         {
           "key": "_inventoryHistory",
@@ -1842,27 +1857,27 @@
         {
           "key": "_invoice",
           "source": "Invoice",
-          "target": "వాయిస్"
+          "target": "Invoice"
         },
         {
           "key": "_invoiceDate",
           "source": "Invoice Date",
-          "target": "వాయిస్ తేదీ"
+          "target": "Invoice తేదీ"
         },
         {
           "key": "_invoiceLine",
           "source": "Invoice Line",
-          "target": "వాయిస్ లైన్"
+          "target": "Invoice లైన్"
         },
         {
           "key": "_invoiceNumber",
           "source": "Invoice #",
-          "target": "వాయిస్ #"
+          "target": "Invoice #"
         },
         {
           "key": "_invoices",
           "source": "Invoices",
-          "target": "పట్టీలను"
+          "target": "Invoices"
         },
         {
           "key": "_isActive",
@@ -1912,7 +1927,7 @@
         {
           "key": "_isEvent",
           "source": "Event",
-          "target": "సంఘటన"
+          "target": "Event"
         },
         {
           "key": "_isExclusive",
@@ -1932,17 +1947,17 @@
         {
           "key": "_isInvoices",
           "source": "Invoices",
-          "target": "పట్టీలను"
+          "target": "Invoices"
         },
         {
           "key": "_isItems",
           "source": "Items",
-          "target": "అంశాలు"
+          "target": "వస్తువులు"
         },
         {
           "key": "_isItemWeight",
           "source": "Item Weight",
-          "target": "Item బరువు"
+          "target": "వస్తువు బరువు"
         },
         {
           "key": "_isMessage",
@@ -1952,7 +1967,7 @@
         {
           "key": "_isMiscellaneous",
           "source": "Miscellaneous",
-          "target": "వివిధ"
+          "target": "ఇతరాలు"
         },
         {
           "key": "_isOpportunities",
@@ -1967,7 +1982,7 @@
         {
           "key": "_isPosted",
           "source": "Posted",
-          "target": "తేదీ"
+          "target": "Posted"
         },
         {
           "key": "_isPrinted",
@@ -1987,62 +2002,62 @@
         {
           "key": "_isSold",
           "source": "Sold",
-          "target": "సోల్డ్"
+          "target": "అమ్మగల"
         },
         {
           "key": "_issueItem",
           "source": "Issue Item",
-          "target": "ఇష్యూ అంశం"
+          "target": "వస్తువు పంపిణీ చేయు"
         },
         {
           "key": "_issueStockToShipping",
           "source": "Issue Stock to Shipping",
-          "target": "షిప్పింగ్ స్టాక్ జారీ"
+          "target": "రవాణాకి సరుకు జారీ చెయ్యు"
         },
         {
           "key": "_issueToShipping",
           "source": "Issue to Shipping",
-          "target": "షిప్పింగ్ ఇష్యూ"
+          "target": "రవాణాకి సరుకు జారీ చెయ్యు"
         },
         {
           "key": "_isSystem",
           "source": "System",
-          "target": "వ్యవస్థ"
+          "target": "system"
         },
         {
           "key": "_isUsedByBilling",
           "source": "Used By Billing",
-          "target": "బిల్లింగ్ ద్వారా వాడిన"
+          "target": "బిల్లింగ్ లో వాడిన"
         },
         {
           "key": "_isUsedByPayments",
           "source": "Used By Payments",
-          "target": "చెల్లింపులు ద్వారా వాడిన"
+          "target": "చెల్లింపులు  లో వాడిన"
         },
         {
           "key": "_isVoid",
           "source": "Void",
-          "target": "శూన్యమైన"
+          "target": "రద్దు అయిన"
         },
         {
           "key": "_item",
           "source": "Item",
-          "target": "అంశం"
+          "target": "వస్తువు"
         },
         {
           "key": "_itemConversion",
           "source": "Item Conversion",
-          "target": "అంశం మార్పిడి"
+          "target": "వస్తువు మార్పిడి"
         },
         {
           "key": "_itemDescription",
           "source": "Item Description",
-          "target": "విషయపు వివరణ"
+          "target": "వస్తువు వివరణ"
         },
         {
           "key": "_itemGroup",
           "source": "Item Group",
-          "target": "అంశం గ్రూప్"
+          "target": "వస్తువు గ్రూప్"
         },
         {
           "key": "_itemGroups",
@@ -2052,37 +2067,37 @@
         {
           "key": "_itemNumber",
           "source": "Item Number",
-          "target": "అంశం సంఖ్య"
+          "target": "వస్తువు సంఖ్య"
         },
         {
           "key": "_items",
           "source": "Items",
-          "target": "అంశాలు"
+          "target": "వస్తువులు"
         },
         {
           "key": "_itemSite",
           "source": "Item Site",
-          "target": "అంశం సైట్"
+          "target": "వస్తువు సైట్"
         },
         {
           "key": "_itemSites",
           "source": "Item Sites",
-          "target": "అంశం సైట్లు"
+          "target": "వస్తువు సైట్లు"
         },
         {
           "key": "_itemType",
           "source": "Item Type",
-          "target": "అంశం రకం"
+          "target": "వస్తువు రకం"
         },
         {
           "key": "_itemUnitConversion",
           "source": "Item Unit Conversion",
-          "target": "అంశం యూనిట్ మార్పిడి"
+          "target": "వస్తువు కొలమానం మార్పిడి"
         },
         {
           "key": "_itemUnitType",
           "source": "Item Unit Type",
-          "target": "అంశం యూనిట్ రకం"
+          "target": "వస్తువు కొలమానం రకం"
         },
         {
           "key": "_jobTitle",
@@ -2137,22 +2152,22 @@
         {
           "key": "_line1",
           "source": "Line1",
-          "target": "Line1"
+          "target": "లైన్ 1"
         },
         {
           "key": "_line2",
           "source": "Line2",
-          "target": "Line2"
+          "target": "లైన్ 2"
         },
         {
           "key": "_line3",
           "source": "Line3",
-          "target": "Line3"
+          "target": "లైన్ 3"
         },
         {
           "key": "_lineItems",
           "source": "Line Items",
-          "target": "లైన్ అంశాలు"
+          "target": "లైన్ ఐటమ్స్ "
         },
         {
           "key": "_lineNumber",
@@ -2187,7 +2202,7 @@
         {
           "key": "_location",
           "source": "Location",
-          "target": "నగర"
+          "target": "స్థానం"
         },
         {
           "key": "_login",
@@ -2202,7 +2217,7 @@
         {
           "key": "_lotSerial",
           "source": "Lot/Serial",
-          "target": "చాలా / సీరియల్"
+          "target": "lot / serial"
         },
         {
           "key": "_mainAddress",
@@ -2222,7 +2237,7 @@
         {
           "key": "_maintainAllCRMAccounts",
           "source": "Maintain All Accounts",
-          "target": "అన్ని ఖాతాలను"
+          "target": "అన్ని ఖాతాలను నిర్వహించడానికి"
         },
         {
           "key": "_maintainAllIncidents",
@@ -2257,7 +2272,7 @@
         {
           "key": "_maintainCharacteristics",
           "source": "Maintain Characteristics",
-          "target": "లక్షణాలు నిర్వహించడానికి"
+          "target": "Charateristics నిర్వహించడానికి"
         },
         {
           "key": "_maintainClassCodes",
@@ -2267,12 +2282,12 @@
         {
           "key": "_maintainCommentTypes",
           "source": "Maintain Comment Types",
-          "target": "వ్యాఖ్యను రకాలు నిర్వహించడానికి"
+          "target": " కామెంట్ టైప్స్  నిర్వహించడానికి"
         },
         {
           "key": "_maintainCostCategories",
           "source": "Maintain Cost Categories",
-          "target": "ఖర్చు వర్గం నిర్వహించడానికి"
+          "target": "కాస్ట్ కాటేగోరీస్ నిర్వహించడానికి"
         },
         {
           "key": "_maintainCountries",
@@ -2322,7 +2337,7 @@
         {
           "key": "_maintainExtensions",
           "source": "Maintain Extensions",
-          "target": "పొడిగింపులు నిర్వహించడానికి"
+          "target": "ఎక్స్టెన్షన్   నిర్వహించడానికి"
         },
         {
           "key": "_maintainFreightClasses",
@@ -2442,7 +2457,7 @@
         {
           "key": "_maintainProspectMasters",
           "source": "Maintain Prospect Masters",
-          "target": "ప్రాస్పెక్ట్ మాస్టర్స్ నిర్వహించడానికి"
+          "target": "ప్రాస్పెక్ట్ ఖాతాలు నిర్వహించడానికి"
         },
         {
           "key": "_maintainPurchaseRequests",
@@ -2452,7 +2467,7 @@
         {
           "key": "_maintainQuotes",
           "source": "Maintain Quotes",
-          "target": "వ్యాఖ్యలు నిర్వహించడానికి"
+          "target": "Quotes నిర్వహించడానికి"
         },
         {
           "key": "_maintainReasonCodes",
@@ -2477,17 +2492,17 @@
         {
           "key": "_maintainSaleTypes",
           "source": "Maintain Sale Types",
-          "target": "అమ్మకానికి రకాలు నిర్వహించడానికి"
+          "target": "అమ్మకపు రకాలు నిర్వహించడానికి"
         },
         {
           "key": "_maintainShifts",
           "source": "Maintain Shifts",
-          "target": "మార్పులకు నిర్వహించడానికి"
+          "target": "షిఫ్ట్ నిర్వహించడానికి"
         },
         {
           "key": "_maintainShippingZones",
           "source": "Maintain Ship Zones",
-          "target": "షిప్ మండలాలు నిర్వహించడానికి"
+          "target": "షిప్ జోన్స్  నిర్వహించడానికి"
         },
         {
           "key": "_maintainShipVias",
@@ -2507,7 +2522,7 @@
         {
           "key": "_maintainTaxAssignments",
           "source": "Maintain Tax Assignments",
-          "target": "పన్ను అసైన్ నిర్వహించడానికి"
+          "target": "పన్ను అసైన్మెంట్ నిర్వహించడానికి"
         },
         {
           "key": "_maintainTaxAuthorities",
@@ -2522,7 +2537,7 @@
         {
           "key": "_maintainTaxCodes",
           "source": "MaintainTaxCodes",
-          "target": "MaintainTaxCodes"
+          "target": "టాక్స్ కోడ్స్ నిర్వహించడానికి"
         },
         {
           "key": "_maintainTaxReconciliations",
@@ -2542,7 +2557,7 @@
         {
           "key": "_maintainTaxZones",
           "source": "Maintain Tax Zones",
-          "target": "పన్ను మండలాలు నిర్వహించడానికి"
+          "target": "టాక్స్  జోన్స్  నిర్వహించడానికి"
         },
         {
           "key": "_maintainTerms",
@@ -2557,7 +2572,7 @@
         {
           "key": "_maintainUOMs",
           "source": "Maintain Units of Measure",
-          "target": "యూనిట్స్ ఆఫ్ మెజర్ నిర్వహించడానికి"
+          "target": "కొలమనములు నిర్వహించడానికి"
         },
         {
           "key": "_maintainUsers",
@@ -2582,7 +2597,7 @@
         {
           "key": "_manual",
           "source": "Manual",
-          "target": "చేతితో చేసిన"
+          "target": "Manual"
         },
         {
           "key": "_manualFreight",
@@ -2592,12 +2607,12 @@
         {
           "key": "_manufactured",
           "source": "Manufactured",
-          "target": "తయారు"
+          "target": "తయారైనవి"
         },
         {
           "key": "_manufacturing",
           "source": "Manufacturing",
-          "target": "తయారీ"
+          "target": "తయారుచేయు"
         },
         {
           "key": "_map",
@@ -2607,7 +2622,7 @@
         {
           "key": "_margin",
           "source": "Margin",
-          "target": "అంచు"
+          "target": "లాభం"
         },
         {
           "key": "_markup",
@@ -2652,7 +2667,7 @@
         {
           "key": "_minimumOrderQuantity",
           "source": "Order Minimum",
-          "target": "ఆర్డర్ కనీస"
+          "target": "కనీస ఆర్డర్ "
         },
         {
           "key": "_misc.",
@@ -2677,7 +2692,7 @@
         {
           "key": "_miscellaneous",
           "source": "Miscellaneous",
-          "target": "వివిధ"
+          "target": "Miscellaneous"
         },
         {
           "key": "_module",
@@ -2702,7 +2717,7 @@
         {
           "key": "_multipleOrderQuantity",
           "source": "Order Multiple",
-          "target": "ఆర్డర్ బహుళ"
+          "target": "బహుళఆర్డర్ "
         },
         {
           "key": "_mustRemoveDependentExtensions",
@@ -2712,7 +2727,7 @@
         {
           "key": "_mustSave",
           "source": "You must save your changes before proceeding.",
-          "target": "మీరు చెయ్యాలి మార్పులు సేవ్."
+          "target": "మీరు కొనసాగించుటకై   మీ మార్పులను తప్పనిసరిగా సేవ్ చేయవలెను ."
         },
         {
           "key": "_name",
@@ -2752,32 +2767,32 @@
         {
           "key": "_noAccountName",
           "source": "No Account Name",
-          "target": "నన్ను పేరు"
+          "target": "ఏ ఖాతా పేరు లేదు "
         },
         {
           "key": "_noAddress",
           "source": "No Address",
-          "target": "ఏ చిరునామా"
+          "target": "ఏ చిరునామా లేదు "
         },
         {
           "key": "_noAssignDate",
           "source": "No Assign Date",
-          "target": "ఏ అప్పగించుము తేదీ"
+          "target": "ఏ అప్పగించుము తేదీ లేదు"
         },
         {
           "key": "_noAssignedTo",
           "source": "No Assigned To",
-          "target": "ఏ కేటాయించిన"
+          "target": "ఏ అసైన్డ్ to లేదు "
         },
         {
           "key": "_noCategory",
           "source": "No Category",
-          "target": "ఏ వర్గం"
+          "target": "ఏ వర్గం లేదు"
         },
         {
           "key": "_noChange",
           "source": "No Change",
-          "target": "మార్చు సంఖ్య"
+          "target": "ఏ మార్పు  లేదు"
         },
         {
           "key": "_noCloseTarget",
@@ -2787,127 +2802,127 @@
         {
           "key": "_noCompleteDate",
           "source": "No Complete Date",
-          "target": "ఏ పూర్తి తేదీ"
+          "target": "ఏ పూర్తి తేదీ లేదు"
         },
         {
           "key": "_noContact",
           "source": "No Contact",
-          "target": "ఏ సంప్రదించండి"
+          "target": "ఏ సంప్రదించండి లేదు"
         },
         {
           "key": "_noDepartment",
           "source": "No Department",
-          "target": "ఏ శాఖ"
+          "target": "ఏ శాఖ లేదు"
         },
         {
           "key": "_noDueDate",
           "source": "No Due Date",
-          "target": "గడువు తేదీ"
+          "target": "ఏ గడువు తేదీ లేదు"
         },
         {
           "key": "_noEmail",
           "source": "No Email",
-          "target": "ఈమెయిలు"
+          "target": "ఏ ఈమెయిలు లేదు"
         },
         {
           "key": "_noExpiration",
           "source": "No Expiration",
-          "target": "సంఖ్య ముగింపు"
+          "target": "సంఖ్య ముగింపు లేదు"
         },
         {
           "key": "_noJobTitle",
           "source": "No Job Title",
-          "target": "ఉద్యోగం టైటిల్"
+          "target": "ఏ  ఉద్యోగం టైటిల్ లేదు"
         },
         {
           "key": "_nominal",
           "source": "Nominal",
-          "target": "పేరుకు వుండు"
+          "target": "నామినల్ "
         },
         {
           "key": "_noName",
           "source": "No Name",
-          "target": "పేరు"
+          "target": "ఏ పేరు లేదు"
         },
         {
           "key": "_noNumber",
           "source": "No Number",
-          "target": "ఏ సంఖ్య"
+          "target": "ఏ సంఖ్య లేదు"
         },
         {
           "key": "_noOwner",
           "source": "No Owner",
-          "target": "ఏ యజమాని"
+          "target": "ఏ యజమాని లేదు"
         },
         {
           "key": "_noPhone",
           "source": "No Phone",
-          "target": "ఏ ఫోన్"
+          "target": "ఏ ఫోన్ లేదు"
         },
         {
           "key": "_noPriceFound",
           "source": "This item is marked as exclusive and no qualifying price was found.",
-          "target": "ఈ అంశం ప్రత్యేక గుర్తించబడినది మరియు ఎటువంటి అర్హత ధర కనుగొనబడింది."
+          "target": "ఈ వస్తువు  ప్రత్యేక గుర్తించబడినది మరియు ఎటువంటి అర్హత ధర లబించలేదు ."
         },
         {
           "key": "_noPriority",
           "source": "No Priority",
-          "target": "ఏ ప్రముఖ"
+          "target": "ఏ ప్రముఖ లేదు"
         },
         {
           "key": "_noProject",
           "source": "No Project",
-          "target": "ఏ ప్రాజెక్ట్"
+          "target": "ఏ ప్రాజెక్ట్ లేదు"
         },
         {
           "key": "_noProjectType",
           "source": "No Type",
-          "target": "ఏ రకం"
+          "target": "ఏ రకం లేదు"
         },
         {
           "key": "_noPurchase",
           "source": "This item may not be purchased in this date. Please select another date or item.",
-          "target": "ఈ అంశం ఈ తేదీ లో కొనుగోలు చేయరు. మరొక తేదీ లేదా అంశాన్ని ఎంచుకోండి."
+          "target": "ఈ వస్తువు  ఈ తేదీ లో కొనుగోలు చేయరాదు . మరొక తేదీ లేదా వస్తువు  ఎంచుకోండి."
         },
         {
           "key": "_noPurchaseOrder",
           "source": "No Purchase Order Number",
-          "target": "ఏ కొనుగోలు ఆర్డర్ సంఖ్య"
+          "target": "ఏ కొనుగోలు ఆర్డర్ సంఖ్య లేదు"
         },
         {
           "key": "_noReschedule",
           "source": "No Items can be rescheduled because there are no valid price schedules for the date entered.",
-          "target": "ఎంటర్ చేసిన తేదీ కోసం ఏ చెల్లుబాటు అయ్యే ధర షెడ్యూల్ ఉన్నాయి ఎందుకంటే అంశాలు రీషెడ్యూల్ చేయవచ్చు."
+          "target": "సరిఅయిన ప్రైసింగ్ స్చెదులెస్ లేనందున, ఎటువంటి వస్తువులు రెస్చెదులె చేయబడవు ."
         },
         {
           "key": "_noSalesRep",
           "source": "No Sales Rep",
-          "target": "ఏ సేల్స్ రెప్"
+          "target": "ఏ సేల్స్ రెప్ లేదు"
         },
         {
           "key": "_noSchedule",
           "source": "No Schedule",
-          "target": "ఏ షెడ్యూల్"
+          "target": "ఏ షెడ్యూల్ లేదు"
         },
         {
           "key": "_noSeverity",
           "source": "No Severity",
-          "target": "ఏ తీవ్రత"
+          "target": "ఏ తీవ్రత లేదు"
         },
         {
           "key": "_noStage",
           "source": "No Stage",
-          "target": "ఏ స్టేజ్"
+          "target": "ఏ స్టేజ్ లేదు"
         },
         {
           "key": "_noStartDate",
           "source": "No Start Date",
-          "target": "ప్రారంభ తేదీ"
+          "target": "ప్రారంభ తేదీ లేదు"
         },
         {
           "key": "_noStatus",
           "source": "No Status",
-          "target": "ఏ స్థితి"
+          "target": "ఏ స్థితి లేదు"
         },
         {
           "key": "_notControlled",
@@ -2917,7 +2932,7 @@
         {
           "key": "_noTerms",
           "source": "No Terms",
-          "target": "ఏ నిబంధనలు"
+          "target": "ఏ నిబంధనలు లేదు"
         },
         {
           "key": "_notes",
@@ -2932,12 +2947,12 @@
         {
           "key": "_noType",
           "source": "No Type",
-          "target": "ఏ రకం"
+          "target": "ఏ రకం లేదు"
         },
         {
           "key": "_noUserSelected",
           "source": "No User Selected",
-          "target": "ను వాడుకరి"
+          "target": "ఏ  వాడుకరిని ఎంచుకోలేదు "
         },
         {
           "key": "_number",
@@ -2972,7 +2987,7 @@
         {
           "key": "_openBalance",
           "source": "Open Balance",
-          "target": "ఓపెన్ సంతులనం"
+          "target": "ఓపెన్ బాలన్స్ "
         },
         {
           "key": "_openDate",
@@ -3012,27 +3027,27 @@
         {
           "key": "_opportunitySource",
           "source": "Opportunity Source",
-          "target": "అవకాశం మూల"
+          "target": "అవకాశపు మూలం "
         },
         {
           "key": "_opportunitySources",
           "source": "Opportunity Sources",
-          "target": "అవకాశం సోర్సెస్"
+          "target": "అవకాశపు మూలాలు "
         },
         {
           "key": "_opportunityStage",
           "source": "Opportunity Stage",
-          "target": "అవకాశం స్టేజ్"
+          "target": "అవకాశపు స్టేజ్"
         },
         {
           "key": "_opportunityStages",
           "source": "Opportunity Stages",
-          "target": "అవకాశం దశలు"
+          "target": "అవకాశపు  దశలు"
         },
         {
           "key": "_opportunityType",
           "source": "Opportunity Type",
-          "target": "అవకాశం టైప్"
+          "target": "అవకాశపు  టైప్"
         },
         {
           "key": "_opportunityTypes",
@@ -3057,7 +3072,7 @@
         {
           "key": "_orderCreditHold",
           "source": "This Sales Order is on Credit Hold and must be taken off of Credit Hold before any inventory may be issued to it.",
-          "target": "ఈ సేల్స్ ఆర్డర్ క్రెడిట్ ఆన్ హోల్డ్ మరియు ఏ జాబితా ఇది జారీ చేయవచ్చు ముందు క్రెడిట్ హోల్డ్ ఆఫ్ తీసుకోవాలి."
+          "target": "ఈ సేల్స్ ఆర్డర్ క్రెడిట్ ఆన్ హోల్డ్ లో ఉన్నది, స్టాక్ జారీ చేయుటకు ముందుగ  క్రెడిట్ ఆన్ హోల్డ్ తీయవలెను ."
         },
         {
           "key": "_orderDate",
@@ -3067,7 +3082,7 @@
         {
           "key": "_ordered",
           "source": "Ordered",
-          "target": "క్రమ"
+          "target": "ఆదేశించింది"
         },
         {
           "key": "_orderNotes",
@@ -3082,12 +3097,12 @@
         {
           "key": "_orderPackingHold",
           "source": "This Sales Order is on Packing Hold and must be taken off of Packing Hold before any inventory may be issued to it.",
-          "target": "ఈ సేల్స్ ఆర్డర్ ప్యాకింగ్ ఆన్ హోల్డ్ మరియు ఏ జాబితా ఇది జారీ చేయవచ్చు ముందు ప్యాకింగ్ హోల్డ్ ఆఫ్ తీసుకోవాలి."
+          "target": "ఈ సేల్స్ ఆర్డర్ ప్యాకింగ్ ఆన్ హోల్డ్ లో ఉన్నది, స్టాక్ జారీ చేయుటకు ముందుగ  క్ప్యాకింగ్ ఆన్ హోల్డ్ తీయవలెను ."
         },
         {
           "key": "_orderShippingHold",
           "source": "This Sales Order is on Shipping Hold and must be taken off of Shipping Hold before it may be shipped.",
-          "target": "ఈ సేల్స్ ఆర్డర్ షిప్పింగ్ హోల్డ్ లో ఉంది మరియు ఇది రవాణా ఉండవచ్చు ముందు షిప్పింగ్ హోల్డ్ ఆఫ్ తీసుకోవాలి."
+          "target": "ఈ సేల్స్ ఆర్డర్ షిప్పింగ్ హోల్డ్ లో ఉన్నది, షిప్  చేయుటకు ముందుగ  క్షిప్పింగ్ హోల్డ్ తీయవలెను .."
         },
         {
           "key": "_orderType",
@@ -3152,7 +3167,7 @@
         {
           "key": "_partialReschedule",
           "source": "Some exclusive items may not be rescheduled because there is no valid price schedule for the date entered.",
-          "target": "ఎంటర్ చేసిన తేదీ కోసం ఏ చెల్లుబాటు అయ్యే ధర షెడ్యూల్ లేనందున కొన్ని ప్రత్యేక అంశాలు రీషెడ్యూల్ ఉండకపోవచ్చు."
+          "target": "ఎంటర్ చేసిన తేదీ కోసం ఏ చెల్లుబాటు అయ్యే ధర షెడ్యూల్ లేనందున కొన్ని ప్రత్యేక వస్తువులు  రీషెడ్యూల్ ఉండకపోవచ్చు."
         },
         {
           "key": "_partialShip",
@@ -3187,7 +3202,7 @@
         {
           "key": "_pending",
           "source": "Pending",
-          "target": "పెండింగ్లో"
+          "target": "పెండింగ్"
         },
         {
           "key": "_percent",
@@ -3382,17 +3397,17 @@
         {
           "key": "_prospect",
           "source": "Prospect",
-          "target": "దృశ్యము"
+          "target": "Prospect"
         },
         {
           "key": "_prospectExists",
           "source": "This number is currently assigned to a Prospect.",
-          "target": "ఈ సంఖ్య ప్రస్తుతం ఒక ప్రాస్పెక్ట్ కేటాయించిన."
+          "target": "ఈ సంఖ్య ప్రస్తుతం ఒక ప్రాస్పెక్ట్ కేటాయించబడినది ."
         },
         {
           "key": "_prospects",
           "source": "Prospects",
-          "target": "అవకాశాలు"
+          "target": "Prospects"
         },
         {
           "key": "_proximo",
@@ -3447,12 +3462,12 @@
         {
           "key": "_quantityOrd",
           "source": "Qty Ordered",
-          "target": "అంశాల క్రమ"
+          "target": "ఆర్డర్ చేసిన పరిమాణము "
         },
         {
           "key": "_quantityShip",
           "source": "Qty Shipped",
-          "target": "అంశాల రవాణా"
+          "target": "రవాణా చేసిన పరిమాణం "
         },
         {
           "key": "_quantityUnit",
@@ -4030,6 +4045,11 @@
           "target": "పూర్తికాని"
         },
         {
+          "key": "_success!",
+          "source": "Success!",
+          "target": "సక్సెస్!"
+        },
+        {
           "key": "_successors",
           "source": "Successors",
           "target": "వారసులు"
@@ -4248,6 +4268,11 @@
           "key": "_transactionDate",
           "source": "Transaction Date",
           "target": "లావాదేవీ తేదీ"
+        },
+        {
+          "key": "_transactionKey",
+          "source": "Transaction Key",
+          "target": "లావాదేవీ కీ"
         },
         {
           "key": "_transactionSuccessful",
@@ -6260,6 +6285,11 @@
           "target": "క్రెడిట్ కార్డు రికార్డులు కనుగొనబడలేదు ఈ డబ్బు అందిన పోస్ట్ చేయలేము."
         },
         {
+          "key": "_xtdb_postCCCashReceipt1",
+          "source": "Cannot post this Cash Receipt because annot find the default Bank Account for this Credit Card.",
+          "target": "ANNOT ఈ క్రెడిట్ కార్డ్ కోసం డిఫాల్ట్ బ్యాంక్ ఖాతా కనుగొనేందుకు ఎందుకంటే ఈ నగదు స్వీకరణపై పోస్ట్ చేయలేము."
+        },
+        {
           "key": "_xtdb_postCCCashReceipt11",
           "source": "Cannot post this Cash Receipt because the record of the credit card transaction either does not exist or is not consistent.",
           "target": "క్రెడిట్ కార్డు లావాదేవీల రికార్డ్ ఉనికిలో లేదా స్థిరమైన కాదు కలుస్తున్నారు ఈ డబ్బు అందిన పోస్ట్ చేయలేము."
@@ -8065,6 +8095,11 @@
       "extension": "crm",
       "strings": [
         {
+          "key": "_assignedIncidents",
+          "source": "Assigned Incidents",
+          "target": "అసైన్డ్ ఇన్సిడెంట్స్"
+        },
+        {
           "key": "_crm",
           "source": "CRM",
           "target": "CRM"
@@ -8095,14 +8130,9 @@
           "target": "ఇమెయిల్ ప్రొఫైల్స్ నిర్వహించడానికి"
         },
         {
-          "key": "_openIncidents",
-          "source": "Open Incidents",
-          "target": "ఓపెన్ సంఘటనలు"
-        },
-        {
-          "key": "_staleAnalysisWarning",
-          "source": "Free trial demo analysis data will not be updated from your live changes.",
-          "target": "ఉచిత ట్రయల్ డెమో విశ్లేషణ డేటాను మీ ప్రత్యక్ష మార్పుల చేయబడుతుంది."
+          "key": "_opportunitiesNext30Days",
+          "source": "Opportunities Next 30 Days",
+          "target": "అవకాశాలు వచ్చే 30 డేస్"
         },
         {
           "key": "_viewEmailProfiles",
@@ -8113,7 +8143,18 @@
     },
     {
       "extension": "distribution",
-      "strings": []
+      "strings": [
+        {
+          "key": "_expressCheckout",
+          "source": "Checkout",
+          "target": "చెక్అవుట్"
+        },
+        {
+          "key": "_printInvoice",
+          "source": "Print Invoice",
+          "target": "ప్రింట్ వాయిస్"
+        }
+      ]
     },
     {
       "extension": "inventory",
@@ -8319,6 +8360,11 @@
           "target": "డిఫాల్ట్ సైట్"
         },
         {
+          "key": "_defaultTransitSite",
+          "source": "Default Transit Site",
+          "target": "డిఫాల్ట్ ట్రాన్సిట్ సైట్"
+        },
+        {
           "key": "_deleteChildOrder?",
           "source": "Are you sure you want to delete the existing supply order?",
           "target": "మీరు ఇప్పటికే ఉన్న సరఫరా క్రమంలో తొలగించడానికి నిశ్చయించుకున్నారా?"
@@ -8389,11 +8435,6 @@
           "target": "శ్వాసము విడవడము"
         },
         {
-          "key": "_expressCheckout",
-          "source": "Checkout",
-          "target": "హోటల్ నుంచి బయటకు వెళ్లడం"
-        },
-        {
           "key": "_extCost",
           "source": "Ext Cost",
           "target": "Ext ఖర్చు"
@@ -8432,6 +8473,16 @@
           "key": "_inventoryHistory",
           "source": "Inventory History",
           "target": "ఇన్వెంటరీ చరిత్ర"
+        },
+        {
+          "key": "_inventorySiteSettings",
+          "source": "Inventory Site Settings",
+          "target": "ఇన్వెంటరీ సైట్ సెట్టింగులు"
+        },
+        {
+          "key": "_invoiced",
+          "source": "Invoiced",
+          "target": "ఇన్వాయిస్"
         },
         {
           "key": "_isAutomaticAbcClassUpdates",
@@ -8487,6 +8538,11 @@
           "key": "_isShipped",
           "source": "Shipped",
           "target": "రవాణా"
+        },
+        {
+          "key": "_isShippingSite",
+          "source": "Shipping Site",
+          "target": "షిప్పింగ్ సైట్"
         },
         {
           "key": "_isStocked",
@@ -8554,9 +8610,24 @@
           "target": "యూనిట్"
         },
         {
+          "key": "_isTransitSite",
+          "source": "Transit Site",
+          "target": "ట్రాన్సిట్ సైట్"
+        },
+        {
           "key": "_isUseDefaultLocation",
           "source": "Use Default Location",
           "target": "స్వయంసిద్ద స్థానం ఉపయోగించండి"
+        },
+        {
+          "key": "_isUseSlips",
+          "source": "Force Use Count Slips",
+          "target": "ఫోర్స్ ఉపయోగించండి స్లిప్స్ కౌంట్"
+        },
+        {
+          "key": "_isUseZones",
+          "source": "Force Use Zones",
+          "target": "ఫోర్స్ ఉపయోగించండి మండలాలు"
         },
         {
           "key": "_itemSettings",
@@ -8654,6 +8725,11 @@
           "target": "బహుళ స్థాన కంట్రోల్"
         },
         {
+          "key": "_multipleSites",
+          "source": "Multiple Sites",
+          "target": "బహుళ సైట్ల"
+        },
+        {
           "key": "_multiSite",
           "source": "Multi-Site",
           "target": "మల్టీ సైట్"
@@ -8662,6 +8738,11 @@
           "key": "_nextShipmentNumber",
           "source": "Next Shipment Number",
           "target": "తదుపరి ఎగుమతి సంఖ్య"
+        },
+        {
+          "key": "_nextTransferOrderNumber",
+          "source": "Next Transfer Order Number",
+          "target": "తదుపరి ట్రాన్స్ఫర్ ఆర్డర్ సంఖ్య"
         },
         {
           "key": "_noItem",
@@ -8844,6 +8925,11 @@
           "target": "Loc Default పోస్ట్."
         },
         {
+          "key": "_postTransferOrderChanges",
+          "source": "Post Tranfer Order Changes",
+          "target": "పోస్ట్ బదిలీ చేయాలా ఆర్డర్ మార్పులు"
+        },
+        {
           "key": "_prefix",
           "source": "Prefix",
           "target": "ప్రత్యయము"
@@ -8990,7 +9076,7 @@
         },
         {
           "key": "_reorderExceptions",
-          "source": "Reorder Exceptons",
+          "source": "Reorder Exceptions",
           "target": "క్రమాన్ని మార్చు Exceptons"
         },
         {
@@ -9059,6 +9145,11 @@
           "target": "కొనసాగించే ముందు మీరు మీ పనిని సేవ్ అనుకుంటున్నారా?"
         },
         {
+          "key": "_schedulingSequence",
+          "source": "Scheduling Sequence",
+          "target": "షెడ్యూలింగ్ సీక్వెన్స్"
+        },
+        {
           "key": "_serial",
           "source": "Serial",
           "target": "ధారావాహిక"
@@ -9109,6 +9200,11 @@
           "target": "షిప్పింగ్ స్వీకరించుటకు"
         },
         {
+          "key": "_shippingCommission",
+          "source": "Shipping Commission",
+          "target": "షిప్పింగ్ కమిషన్"
+        },
+        {
           "key": "_shipShipment",
           "source": "Ship Shipment",
           "target": "షిప్ రవాణా"
@@ -9137,6 +9233,16 @@
           "key": "_showShipped",
           "source": "Show Shipped",
           "target": "షో రవాణా"
+        },
+        {
+          "key": "_signature",
+          "source": "Signature",
+          "target": "సంతకం"
+        },
+        {
+          "key": "_signHere",
+          "source": "Sign Here",
+          "target": "ఇక్కడ సైన్"
         },
         {
           "key": "_siteEmailProfile",
@@ -9244,6 +9350,11 @@
           "target": "ఆర్డర్ లైన్ బదిలీ"
         },
         {
+          "key": "_transferOrderNumberPolicy",
+          "source": "Transfer Order Number Policy",
+          "target": "ఆర్డర్ సంఖ్య విధానం బదిలీ"
+        },
+        {
           "key": "_transferOrders",
           "source": "Transfer Orders",
           "target": "బదిలీ ఉత్తర్వులు"
@@ -9262,6 +9373,11 @@
           "key": "_transitSite",
           "source": "Transit Site",
           "target": "ట్రాన్సిట్ సైట్"
+        },
+        {
+          "key": "_transitSiteSettings",
+          "source": "Transit Site Settings",
+          "target": "ట్రాన్సిట్ సైట్ సెట్టింగులు"
         },
         {
           "key": "_transType",
@@ -9412,6 +9528,11 @@
           "key": "_workspaceNotSupported",
           "source": "The workspace for this order type is not yet supported.",
           "target": "ఈ క్రమంలో రకం కోసం కార్యస్థలం ఇంకా మద్దతు లేదు."
+        },
+        {
+          "key": "isDefaultTransitSite",
+          "source": "Default Transit Site",
+          "target": "డిఫాల్ట్ ట్రాన్సిట్ సైట్"
         }
       ]
     },
@@ -10130,7 +10251,7 @@
         },
         {
           "key": "_generatingPrivateKey",
-          "source": "A new keypair will be generated for this OAUTH2 client. The public key will be saved in the database with this client. The private key is available as a one-time download. The password for the key store file will be \"notasecret\". Click \"ok\" to open a new tab for downloading the private key",
+          "source": "A new keypair will be generated for this OAUTH2 client. The public key will be saved in the database with this client. The private key is available as a one-time download. The password for the key store file will be \"notasecret\". Click \"ok\" to downloading the private key.",
           "target": "ఒక కొత్త keypair ఈ OAuth2 క్లయింట్ కోసం ఉత్పత్తి అవుతుంది. పబ్లిక్ కీ ఈ క్లయింట్ తో డేటాబేస్ లో భద్రపరచబడుతుంది. ప్రైవేట్ కీ ఒక సమయం దిగుమతి అందుబాటులో ఉంది. కీ స్టోర్ ఫైలు కోసం పాస్వర్డ్ను &quot;notasecret&quot; ఉంటుంది. ప్రైవేట్ కీ డౌన్లోడ్ కోసం తెరవండి &quot;OK&quot; అని క్లిక్ చెయ్యండి"
         },
         {
@@ -10674,6 +10795,11 @@
           "target": "VendorItemNumber"
         },
         {
+          "key": "_vendors",
+          "source": "Vendors",
+          "target": "విక్రేతల"
+        },
+        {
           "key": "_vendorUnit",
           "source": "Vendor Unit",
           "target": "Vendor యూనిట్"
@@ -10742,6 +10868,11 @@
           "key": "_bookings",
           "source": "Bookings",
           "target": "బుకింగ్స్"
+        },
+        {
+          "key": "_bookingsNext30Days",
+          "source": "Bookings Next 30 Days",
+          "target": "బుకింగులు తదుపరి 30 డేస్"
         },
         {
           "key": "_convert",
@@ -10934,6 +11065,11 @@
           "target": "సేల్స్ చరిత్ర"
         },
         {
+          "key": "_salesHistoryLast30Days",
+          "source": "Sales History Last 30 Days",
+          "target": "సేల్స్ చరిత్ర చివరి 30 డేస్"
+        },
+        {
           "key": "_salesOrder",
           "source": "Sales Order",
           "target": "అమ్మకాల ఆర్డర్"
@@ -10979,11 +11115,6 @@
           "target": "చూపించు &#39;సేవ్ మరియు జాబితా ప్యాకింగ్ చేర్చు&#39; సేల్స్ ఆర్డర్ న బటన్"
         },
         {
-          "key": "_staleAnalysisWarning",
-          "source": "Free trial demo analysis data will not be updated from your live changes.",
-          "target": "ఉచిత ట్రయల్ డెమో విశ్లేషణ డేటాను మీ ప్రత్యక్ష మార్పుల చేయబడుతుంది."
-        },
-        {
           "key": "_termsType",
           "source": "Terms Type",
           "target": "నిబంధనలు టైప్"
@@ -11001,7 +11132,7 @@
         {
           "key": "_thisYear",
           "source": "This Year",
-          "target": "ఈ ఇయర్"
+          "target": "ఈ సంవత్సరం"
         },
         {
           "key": "_timeFrame",
