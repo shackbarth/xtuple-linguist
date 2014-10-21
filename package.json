@@ -1,0 +1,15 @@
+{
+  "author": "xTuple <dev@xtuple.com>",
+  "name": "xtuple-linguist",
+  "description": "The official xTuple translation files",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtuple/xtuple-linguist.git"
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": "0.8.x"
+  }
+}
