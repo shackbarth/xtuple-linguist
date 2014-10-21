@@ -1700,8 +1700,7 @@
           "target": "హోమ్"
         },
         {
-          "key": "_ho
-rific",
+          "key": "_honorific",
           "source": "Honorific",
           "target": "బిరుదు"
         },
@@ -1833,7 +1832,7 @@ rific",
         {
           "key": "_installExtension",
           "source": "Install Extension",
-          "target": "Install Extension"
+          "target": "పొడిగింపు ఇన్స్టాల్"
         },
         {
           "key": "_installExtensionWarning",
